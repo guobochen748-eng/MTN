@@ -27,6 +27,26 @@
 - `nvcc`：当前未在PATH中识别（需按需补充CUDA Toolkit路径）
 - 运行约束：仅使用项目路径下 `.venv`，不使用 conda
 
+### 当前环境快照（2026-03-07，Linux，conda）
+- OS：Linux（bash）
+- conda env：`mtn-py39`
+- Python：`3.9.25`
+- GPU：NVIDIA GeForce RTX 3090（24GB）
+- Driver：`570.211.01`（`nvidia-smi` 显示 CUDA Version: `12.8`）
+- PyTorch：`1.13.1+cu117`（`torch.version.cuda == 11.7`）
+- `torch.cuda.is_available()`：`True`
+- CUDA扩展 import：`gridencoder/freqencoder/raymarching/shencoder` 均可 import
+
+#### gpustat（Linux）
+为保证在 conda env 下可复现，统一用 env 的 python 调用：
+
+```bash
+/home/ubuntu-user/anaconda3/envs/mtn-py39/bin/python -m pip install gpustat==1.1.1
+/home/ubuntu-user/anaconda3/envs/mtn-py39/bin/python -m gpustat
+# 训练过程中每秒刷新一次：
+/home/ubuntu-user/anaconda3/envs/mtn-py39/bin/python -m gpustat -i 1
+```
+
 ### `.venv` 兼容环境重建（Windows，不使用conda）
 - 脚本路径：`scripts/rebuild_venv_windows.ps1`
 - 推荐执行（重建 `.venv` 为 Python 3.10，并安装 PyTorch 1.13.1+cu117）：
@@ -124,32 +144,41 @@ python main.py --workspace trial_perpneg_if_tiger -O --test
 | 2026-03-07 | 阅读需求并制定计划 | 阅读 `xuqiu.md`、`README.md` | 已完成 |
 | 2026-03-07 | 环境确认 | `Python 3.13.5 + torch 2.9.1+cu126 + CUDA可用` | 已完成 |
 | 2026-03-07 | 改为 `.venv` 路线（不用conda） | `powershell -ExecutionPolicy Bypass -File .\scripts\rebuild_venv_windows.ps1 -PyVersion 3.10 -Recreate` | 已完成（`.venv` 已重建为 Python 3.10，旧环境已自动备份） |
+| 2026-03-07 | （Linux）安装 gpustat（conda env: mtn-py39） | `/home/ubuntu-user/anaconda3/envs/mtn-py39/bin/python -m pip install gpustat==1.1.1` | 已完成 |
+| 2026-03-07 | （Linux）运行 gpustat | `/home/ubuntu-user/anaconda3/envs/mtn-py39/bin/python -m gpustat` | 已完成（gpustat 1.1.1） |
 | TBD | CUDA检查 | `nvcc -V` |  |
 | TBD | 安装依赖 | `.\.venv\Scripts\python.exe -m pip install -r requirements.txt --no-build-isolation` |  |
 | TBD | 安装显存监控 | `.\.venv\Scripts\python.exe -m pip install gpustat` |  |
-| TBD | 基线训练 | `python main.py -O --text "a DSLR photo of a tiger dressed as a doctor" --workspace trial_perpneg_if_tiger --iters 6000 --IF --batch_size 1 --perpneg --negative_w -3.0` |  |
-| TBD | 基线测试导出 | `python main.py --workspace trial_perpneg_if_tiger -O --test` |  |
+| 2026-03-07 | IF 基线训练（perpneg, 6000 iters / 60 epochs） | `python main.py -O --text "a DSLR photo of a tiger dressed as a doctor" --workspace trial_perpneg_if_tiger_baseline_6000 --iters 6000 --IF --batch_size 1 --perpneg --negative_w -3.0 --vram_O --num_steps 32 --upsample_steps 16` | 已完成（60/60；评估epoch 50/60；测试导出完成；耗时 75.6801 min） |
+| 2026-03-07 | IF 基线测试导出 | `python main.py --workspace trial_perpneg_if_tiger_baseline_6000 -O --test` | 已完成（保存至 `trial_perpneg_if_tiger_baseline_6000/results`） |
 | TBD | 超参数对比实验 | （填写实际命令） |  |
 
 ## 5. GPU显存记录（`gpustat`）
 
 | 时间戳 | 阶段 | GPU利用率 | 已用显存 | 剩余显存 | 备注 |
 |---|---|---|---|---|---|
-| TBD | 训练前 |  |  |  |  |
-| TBD | 训练+1分钟 |  |  |  |  |
-| TBD | 训练+2分钟 |  |  |  |  |
-| TBD | 训练+3分钟 |  |  |  |  |
-| TBD | 训练中期 |  |  |  |  |
-| TBD | 训练结束 |  |  |  |  |
-| TBD | 测试导出阶段 |  |  |  |  |
+| 2026-03-07 22:13:51 | 训练前（gpustat开始） | 25% | 374 MB | 24202 MB | driver 570.211.01；GPU0: RTX 3090 |
+| 2026-03-07 22:14:51 | 训练+1分钟（采样） | 33% | 372 MB | 24204 MB | 仍在低负载阶段 |
+| 2026-03-07 22:15:51 | 训练+2分钟（采样） | 26% | 390 MB | 24186 MB | 仍在低负载阶段 |
+| 2026-03-07 22:16:51 | 训练+3分钟（采样） | 24% | 397 MB | 24179 MB | 仍在低负载阶段 |
+| 2026-03-07 22:26:54 | 训练中期/高负载（采样） | 100% | 13914 MB | 10662 MB | 温度 81°C；训练进程约 13.6GB |
+| 2026-03-07 23:36:43 | 训练结束（epoch 60/60 完成） | （见训练日志） | GPU=11.2GB（训练日志） |  | 训练日志记录：`Finished Epoch 60/60. CPU=14.3GB, GPU=11.2GB.` |
+| 2026-03-07 23:41:?? | 测试导出阶段（结束） | （见训练日志） | （见训练日志） |  | 测试输出：`trial_perpneg_if_tiger_baseline_6000/results` |
+
+补充：首次跑通 gpustat（记录任务要求信息）
+
+| 时间戳 | 阶段 | GPU利用率 | 已用显存 | 剩余显存 | 备注 |
+|---|---|---|---|---|---|
+| 2026-03-07 19:29 | 环境验证（Linux） | 27% | 364 MB | 24576-364 MB | GPU0：RTX 3090；Driver 570.211.01；进程包含 VS Code 等图形进程 |
 
 ## 6. 输出产物记录
 
 | 产物 | 路径 | 状态 | 备注 |
 |---|---|---|---|
-| 训练日志 | `workspace/logs/...` |  |  |
-| checkpoint | `workspace/checkpoints/...` |  |  |
-| 360视频 | `workspace/results/...` |  |  |
+| 训练日志 | `train_trial_perpneg_if_tiger_baseline_6000.log` | 已生成 | 含epoch进度、eval(50/60)、测试导出与总耗时（75.6801 min） |
+| GPU监控日志（gpustat） | `gpustat_baseline.log` | 已生成 | 训练期间显存与GPU利用率采样依据 |
+| checkpoint | `trial_perpneg_if_tiger_baseline_6000/checkpoints/` | 已生成 | （目录存在；如需可补充文件名列表） |
+| 360视频 / 渲染结果 | `trial_perpneg_if_tiger_baseline_6000/results/` | 已生成 | 训练结束后执行 Test 阶段生成 |
 | mesh（可选） | `workspace/mesh/...` |  |  |
 | 失效截图1 | `assets/failure_1.png` |  |  |
 | 失效截图2 | `assets/failure_2.png` |  |  |
