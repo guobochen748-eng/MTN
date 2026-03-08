@@ -1,0 +1,1496 @@
+[2026-03-08 21:04:08] WS5-3                       Sun Mar  8 21:04:08 2026  570.211.01
+[2026-03-08 21:04:08] [0] NVIDIA GeForce RTX 3090 | 51°C,  32 % |   374 / 24576 MB | ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(152M) ubuntu-user(29M)
+[2026-03-08 21:04:09] WS5-3                       Sun Mar  8 21:04:09 2026  570.211.01
+[2026-03-08 21:04:09] [0] NVIDIA GeForce RTX 3090 | 52°C,  22 % |   374 / 24576 MB | ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(151M) ubuntu-user(29M)
+[2026-03-08 21:04:10] WS5-3                       Sun Mar  8 21:04:10 2026  570.211.01
+[2026-03-08 21:04:10] [0] NVIDIA GeForce RTX 3090 | 52°C,  13 % |   388 / 24576 MB | ubuntu-user(10M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(150M) ubuntu-user(29M)
+[2026-03-08 21:04:11] WS5-3                       Sun Mar  8 21:04:11 2026  570.211.01
+[2026-03-08 21:04:11] [0] NVIDIA GeForce RTX 3090 | 57°C,   5 % |   759 / 24576 MB | ubuntu-user(382M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(149M) ubuntu-user(29M)
+[2026-03-08 21:04:12] WS5-3                       Sun Mar  8 21:04:12 2026  570.211.01
+[2026-03-08 21:04:12] [0] NVIDIA GeForce RTX 3090 | 57°C,   5 % |   761 / 24576 MB | ubuntu-user(382M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(150M) ubuntu-user(29M)
+[2026-03-08 21:04:13] WS5-3                       Sun Mar  8 21:04:13 2026  570.211.01
+[2026-03-08 21:04:13] [0] NVIDIA GeForce RTX 3090 | 59°C,  96 % |  8632 / 24576 MB | ubuntu-user(8252M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(152M) ubuntu-user(29M)
+[2026-03-08 21:04:14] WS5-3                       Sun Mar  8 21:04:14 2026  570.211.01
+[2026-03-08 21:04:14] [0] NVIDIA GeForce RTX 3090 | 61°C,   5 % | 11881 / 24576 MB | ubuntu-user(11512M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(141M) ubuntu-user(29M)
+[2026-03-08 21:04:15] WS5-3                       Sun Mar  8 21:04:15 2026  570.211.01
+[2026-03-08 21:04:15] [0] NVIDIA GeForce RTX 3090 | 60°C,  31 % | 14972 / 24576 MB | ubuntu-user(14604M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(140M) ubuntu-user(29M)
+[2026-03-08 21:04:16] WS5-3                       Sun Mar  8 21:04:16 2026  570.211.01
+[2026-03-08 21:04:16] [0] NVIDIA GeForce RTX 3090 | 61°C,  31 % | 14971 / 24576 MB | ubuntu-user(14604M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(139M) ubuntu-user(29M)
+[2026-03-08 21:04:17] WS5-3                       Sun Mar  8 21:04:17 2026  570.211.01
+[2026-03-08 21:04:17] [0] NVIDIA GeForce RTX 3090 | 59°C,  32 % | 14971 / 24576 MB | ubuntu-user(14604M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(139M) ubuntu-user(29M)
+[2026-03-08 21:04:18] WS5-3                       Sun Mar  8 21:04:18 2026  570.211.01
+[2026-03-08 21:04:18] [0] NVIDIA GeForce RTX 3090 | 59°C,  98 % |  3164 / 24576 MB | ubuntu-user(2804M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(132M) ubuntu-user(29M)
+[2026-03-08 21:04:19] WS5-3                       Sun Mar  8 21:04:19 2026  570.211.01
+[2026-03-08 21:04:19] [0] NVIDIA GeForce RTX 3090 | 61°C,  81 % | 11100 / 24576 MB | ubuntu-user(10714M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:04:20] WS5-3                       Sun Mar  8 21:04:20 2026  570.211.01
+[2026-03-08 21:04:20] [0] NVIDIA GeForce RTX 3090 | 69°C, 100 % | 13704 / 24576 MB | ubuntu-user(13318M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:04:21] WS5-3                       Sun Mar  8 21:04:21 2026  570.211.01
+[2026-03-08 21:04:21] [0] NVIDIA GeForce RTX 3090 | 70°C, 100 % | 13554 / 24576 MB | ubuntu-user(13170M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(156M) ubuntu-user(29M)
+[2026-03-08 21:04:22] WS5-3                       Sun Mar  8 21:04:22 2026  570.211.01
+[2026-03-08 21:04:22] [0] NVIDIA GeForce RTX 3090 | 70°C,  98 % | 12213 / 24576 MB | ubuntu-user(11830M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(155M) ubuntu-user(29M)
+[2026-03-08 21:04:23] WS5-3                       Sun Mar  8 21:04:23 2026  570.211.01
+[2026-03-08 21:04:23] [0] NVIDIA GeForce RTX 3090 | 72°C,  83 % |  9987 / 24576 MB | ubuntu-user(9600M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(155M) ubuntu-user(29M)
+[2026-03-08 21:04:24] WS5-3                       Sun Mar  8 21:04:24 2026  570.211.01
+[2026-03-08 21:04:24] [0] NVIDIA GeForce RTX 3090 | 72°C,  98 % | 12277 / 24576 MB | ubuntu-user(11912M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(137M) ubuntu-user(29M)
+[2026-03-08 21:04:25] WS5-3                       Sun Mar  8 21:04:25 2026  570.211.01
+[2026-03-08 21:04:25] [0] NVIDIA GeForce RTX 3090 | 70°C, 100 % | 10057 / 24576 MB | ubuntu-user(9726M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(103M) ubuntu-user(29M)
+[2026-03-08 21:04:26] WS5-3                       Sun Mar  8 21:04:26 2026  570.211.01
+[2026-03-08 21:04:26] [0] NVIDIA GeForce RTX 3090 | 73°C, 100 % | 13421 / 24576 MB | ubuntu-user(13090M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(103M) ubuntu-user(29M)
+[2026-03-08 21:04:27] WS5-3                       Sun Mar  8 21:04:27 2026  570.211.01
+[2026-03-08 21:04:27] [0] NVIDIA GeForce RTX 3090 | 73°C, 100 % | 12030 / 24576 MB | ubuntu-user(11702M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(99M) ubuntu-user(29M)
+[2026-03-08 21:04:28] WS5-3                       Sun Mar  8 21:04:28 2026  570.211.01
+[2026-03-08 21:04:28] [0] NVIDIA GeForce RTX 3090 | 74°C, 100 % | 12222 / 24576 MB | ubuntu-user(11894M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(99M) ubuntu-user(29M)
+[2026-03-08 21:04:29] WS5-3                       Sun Mar  8 21:04:29 2026  570.211.01
+[2026-03-08 21:04:29] [0] NVIDIA GeForce RTX 3090 | 76°C,  98 % | 12287 / 24576 MB | ubuntu-user(11960M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(99M) ubuntu-user(29M)
+[2026-03-08 21:04:30] WS5-3                       Sun Mar  8 21:04:30 2026  570.211.01
+[2026-03-08 21:04:30] [0] NVIDIA GeForce RTX 3090 | 76°C, 100 % | 10329 / 24576 MB | ubuntu-user(10002M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(99M) ubuntu-user(29M)
+[2026-03-08 21:04:31] WS5-3                       Sun Mar  8 21:04:31 2026  570.211.01
+[2026-03-08 21:04:31] [0] NVIDIA GeForce RTX 3090 | 76°C,  98 % | 12371 / 24576 MB | ubuntu-user(12044M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(99M) ubuntu-user(29M)
+[2026-03-08 21:04:32] WS5-3                       Sun Mar  8 21:04:32 2026  570.211.01
+[2026-03-08 21:04:32] [0] NVIDIA GeForce RTX 3090 | 76°C, 100 % | 12581 / 24576 MB | ubuntu-user(12254M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(99M) ubuntu-user(29M)
+[2026-03-08 21:04:33] WS5-3                       Sun Mar  8 21:04:33 2026  570.211.01
+[2026-03-08 21:04:33] [0] NVIDIA GeForce RTX 3090 | 78°C,  98 % | 12239 / 24576 MB | ubuntu-user(11912M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(99M) ubuntu-user(29M)
+[2026-03-08 21:04:34] WS5-3                       Sun Mar  8 21:04:34 2026  570.211.01
+[2026-03-08 21:04:34] [0] NVIDIA GeForce RTX 3090 | 78°C, 100 % | 13907 / 24576 MB | ubuntu-user(13580M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(99M) ubuntu-user(29M)
+[2026-03-08 21:04:35] WS5-3                       Sun Mar  8 21:04:35 2026  570.211.01
+[2026-03-08 21:04:35] [0] NVIDIA GeForce RTX 3090 | 77°C, 100 % | 10875 / 24576 MB | ubuntu-user(10548M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(99M) ubuntu-user(29M)
+[2026-03-08 21:04:36] WS5-3                       Sun Mar  8 21:04:36 2026  570.211.01
+[2026-03-08 21:04:36] [0] NVIDIA GeForce RTX 3090 | 77°C, 100 % | 13427 / 24576 MB | ubuntu-user(13100M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(99M) ubuntu-user(29M)
+[2026-03-08 21:04:37] WS5-3                       Sun Mar  8 21:04:37 2026  570.211.01
+[2026-03-08 21:04:37] [0] NVIDIA GeForce RTX 3090 | 78°C,  78 % | 12217 / 24576 MB | ubuntu-user(11890M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(99M) ubuntu-user(29M)
+[2026-03-08 21:04:38] WS5-3                       Sun Mar  8 21:04:38 2026  570.211.01
+[2026-03-08 21:04:38] [0] NVIDIA GeForce RTX 3090 | 78°C, 100 % | 10467 / 24576 MB | ubuntu-user(10140M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(99M) ubuntu-user(29M)
+[2026-03-08 21:04:39] WS5-3                       Sun Mar  8 21:04:39 2026  570.211.01
+[2026-03-08 21:04:39] [0] NVIDIA GeForce RTX 3090 | 78°C,  75 % | 10453 / 24576 MB | ubuntu-user(10126M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(99M) ubuntu-user(29M)
+[2026-03-08 21:04:40] WS5-3                       Sun Mar  8 21:04:40 2026  570.211.01
+[2026-03-08 21:04:40] [0] NVIDIA GeForce RTX 3090 | 80°C,  98 % | 11773 / 24576 MB | ubuntu-user(11442M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(102M) ubuntu-user(29M)
+[2026-03-08 21:04:41] WS5-3                       Sun Mar  8 21:04:41 2026  570.211.01
+[2026-03-08 21:04:41] [0] NVIDIA GeForce RTX 3090 | 80°C, 100 % | 12084 / 24576 MB | ubuntu-user(11736M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(120M) ubuntu-user(29M)
+[2026-03-08 21:04:42] WS5-3                       Sun Mar  8 21:04:42 2026  570.211.01
+[2026-03-08 21:04:42] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 11977 / 24576 MB | ubuntu-user(11630M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(119M) ubuntu-user(29M)
+[2026-03-08 21:04:43] WS5-3                       Sun Mar  8 21:04:43 2026  570.211.01
+[2026-03-08 21:04:43] [0] NVIDIA GeForce RTX 3090 | 80°C,  76 % | 10940 / 24576 MB | ubuntu-user(10586M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(126M) ubuntu-user(29M)
+[2026-03-08 21:04:44] WS5-3                       Sun Mar  8 21:04:44 2026  570.211.01
+[2026-03-08 21:04:44] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 11779 / 24576 MB | ubuntu-user(11430M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(125M) ubuntu-user(29M)
+[2026-03-08 21:04:45] WS5-3                       Sun Mar  8 21:04:45 2026  570.211.01
+[2026-03-08 21:04:45] [0] NVIDIA GeForce RTX 3090 | 80°C, 100 % | 10485 / 24576 MB | ubuntu-user(10186M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(127M) ubuntu-user(29M)
+[2026-03-08 21:04:46] WS5-3                       Sun Mar  8 21:04:46 2026  570.211.01
+[2026-03-08 21:04:46] [0] NVIDIA GeForce RTX 3090 | 81°C,  99 % | 12060 / 24576 MB | ubuntu-user(11710M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(122M) ubuntu-user(29M)
+[2026-03-08 21:04:47] WS5-3                       Sun Mar  8 21:04:47 2026  570.211.01
+[2026-03-08 21:04:47] [0] NVIDIA GeForce RTX 3090 | 80°C, 100 % | 11803 / 24576 MB | ubuntu-user(11446M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(129M) ubuntu-user(29M)
+[2026-03-08 21:04:48] WS5-3                       Sun Mar  8 21:04:48 2026  570.211.01
+[2026-03-08 21:04:48] [0] NVIDIA GeForce RTX 3090 | 79°C, 100 % | 11939 / 24576 MB | ubuntu-user(11582M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(129M) ubuntu-user(29M)
+[2026-03-08 21:04:49] WS5-3                       Sun Mar  8 21:04:49 2026  570.211.01
+[2026-03-08 21:04:49] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 10237 / 24576 MB | ubuntu-user(9874M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(135M) ubuntu-user(29M)
+[2026-03-08 21:04:50] WS5-3                       Sun Mar  8 21:04:50 2026  570.211.01
+[2026-03-08 21:04:50] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 12666 / 24576 MB | ubuntu-user(12298M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(140M) ubuntu-user(29M)
+[2026-03-08 21:04:51] WS5-3                       Sun Mar  8 21:04:51 2026  570.211.01
+[2026-03-08 21:04:51] [0] NVIDIA GeForce RTX 3090 | 81°C,  91 % | 10362 / 24576 MB | ubuntu-user(9992M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(142M) ubuntu-user(29M)
+[2026-03-08 21:04:52] WS5-3                       Sun Mar  8 21:04:52 2026  570.211.01
+[2026-03-08 21:04:52] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 13193 / 24576 MB | ubuntu-user(12824M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(140M) ubuntu-user(29M)
+[2026-03-08 21:04:53] WS5-3                       Sun Mar  8 21:04:53 2026  570.211.01
+[2026-03-08 21:04:53] [0] NVIDIA GeForce RTX 3090 | 80°C,  99 % | 13934 / 24576 MB | ubuntu-user(13566M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(140M) ubuntu-user(29M)
+[2026-03-08 21:04:54] WS5-3                       Sun Mar  8 21:04:54 2026  570.211.01
+[2026-03-08 21:04:54] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 12550 / 24576 MB | ubuntu-user(12182M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(140M) ubuntu-user(29M)
+[2026-03-08 21:04:55] WS5-3                       Sun Mar  8 21:04:55 2026  570.211.01
+[2026-03-08 21:04:55] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 12001 / 24576 MB | ubuntu-user(11630M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(143M) ubuntu-user(29M)
+[2026-03-08 21:04:56] WS5-3                       Sun Mar  8 21:04:56 2026  570.211.01
+[2026-03-08 21:04:56] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 10059 / 24576 MB | ubuntu-user(9686M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(145M) ubuntu-user(29M)
+[2026-03-08 21:04:57] WS5-3                       Sun Mar  8 21:04:57 2026  570.211.01
+[2026-03-08 21:04:57] [0] NVIDIA GeForce RTX 3090 | 81°C,  99 % | 14032 / 24576 MB | ubuntu-user(13652M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(151M) ubuntu-user(29M)
+[2026-03-08 21:04:58] WS5-3                       Sun Mar  8 21:04:58 2026  570.211.01
+[2026-03-08 21:04:58] [0] NVIDIA GeForce RTX 3090 | 81°C,  98 % | 13680 / 24576 MB | ubuntu-user(13302M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(150M) ubuntu-user(29M)
+[2026-03-08 21:04:59] WS5-3                       Sun Mar  8 21:04:59 2026  570.211.01
+[2026-03-08 21:04:59] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 13526 / 24576 MB | ubuntu-user(13142M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(156M) ubuntu-user(29M)
+[2026-03-08 21:05:00] WS5-3                       Sun Mar  8 21:05:00 2026  570.211.01
+[2026-03-08 21:05:00] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 10342 / 24576 MB | ubuntu-user(9958M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(155M) ubuntu-user(29M)
+[2026-03-08 21:05:01] WS5-3                       Sun Mar  8 21:05:01 2026  570.211.01
+[2026-03-08 21:05:01] [0] NVIDIA GeForce RTX 3090 | 81°C,  92 % | 12634 / 24576 MB | ubuntu-user(12250M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(156M) ubuntu-user(29M)
+[2026-03-08 21:05:02] WS5-3                       Sun Mar  8 21:05:02 2026  570.211.01
+[2026-03-08 21:05:02] [0] NVIDIA GeForce RTX 3090 | 84°C, 100 % | 11841 / 24576 MB | ubuntu-user(11460M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(155M) ubuntu-user(29M)
+[2026-03-08 21:05:03] WS5-3                       Sun Mar  8 21:05:03 2026  570.211.01
+[2026-03-08 21:05:03] [0] NVIDIA GeForce RTX 3090 | 82°C,  72 % | 11525 / 24576 MB | ubuntu-user(11144M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(153M) ubuntu-user(29M)
+[2026-03-08 21:05:04] WS5-3                       Sun Mar  8 21:05:04 2026  570.211.01
+[2026-03-08 21:05:04] [0] NVIDIA GeForce RTX 3090 | 81°C,  58 % | 17538 / 24576 MB | ubuntu-user(17154M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(155M) ubuntu-user(29M)
+[2026-03-08 21:05:05] WS5-3                       Sun Mar  8 21:05:05 2026  570.211.01
+[2026-03-08 21:05:05] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 19351 / 24576 MB | ubuntu-user(18968M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(155M) ubuntu-user(29M)
+[2026-03-08 21:05:06] WS5-3                       Sun Mar  8 21:05:06 2026  570.211.01
+[2026-03-08 21:05:06] [0] NVIDIA GeForce RTX 3090 | 80°C,  59 % | 19357 / 24576 MB | ubuntu-user(18968M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:05:07] WS5-3                       Sun Mar  8 21:05:07 2026  570.211.01
+[2026-03-08 21:05:07] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19321 / 24576 MB | ubuntu-user(18916M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(177M) ubuntu-user(29M)
+[2026-03-08 21:05:08] WS5-3                       Sun Mar  8 21:05:08 2026  570.211.01
+[2026-03-08 21:05:08] [0] NVIDIA GeForce RTX 3090 | 81°C,  67 % | 23713 / 24576 MB | ubuntu-user(23312M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(173M) ubuntu-user(29M)
+[2026-03-08 21:05:09] WS5-3                       Sun Mar  8 21:05:09 2026  570.211.01
+[2026-03-08 21:05:09] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 21565 / 24576 MB | ubuntu-user(21166M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(171M) ubuntu-user(29M)
+[2026-03-08 21:05:10] WS5-3                       Sun Mar  8 21:05:10 2026  570.211.01
+[2026-03-08 21:05:10] [0] NVIDIA GeForce RTX 3090 | 80°C,  63 % | 23867 / 24576 MB | ubuntu-user(23468M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(170M) ubuntu-user(29M)
+[2026-03-08 21:05:11] WS5-3                       Sun Mar  8 21:05:11 2026  570.211.01
+[2026-03-08 21:05:11] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 18631 / 24576 MB | ubuntu-user(18224M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(179M) ubuntu-user(29M)
+[2026-03-08 21:05:12] WS5-3                       Sun Mar  8 21:05:12 2026  570.211.01
+[2026-03-08 21:05:12] [0] NVIDIA GeForce RTX 3090 | 83°C,  97 % | 16412 / 24576 MB | ubuntu-user(16026M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(157M) ubuntu-user(29M)
+[2026-03-08 21:05:13] WS5-3                       Sun Mar  8 21:05:13 2026  570.211.01
+[2026-03-08 21:05:13] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 18827 / 24576 MB | ubuntu-user(18436M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:05:14] WS5-3                       Sun Mar  8 21:05:14 2026  570.211.01
+[2026-03-08 21:05:14] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 18134 / 24576 MB | ubuntu-user(17744M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:05:15] WS5-3                       Sun Mar  8 21:05:15 2026  570.211.01
+[2026-03-08 21:05:15] [0] NVIDIA GeForce RTX 3090 | 80°C,  70 % | 20714 / 24576 MB | ubuntu-user(20324M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:05:16] WS5-3                       Sun Mar  8 21:05:16 2026  570.211.01
+[2026-03-08 21:05:16] [0] NVIDIA GeForce RTX 3090 | 81°C,  97 % | 20338 / 24576 MB | ubuntu-user(19948M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:05:17] WS5-3                       Sun Mar  8 21:05:17 2026  570.211.01
+[2026-03-08 21:05:17] [0] NVIDIA GeForce RTX 3090 | 81°C,  98 % | 20918 / 24576 MB | ubuntu-user(20528M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:05:18] WS5-3                       Sun Mar  8 21:05:18 2026  570.211.01
+[2026-03-08 21:05:18] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18352 / 24576 MB | ubuntu-user(17962M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:05:19] WS5-3                       Sun Mar  8 21:05:19 2026  570.211.01
+[2026-03-08 21:05:19] [0] NVIDIA GeForce RTX 3090 | 81°C,  60 % | 23032 / 24576 MB | ubuntu-user(22642M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:05:20] WS5-3                       Sun Mar  8 21:05:20 2026  570.211.01
+[2026-03-08 21:05:20] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18924 / 24576 MB | ubuntu-user(18534M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:05:21] WS5-3                       Sun Mar  8 21:05:21 2026  570.211.01
+[2026-03-08 21:05:21] [0] NVIDIA GeForce RTX 3090 | 81°C,  85 % | 16911 / 24576 MB | ubuntu-user(16514M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(169M) ubuntu-user(29M)
+[2026-03-08 21:05:22] WS5-3                       Sun Mar  8 21:05:22 2026  570.211.01
+[2026-03-08 21:05:22] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 19336 / 24576 MB | ubuntu-user(18944M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(164M) ubuntu-user(29M)
+[2026-03-08 21:05:23] WS5-3                       Sun Mar  8 21:05:23 2026  570.211.01
+[2026-03-08 21:05:23] [0] NVIDIA GeForce RTX 3090 | 80°C, 100 % | 16585 / 24576 MB | ubuntu-user(16196M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:05:24] WS5-3                       Sun Mar  8 21:05:24 2026  570.211.01
+[2026-03-08 21:05:24] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 18958 / 24576 MB | ubuntu-user(18570M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(160M) ubuntu-user(29M)
+[2026-03-08 21:05:25] WS5-3                       Sun Mar  8 21:05:25 2026  570.211.01
+[2026-03-08 21:05:25] [0] NVIDIA GeForce RTX 3090 | 83°C,  99 % | 18906 / 24576 MB | ubuntu-user(18518M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(160M) ubuntu-user(29M)
+[2026-03-08 21:05:26] WS5-3                       Sun Mar  8 21:05:26 2026  570.211.01
+[2026-03-08 21:05:26] [0] NVIDIA GeForce RTX 3090 | 81°C,  52 % | 18906 / 24576 MB | ubuntu-user(18518M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(160M) ubuntu-user(29M)
+[2026-03-08 21:05:27] WS5-3                       Sun Mar  8 21:05:27 2026  570.211.01
+[2026-03-08 21:05:27] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18913 / 24576 MB | ubuntu-user(18528M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(157M) ubuntu-user(29M)
+[2026-03-08 21:05:28] WS5-3                       Sun Mar  8 21:05:28 2026  570.211.01
+[2026-03-08 21:05:28] [0] NVIDIA GeForce RTX 3090 | 81°C,  74 % | 16569 / 24576 MB | ubuntu-user(16176M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(165M) ubuntu-user(29M)
+[2026-03-08 21:05:29] WS5-3                       Sun Mar  8 21:05:29 2026  570.211.01
+[2026-03-08 21:05:29] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 18900 / 24576 MB | ubuntu-user(18506M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:05:30] WS5-3                       Sun Mar  8 21:05:30 2026  570.211.01
+[2026-03-08 21:05:30] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18471 / 24576 MB | ubuntu-user(18084M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:05:31] WS5-3                       Sun Mar  8 21:05:31 2026  570.211.01
+[2026-03-08 21:05:31] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 19280 / 24576 MB | ubuntu-user(18894M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:05:32] WS5-3                       Sun Mar  8 21:05:32 2026  570.211.01
+[2026-03-08 21:05:32] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19166 / 24576 MB | ubuntu-user(18772M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:05:33] WS5-3                       Sun Mar  8 21:05:33 2026  570.211.01
+[2026-03-08 21:05:33] [0] NVIDIA GeForce RTX 3090 | 80°C, 100 % | 20232 / 24576 MB | ubuntu-user(19838M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:05:34] WS5-3                       Sun Mar  8 21:05:34 2026  570.211.01
+[2026-03-08 21:05:34] [0] NVIDIA GeForce RTX 3090 | 81°C,  99 % | 19855 / 24576 MB | ubuntu-user(19460M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(167M) ubuntu-user(29M)
+[2026-03-08 21:05:35] WS5-3                       Sun Mar  8 21:05:35 2026  570.211.01
+[2026-03-08 21:05:35] [0] NVIDIA GeForce RTX 3090 | 81°C,  71 % | 21943 / 24576 MB | ubuntu-user(21548M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(167M) ubuntu-user(29M)
+[2026-03-08 21:05:36] WS5-3                       Sun Mar  8 21:05:36 2026  570.211.01
+[2026-03-08 21:05:36] [0] NVIDIA GeForce RTX 3090 | 82°C,  99 % | 20412 / 24576 MB | ubuntu-user(20024M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(160M) ubuntu-user(29M)
+[2026-03-08 21:05:37] WS5-3                       Sun Mar  8 21:05:37 2026  570.211.01
+[2026-03-08 21:05:37] [0] NVIDIA GeForce RTX 3090 | 81°C,  56 % | 23262 / 24576 MB | ubuntu-user(22874M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(160M) ubuntu-user(29M)
+[2026-03-08 21:05:38] WS5-3                       Sun Mar  8 21:05:38 2026  570.211.01
+[2026-03-08 21:05:38] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18735 / 24576 MB | ubuntu-user(18332M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(174M) ubuntu-user(29M)
+[2026-03-08 21:05:39] WS5-3                       Sun Mar  8 21:05:39 2026  570.211.01
+[2026-03-08 21:05:39] [0] NVIDIA GeForce RTX 3090 | 81°C,  49 % | 23069 / 24576 MB | ubuntu-user(22674M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(167M) ubuntu-user(29M)
+[2026-03-08 21:05:40] WS5-3                       Sun Mar  8 21:05:40 2026  570.211.01
+[2026-03-08 21:05:40] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20255 / 24576 MB | ubuntu-user(19860M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(167M) ubuntu-user(29M)
+[2026-03-08 21:05:41] WS5-3                       Sun Mar  8 21:05:41 2026  570.211.01
+[2026-03-08 21:05:41] [0] NVIDIA GeForce RTX 3090 | 80°C,  59 % | 23995 / 24576 MB | ubuntu-user(23594M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(173M) ubuntu-user(29M)
+[2026-03-08 21:05:42] WS5-3                       Sun Mar  8 21:05:42 2026  570.211.01
+[2026-03-08 21:05:42] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 19096 / 24576 MB | ubuntu-user(18688M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(180M) ubuntu-user(29M)
+[2026-03-08 21:05:43] WS5-3                       Sun Mar  8 21:05:43 2026  570.211.01
+[2026-03-08 21:05:43] [0] NVIDIA GeForce RTX 3090 | 81°C,  55 % | 23555 / 24576 MB | ubuntu-user(23150M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(177M) ubuntu-user(29M)
+[2026-03-08 21:05:44] WS5-3                       Sun Mar  8 21:05:44 2026  570.211.01
+[2026-03-08 21:05:44] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19120 / 24576 MB | ubuntu-user(18720M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(171M) ubuntu-user(29M)
+[2026-03-08 21:05:45] WS5-3                       Sun Mar  8 21:05:45 2026  570.211.01
+[2026-03-08 21:05:45] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 16707 / 24576 MB | ubuntu-user(16308M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(171M) ubuntu-user(29M)
+[2026-03-08 21:05:46] WS5-3                       Sun Mar  8 21:05:46 2026  570.211.01
+[2026-03-08 21:05:46] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19101 / 24576 MB | ubuntu-user(18702M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(171M) ubuntu-user(29M)
+[2026-03-08 21:05:47] WS5-3                       Sun Mar  8 21:05:47 2026  570.211.01
+[2026-03-08 21:05:47] [0] NVIDIA GeForce RTX 3090 | 81°C,  80 % | 17888 / 24576 MB | ubuntu-user(17504M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(156M) ubuntu-user(29M)
+[2026-03-08 21:05:48] WS5-3                       Sun Mar  8 21:05:48 2026  570.211.01
+[2026-03-08 21:05:48] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 20551 / 24576 MB | ubuntu-user(20140M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(183M) ubuntu-user(29M)
+[2026-03-08 21:05:49] WS5-3                       Sun Mar  8 21:05:49 2026  570.211.01
+[2026-03-08 21:05:49] [0] NVIDIA GeForce RTX 3090 | 81°C,  68 % | 20791 / 24576 MB | ubuntu-user(19920M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(193M) ubuntu-user(29M)
+[2026-03-08 21:05:50] WS5-3                       Sun Mar  8 21:05:50 2026  570.211.01
+[2026-03-08 21:05:50] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18860 / 24576 MB | ubuntu-user(18450M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(182M) ubuntu-user(29M)
+[2026-03-08 21:05:51] WS5-3                       Sun Mar  8 21:05:51 2026  570.211.01
+[2026-03-08 21:05:51] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 16467 / 24576 MB | ubuntu-user(16058M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(181M) ubuntu-user(29M)
+[2026-03-08 21:05:52] WS5-3                       Sun Mar  8 21:05:52 2026  570.211.01
+[2026-03-08 21:05:52] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18832 / 24576 MB | ubuntu-user(18422M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(182M) ubuntu-user(29M)
+[2026-03-08 21:05:53] WS5-3                       Sun Mar  8 21:05:53 2026  570.211.01
+[2026-03-08 21:05:53] [0] NVIDIA GeForce RTX 3090 | 82°C,  99 % | 18598 / 24576 MB | ubuntu-user(18210M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(160M) ubuntu-user(29M)
+[2026-03-08 21:05:54] WS5-3                       Sun Mar  8 21:05:54 2026  570.211.01
+[2026-03-08 21:05:54] [0] NVIDIA GeForce RTX 3090 | 82°C,  63 % | 22949 / 24576 MB | ubuntu-user(22558M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(163M) ubuntu-user(29M)
+[2026-03-08 21:05:55] WS5-3                       Sun Mar  8 21:05:55 2026  570.211.01
+[2026-03-08 21:05:55] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20221 / 24576 MB | ubuntu-user(19830M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(163M) ubuntu-user(29M)
+[2026-03-08 21:05:56] WS5-3                       Sun Mar  8 21:05:56 2026  570.211.01
+[2026-03-08 21:05:56] [0] NVIDIA GeForce RTX 3090 | 82°C,  60 % | 20217 / 24576 MB | ubuntu-user(19830M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(159M) ubuntu-user(29M)
+[2026-03-08 21:05:57] WS5-3                       Sun Mar  8 21:05:57 2026  570.211.01
+[2026-03-08 21:05:57] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 19814 / 24576 MB | ubuntu-user(19426M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(159M) ubuntu-user(29M)
+[2026-03-08 21:05:58] WS5-3                       Sun Mar  8 21:05:58 2026  570.211.01
+[2026-03-08 21:05:58] [0] NVIDIA GeForce RTX 3090 | 81°C,  58 % | 23485 / 24576 MB | ubuntu-user(23100M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(157M) ubuntu-user(29M)
+[2026-03-08 21:05:59] WS5-3                       Sun Mar  8 21:05:59 2026  570.211.01
+[2026-03-08 21:05:59] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19581 / 24576 MB | ubuntu-user(19174M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(179M) ubuntu-user(29M)
+[2026-03-08 21:06:00] WS5-3                       Sun Mar  8 21:06:00 2026  570.211.01
+[2026-03-08 21:06:00] [0] NVIDIA GeForce RTX 3090 | 81°C,  94 % | 17150 / 24576 MB | ubuntu-user(16732M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(189M) ubuntu-user(29M)
+[2026-03-08 21:06:01] WS5-3                       Sun Mar  8 21:06:01 2026  570.211.01
+[2026-03-08 21:06:01] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19525 / 24576 MB | ubuntu-user(19108M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(189M) ubuntu-user(29M)
+[2026-03-08 21:06:02] WS5-3                       Sun Mar  8 21:06:02 2026  570.211.01
+[2026-03-08 21:06:02] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 17680 / 24576 MB | ubuntu-user(17264M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(188M) ubuntu-user(29M)
+[2026-03-08 21:06:03] WS5-3                       Sun Mar  8 21:06:03 2026  570.211.01
+[2026-03-08 21:06:03] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20286 / 24576 MB | ubuntu-user(19870M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(188M) ubuntu-user(29M)
+[2026-03-08 21:06:04] WS5-3                       Sun Mar  8 21:06:04 2026  570.211.01
+[2026-03-08 21:06:04] [0] NVIDIA GeForce RTX 3090 | 81°C,  94 % | 16627 / 24576 MB | ubuntu-user(16212M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(186M) ubuntu-user(29M)
+[2026-03-08 21:06:05] WS5-3                       Sun Mar  8 21:06:05 2026  570.211.01
+[2026-03-08 21:06:05] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 18999 / 24576 MB | ubuntu-user(18602M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(169M) ubuntu-user(29M)
+[2026-03-08 21:06:06] WS5-3                       Sun Mar  8 21:06:06 2026  570.211.01
+[2026-03-08 21:06:06] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 16842 / 24576 MB | ubuntu-user(16442M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(172M) ubuntu-user(29M)
+[2026-03-08 21:06:07] WS5-3                       Sun Mar  8 21:06:07 2026  570.211.01
+[2026-03-08 21:06:07] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18959 / 24576 MB | ubuntu-user(18556M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(175M) ubuntu-user(29M)
+[2026-03-08 21:06:08] WS5-3                       Sun Mar  8 21:06:08 2026  570.211.01
+[2026-03-08 21:06:08] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18536 / 24576 MB | ubuntu-user(18130M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(178M) ubuntu-user(29M)
+[2026-03-08 21:06:09] WS5-3                       Sun Mar  8 21:06:09 2026  570.211.01
+[2026-03-08 21:06:09] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 21370 / 24576 MB | ubuntu-user(20962M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(180M) ubuntu-user(29M)
+[2026-03-08 21:06:10] WS5-3                       Sun Mar  8 21:06:10 2026  570.211.01
+[2026-03-08 21:06:10] [0] NVIDIA GeForce RTX 3090 | 82°C,  98 % | 16993 / 24576 MB | ubuntu-user(16586M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(179M) ubuntu-user(29M)
+[2026-03-08 21:06:11] WS5-3                       Sun Mar  8 21:06:11 2026  570.211.01
+[2026-03-08 21:06:11] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19373 / 24576 MB | ubuntu-user(18972M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(173M) ubuntu-user(29M)
+[2026-03-08 21:06:12] WS5-3                       Sun Mar  8 21:06:12 2026  570.211.01
+[2026-03-08 21:06:12] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 16446 / 24576 MB | ubuntu-user(16048M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(170M) ubuntu-user(29M)
+[2026-03-08 21:06:13] WS5-3                       Sun Mar  8 21:06:13 2026  570.211.01
+[2026-03-08 21:06:13] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18806 / 24576 MB | ubuntu-user(18408M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(170M) ubuntu-user(29M)
+[2026-03-08 21:06:14] WS5-3                       Sun Mar  8 21:06:14 2026  570.211.01
+[2026-03-08 21:06:14] [0] NVIDIA GeForce RTX 3090 | 79°C, 100 % | 16730 / 24576 MB | ubuntu-user(16346M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(156M) ubuntu-user(29M)
+[2026-03-08 21:06:15] WS5-3                       Sun Mar  8 21:06:15 2026  570.211.01
+[2026-03-08 21:06:15] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19093 / 24576 MB | ubuntu-user(18706M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(159M) ubuntu-user(29M)
+[2026-03-08 21:06:16] WS5-3                       Sun Mar  8 21:06:16 2026  570.211.01
+[2026-03-08 21:06:16] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 16135 / 24576 MB | ubuntu-user(15748M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(159M) ubuntu-user(29M)
+[2026-03-08 21:06:17] WS5-3                       Sun Mar  8 21:06:17 2026  570.211.01
+[2026-03-08 21:06:17] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 18275 / 24576 MB | ubuntu-user(17890M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(157M) ubuntu-user(29M)
+[2026-03-08 21:06:18] WS5-3                       Sun Mar  8 21:06:18 2026  570.211.01
+[2026-03-08 21:06:18] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18443 / 24576 MB | ubuntu-user(18058M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(157M) ubuntu-user(29M)
+[2026-03-08 21:06:19] WS5-3                       Sun Mar  8 21:06:19 2026  570.211.01
+[2026-03-08 21:06:19] [0] NVIDIA GeForce RTX 3090 | 82°C,  97 % | 19542 / 24576 MB | ubuntu-user(19444M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:06:20] WS5-3                       Sun Mar  8 21:06:20 2026  570.211.01
+[2026-03-08 21:06:20] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18412 / 24576 MB | ubuntu-user(18026M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:06:21] WS5-3                       Sun Mar  8 21:06:21 2026  570.211.01
+[2026-03-08 21:06:21] [0] NVIDIA GeForce RTX 3090 | 82°C,  59 % | 23087 / 24576 MB | ubuntu-user(22702M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(157M) ubuntu-user(29M)
+[2026-03-08 21:06:22] WS5-3                       Sun Mar  8 21:06:22 2026  570.211.01
+[2026-03-08 21:06:22] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 19701 / 24576 MB | ubuntu-user(19316M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(157M) ubuntu-user(29M)
+[2026-03-08 21:06:23] WS5-3                       Sun Mar  8 21:06:23 2026  570.211.01
+[2026-03-08 21:06:23] [0] NVIDIA GeForce RTX 3090 | 82°C,  64 % | 23978 / 24576 MB | ubuntu-user(23594M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(156M) ubuntu-user(29M)
+[2026-03-08 21:06:24] WS5-3                       Sun Mar  8 21:06:24 2026  570.211.01
+[2026-03-08 21:06:24] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 20429 / 24576 MB | ubuntu-user(20040M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:06:25] WS5-3                       Sun Mar  8 21:06:25 2026  570.211.01
+[2026-03-08 21:06:25] [0] NVIDIA GeForce RTX 3090 | 82°C,  56 % | 24047 / 24576 MB | ubuntu-user(23658M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:06:26] WS5-3                       Sun Mar  8 21:06:26 2026  570.211.01
+[2026-03-08 21:06:26] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18781 / 24576 MB | ubuntu-user(18396M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(157M) ubuntu-user(29M)
+[2026-03-08 21:06:27] WS5-3                       Sun Mar  8 21:06:27 2026  570.211.01
+[2026-03-08 21:06:27] [0] NVIDIA GeForce RTX 3090 | 81°C,  58 % | 23743 / 24576 MB | ubuntu-user(23336M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(179M) ubuntu-user(29M)
+[2026-03-08 21:06:28] WS5-3                       Sun Mar  8 21:06:28 2026  570.211.01
+[2026-03-08 21:06:28] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 19285 / 24576 MB | ubuntu-user(18876M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(180M) ubuntu-user(29M)
+[2026-03-08 21:06:29] WS5-3                       Sun Mar  8 21:06:29 2026  570.211.01
+[2026-03-08 21:06:29] [0] NVIDIA GeForce RTX 3090 | 82°C,  49 % | 23205 / 24576 MB | ubuntu-user(22802M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(175M) ubuntu-user(29M)
+[2026-03-08 21:06:30] WS5-3                       Sun Mar  8 21:06:30 2026  570.211.01
+[2026-03-08 21:06:30] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18880 / 24576 MB | ubuntu-user(18476M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(175M) ubuntu-user(29M)
+[2026-03-08 21:06:31] WS5-3                       Sun Mar  8 21:06:31 2026  570.211.01
+[2026-03-08 21:06:31] [0] NVIDIA GeForce RTX 3090 | 81°C,  70 % | 20609 / 24576 MB | ubuntu-user(19302M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(173M) ubuntu-user(29M)
+[2026-03-08 21:06:32] WS5-3                       Sun Mar  8 21:06:32 2026  570.211.01
+[2026-03-08 21:06:32] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 19622 / 24576 MB | ubuntu-user(19234M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(160M) ubuntu-user(29M)
+[2026-03-08 21:06:33] WS5-3                       Sun Mar  8 21:06:33 2026  570.211.01
+[2026-03-08 21:06:33] [0] NVIDIA GeForce RTX 3090 | 82°C,  61 % | 19618 / 24576 MB | ubuntu-user(19234M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(156M) ubuntu-user(29M)
+[2026-03-08 21:06:34] WS5-3                       Sun Mar  8 21:06:34 2026  570.211.01
+[2026-03-08 21:06:34] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19615 / 24576 MB | ubuntu-user(19230M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(157M) ubuntu-user(29M)
+[2026-03-08 21:06:35] WS5-3                       Sun Mar  8 21:06:35 2026  570.211.01
+[2026-03-08 21:06:35] [0] NVIDIA GeForce RTX 3090 | 81°C,  60 % | 23333 / 24576 MB | ubuntu-user(22950M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(155M) ubuntu-user(29M)
+[2026-03-08 21:06:36] WS5-3                       Sun Mar  8 21:06:36 2026  570.211.01
+[2026-03-08 21:06:36] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 19058 / 24576 MB | ubuntu-user(18674M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(155M) ubuntu-user(29M)
+[2026-03-08 21:06:37] WS5-3                       Sun Mar  8 21:06:37 2026  570.211.01
+[2026-03-08 21:06:37] [0] NVIDIA GeForce RTX 3090 | 82°C,  55 % | 22115 / 24576 MB | ubuntu-user(21430M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(155M) ubuntu-user(29M)
+[2026-03-08 21:06:38] WS5-3                       Sun Mar  8 21:06:38 2026  570.211.01
+[2026-03-08 21:06:38] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19221 / 24576 MB | ubuntu-user(18838M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(155M) ubuntu-user(29M)
+[2026-03-08 21:06:39] WS5-3                       Sun Mar  8 21:06:39 2026  570.211.01
+[2026-03-08 21:06:39] [0] NVIDIA GeForce RTX 3090 | 84°C, 100 % | 16963 / 24576 MB | ubuntu-user(16580M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(155M) ubuntu-user(29M)
+[2026-03-08 21:06:40] WS5-3                       Sun Mar  8 21:06:40 2026  570.211.01
+[2026-03-08 21:06:40] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19354 / 24576 MB | ubuntu-user(18970M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(156M) ubuntu-user(29M)
+[2026-03-08 21:06:41] WS5-3                       Sun Mar  8 21:06:41 2026  570.211.01
+[2026-03-08 21:06:41] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 16649 / 24576 MB | ubuntu-user(16264M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(157M) ubuntu-user(29M)
+[2026-03-08 21:06:42] WS5-3                       Sun Mar  8 21:06:42 2026  570.211.01
+[2026-03-08 21:06:42] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18777 / 24576 MB | ubuntu-user(18392M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(157M) ubuntu-user(29M)
+[2026-03-08 21:06:43] WS5-3                       Sun Mar  8 21:06:43 2026  570.211.01
+[2026-03-08 21:06:43] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18246 / 24576 MB | ubuntu-user(17858M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(160M) ubuntu-user(29M)
+[2026-03-08 21:06:44] WS5-3                       Sun Mar  8 21:06:44 2026  570.211.01
+[2026-03-08 21:06:44] [0] NVIDIA GeForce RTX 3090 | 81°C,  62 % | 19442 / 24576 MB | ubuntu-user(19050M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(164M) ubuntu-user(29M)
+[2026-03-08 21:06:45] WS5-3                       Sun Mar  8 21:06:45 2026  570.211.01
+[2026-03-08 21:06:45] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18689 / 24576 MB | ubuntu-user(18302M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(159M) ubuntu-user(29M)
+[2026-03-08 21:06:46] WS5-3                       Sun Mar  8 21:06:46 2026  570.211.01
+[2026-03-08 21:06:46] [0] NVIDIA GeForce RTX 3090 | 82°C,  50 % | 23849 / 24576 MB | ubuntu-user(23460M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:06:47] WS5-3                       Sun Mar  8 21:06:47 2026  570.211.01
+[2026-03-08 21:06:47] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19205 / 24576 MB | ubuntu-user(18814M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(163M) ubuntu-user(29M)
+[2026-03-08 21:06:48] WS5-3                       Sun Mar  8 21:06:48 2026  570.211.01
+[2026-03-08 21:06:48] [0] NVIDIA GeForce RTX 3090 | 82°C,  66 % | 23828 / 24576 MB | ubuntu-user(23624M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:06:49] WS5-3                       Sun Mar  8 21:06:49 2026  570.211.01
+[2026-03-08 21:06:49] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20663 / 24576 MB | ubuntu-user(20278M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(157M) ubuntu-user(29M)
+[2026-03-08 21:06:50] WS5-3                       Sun Mar  8 21:06:50 2026  570.211.01
+[2026-03-08 21:06:50] [0] NVIDIA GeForce RTX 3090 | 81°C,  69 % | 23730 / 24576 MB | ubuntu-user(23326M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(176M) ubuntu-user(29M)
+[2026-03-08 21:06:51] WS5-3                       Sun Mar  8 21:06:51 2026  570.211.01
+[2026-03-08 21:06:51] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 21409 / 24576 MB | ubuntu-user(21006M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(175M) ubuntu-user(29M)
+[2026-03-08 21:06:52] WS5-3                       Sun Mar  8 21:06:52 2026  570.211.01
+[2026-03-08 21:06:52] [0] NVIDIA GeForce RTX 3090 | 81°C,  67 % | 21405 / 24576 MB | ubuntu-user(21006M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(171M) ubuntu-user(29M)
+[2026-03-08 21:06:53] WS5-3                       Sun Mar  8 21:06:53 2026  570.211.01
+[2026-03-08 21:06:53] [0] NVIDIA GeForce RTX 3090 | 82°C,  99 % | 21254 / 24576 MB | ubuntu-user(20854M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(172M) ubuntu-user(29M)
+[2026-03-08 21:06:54] WS5-3                       Sun Mar  8 21:06:54 2026  570.211.01
+[2026-03-08 21:06:54] [0] NVIDIA GeForce RTX 3090 | 81°C,  86 % | 21253 / 24576 MB | ubuntu-user(20854M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(171M) ubuntu-user(29M)
+[2026-03-08 21:06:55] WS5-3                       Sun Mar  8 21:06:55 2026  570.211.01
+[2026-03-08 21:06:55] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20876 / 24576 MB | ubuntu-user(20490M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:06:56] WS5-3                       Sun Mar  8 21:06:56 2026  570.211.01
+[2026-03-08 21:06:56] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20876 / 24576 MB | ubuntu-user(20490M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:06:57] WS5-3                       Sun Mar  8 21:06:57 2026  570.211.01
+[2026-03-08 21:06:57] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18244 / 24576 MB | ubuntu-user(17858M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:06:58] WS5-3                       Sun Mar  8 21:06:58 2026  570.211.01
+[2026-03-08 21:06:58] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19030 / 24576 MB | ubuntu-user(18644M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:06:59] WS5-3                       Sun Mar  8 21:06:59 2026  570.211.01
+[2026-03-08 21:06:59] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19444 / 24576 MB | ubuntu-user(19058M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:07:00] WS5-3                       Sun Mar  8 21:07:00 2026  570.211.01
+[2026-03-08 21:07:00] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 20544 / 24576 MB | ubuntu-user(20158M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:07:01] WS5-3                       Sun Mar  8 21:07:01 2026  570.211.01
+[2026-03-08 21:07:01] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18404 / 24576 MB | ubuntu-user(18018M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:07:02] WS5-3                       Sun Mar  8 21:07:02 2026  570.211.01
+[2026-03-08 21:07:02] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19215 / 24576 MB | ubuntu-user(18828M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(159M) ubuntu-user(29M)
+[2026-03-08 21:07:03] WS5-3                       Sun Mar  8 21:07:03 2026  570.211.01
+[2026-03-08 21:07:03] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18565 / 24576 MB | ubuntu-user(18178M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(159M) ubuntu-user(29M)
+[2026-03-08 21:07:04] WS5-3                       Sun Mar  8 21:07:04 2026  570.211.01
+[2026-03-08 21:07:04] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19394 / 24576 MB | ubuntu-user(19008M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:07:05] WS5-3                       Sun Mar  8 21:07:05 2026  570.211.01
+[2026-03-08 21:07:05] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19360 / 24576 MB | ubuntu-user(18974M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:07:06] WS5-3                       Sun Mar  8 21:07:06 2026  570.211.01
+[2026-03-08 21:07:06] [0] NVIDIA GeForce RTX 3090 | 81°C,  76 % | 19616 / 24576 MB | ubuntu-user(19230M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:07:07] WS5-3                       Sun Mar  8 21:07:07 2026  570.211.01
+[2026-03-08 21:07:07] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19331 / 24576 MB | ubuntu-user(18944M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(159M) ubuntu-user(29M)
+[2026-03-08 21:07:08] WS5-3                       Sun Mar  8 21:07:08 2026  570.211.01
+[2026-03-08 21:07:08] [0] NVIDIA GeForce RTX 3090 | 82°C,  64 % | 22434 / 24576 MB | ubuntu-user(22048M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:07:09] WS5-3                       Sun Mar  8 21:07:09 2026  570.211.01
+[2026-03-08 21:07:09] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18082 / 24576 MB | ubuntu-user(17696M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:07:10] WS5-3                       Sun Mar  8 21:07:10 2026  570.211.01
+[2026-03-08 21:07:10] [0] NVIDIA GeForce RTX 3090 | 82°C,  51 % | 23835 / 24576 MB | ubuntu-user(23450M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(157M) ubuntu-user(29M)
+[2026-03-08 21:07:11] WS5-3                       Sun Mar  8 21:07:11 2026  570.211.01
+[2026-03-08 21:07:11] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 20612 / 24576 MB | ubuntu-user(20226M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:07:12] WS5-3                       Sun Mar  8 21:07:12 2026  570.211.01
+[2026-03-08 21:07:12] [0] NVIDIA GeForce RTX 3090 | 82°C,  59 % | 24051 / 24576 MB | ubuntu-user(23666M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(157M) ubuntu-user(29M)
+[2026-03-08 21:07:13] WS5-3                       Sun Mar  8 21:07:13 2026  570.211.01
+[2026-03-08 21:07:13] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18520 / 24576 MB | ubuntu-user(18134M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:07:14] WS5-3                       Sun Mar  8 21:07:14 2026  570.211.01
+[2026-03-08 21:07:14] [0] NVIDIA GeForce RTX 3090 | 82°C,  57 % | 16243 / 24576 MB | ubuntu-user(15858M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(157M) ubuntu-user(29M)
+[2026-03-08 21:07:15] WS5-3                       Sun Mar  8 21:07:15 2026  570.211.01
+[2026-03-08 21:07:15] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18550 / 24576 MB | ubuntu-user(18164M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:07:16] WS5-3                       Sun Mar  8 21:07:16 2026  570.211.01
+[2026-03-08 21:07:16] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 16356 / 24576 MB | ubuntu-user(15970M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:07:17] WS5-3                       Sun Mar  8 21:07:17 2026  570.211.01
+[2026-03-08 21:07:17] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18716 / 24576 MB | ubuntu-user(18330M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:07:18] WS5-3                       Sun Mar  8 21:07:18 2026  570.211.01
+[2026-03-08 21:07:18] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 17407 / 24576 MB | ubuntu-user(17020M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(159M) ubuntu-user(29M)
+[2026-03-08 21:07:19] WS5-3                       Sun Mar  8 21:07:19 2026  570.211.01
+[2026-03-08 21:07:19] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19631 / 24576 MB | ubuntu-user(19244M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:07:20] WS5-3                       Sun Mar  8 21:07:20 2026  570.211.01
+[2026-03-08 21:07:20] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18266 / 24576 MB | ubuntu-user(17880M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:07:21] WS5-3                       Sun Mar  8 21:07:21 2026  570.211.01
+[2026-03-08 21:07:21] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19046 / 24576 MB | ubuntu-user(18660M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:07:22] WS5-3                       Sun Mar  8 21:07:22 2026  570.211.01
+[2026-03-08 21:07:22] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18348 / 24576 MB | ubuntu-user(17962M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:07:23] WS5-3                       Sun Mar  8 21:07:23 2026  570.211.01
+[2026-03-08 21:07:23] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 19138 / 24576 MB | ubuntu-user(18752M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:07:24] WS5-3                       Sun Mar  8 21:07:24 2026  570.211.01
+[2026-03-08 21:07:24] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19434 / 24576 MB | ubuntu-user(19048M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:07:25] WS5-3                       Sun Mar  8 21:07:25 2026  570.211.01
+[2026-03-08 21:07:25] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 19434 / 24576 MB | ubuntu-user(19048M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:07:26] WS5-3                       Sun Mar  8 21:07:26 2026  570.211.01
+[2026-03-08 21:07:26] [0] NVIDIA GeForce RTX 3090 | 80°C, 100 % | 18536 / 24576 MB | ubuntu-user(18150M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:07:27] WS5-3                       Sun Mar  8 21:07:27 2026  570.211.01
+[2026-03-08 21:07:27] [0] NVIDIA GeForce RTX 3090 | 84°C, 100 % | 21372 / 24576 MB | ubuntu-user(20986M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:07:28] WS5-3                       Sun Mar  8 21:07:28 2026  570.211.01
+[2026-03-08 21:07:28] [0] NVIDIA GeForce RTX 3090 | 82°C,  69 % | 23918 / 24576 MB | ubuntu-user(23532M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:07:29] WS5-3                       Sun Mar  8 21:07:29 2026  570.211.01
+[2026-03-08 21:07:29] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18743 / 24576 MB | ubuntu-user(18356M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:07:30] WS5-3                       Sun Mar  8 21:07:30 2026  570.211.01
+[2026-03-08 21:07:30] [0] NVIDIA GeForce RTX 3090 | 82°C,  61 % | 16334 / 24576 MB | ubuntu-user(15948M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(157M) ubuntu-user(29M)
+[2026-03-08 21:07:31] WS5-3                       Sun Mar  8 21:07:31 2026  570.211.01
+[2026-03-08 21:07:31] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18654 / 24576 MB | ubuntu-user(18268M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:07:32] WS5-3                       Sun Mar  8 21:07:32 2026  570.211.01
+[2026-03-08 21:07:32] [0] NVIDIA GeForce RTX 3090 | 80°C,  94 % | 24030 / 24576 MB | ubuntu-user(23584M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:07:33] WS5-3                       Sun Mar  8 21:07:33 2026  570.211.01
+[2026-03-08 21:07:33] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 21626 / 24576 MB | ubuntu-user(21240M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:07:34] WS5-3                       Sun Mar  8 21:07:34 2026  570.211.01
+[2026-03-08 21:07:34] [0] NVIDIA GeForce RTX 3090 | 81°C,  73 % | 22531 / 24576 MB | ubuntu-user(22146M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(157M) ubuntu-user(29M)
+[2026-03-08 21:07:35] WS5-3                       Sun Mar  8 21:07:35 2026  570.211.01
+[2026-03-08 21:07:35] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 19416 / 24576 MB | ubuntu-user(19030M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:07:36] WS5-3                       Sun Mar  8 21:07:36 2026  570.211.01
+[2026-03-08 21:07:36] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20506 / 24576 MB | ubuntu-user(20120M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:07:37] WS5-3                       Sun Mar  8 21:07:37 2026  570.211.01
+[2026-03-08 21:07:37] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18216 / 24576 MB | ubuntu-user(17830M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:07:38] WS5-3                       Sun Mar  8 21:07:38 2026  570.211.01
+[2026-03-08 21:07:38] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 20695 / 24576 MB | ubuntu-user(20316M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(159M) ubuntu-user(22M)
+[2026-03-08 21:07:39] WS5-3                       Sun Mar  8 21:07:39 2026  570.211.01
+[2026-03-08 21:07:39] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 16770 / 24576 MB | ubuntu-user(16360M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(173M) ubuntu-user(38M)
+[2026-03-08 21:07:40] WS5-3                       Sun Mar  8 21:07:40 2026  570.211.01
+[2026-03-08 21:07:40] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19129 / 24576 MB | ubuntu-user(18720M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(173M) ubuntu-user(37M)
+[2026-03-08 21:07:41] WS5-3                       Sun Mar  8 21:07:41 2026  570.211.01
+[2026-03-08 21:07:41] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 16943 / 24576 MB | ubuntu-user(16536M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(171M) ubuntu-user(37M)
+[2026-03-08 21:07:42] WS5-3                       Sun Mar  8 21:07:42 2026  570.211.01
+[2026-03-08 21:07:42] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19096 / 24576 MB | ubuntu-user(18690M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(170M) ubuntu-user(36M)
+[2026-03-08 21:07:43] WS5-3                       Sun Mar  8 21:07:43 2026  570.211.01
+[2026-03-08 21:07:43] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 16905 / 24576 MB | ubuntu-user(16496M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(172M) ubuntu-user(37M)
+[2026-03-08 21:07:44] WS5-3                       Sun Mar  8 21:07:44 2026  570.211.01
+[2026-03-08 21:07:44] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19063 / 24576 MB | ubuntu-user(18654M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(172M) ubuntu-user(37M)
+[2026-03-08 21:07:45] WS5-3                       Sun Mar  8 21:07:45 2026  570.211.01
+[2026-03-08 21:07:45] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18325 / 24576 MB | ubuntu-user(17918M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(175M) ubuntu-user(33M)
+[2026-03-08 21:07:46] WS5-3                       Sun Mar  8 21:07:46 2026  570.211.01
+[2026-03-08 21:07:46] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19121 / 24576 MB | ubuntu-user(18714M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(174M) ubuntu-user(33M)
+[2026-03-08 21:07:47] WS5-3                       Sun Mar  8 21:07:47 2026  570.211.01
+[2026-03-08 21:07:47] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18550 / 24576 MB | ubuntu-user(18146M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(172M) ubuntu-user(33M)
+[2026-03-08 21:07:48] WS5-3                       Sun Mar  8 21:07:48 2026  570.211.01
+[2026-03-08 21:07:48] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19368 / 24576 MB | ubuntu-user(18976M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(164M) ubuntu-user(29M)
+[2026-03-08 21:07:49] WS5-3                       Sun Mar  8 21:07:49 2026  570.211.01
+[2026-03-08 21:07:49] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18532 / 24576 MB | ubuntu-user(18136M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(167M) ubuntu-user(29M)
+[2026-03-08 21:07:50] WS5-3                       Sun Mar  8 21:07:50 2026  570.211.01
+[2026-03-08 21:07:50] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19338 / 24576 MB | ubuntu-user(18942M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(167M) ubuntu-user(29M)
+[2026-03-08 21:07:51] WS5-3                       Sun Mar  8 21:07:51 2026  570.211.01
+[2026-03-08 21:07:51] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19695 / 24576 MB | ubuntu-user(19300M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(167M) ubuntu-user(29M)
+[2026-03-08 21:07:52] WS5-3                       Sun Mar  8 21:07:52 2026  570.211.01
+[2026-03-08 21:07:52] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 20832 / 24576 MB | ubuntu-user(20438M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:07:53] WS5-3                       Sun Mar  8 21:07:53 2026  570.211.01
+[2026-03-08 21:07:53] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 17806 / 24576 MB | ubuntu-user(17412M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:07:54] WS5-3                       Sun Mar  8 21:07:54 2026  570.211.01
+[2026-03-08 21:07:54] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20411 / 24576 MB | ubuntu-user(20014M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(169M) ubuntu-user(29M)
+[2026-03-08 21:07:55] WS5-3                       Sun Mar  8 21:07:55 2026  570.211.01
+[2026-03-08 21:07:55] [0] NVIDIA GeForce RTX 3090 | 82°C,  82 % | 16603 / 24576 MB | ubuntu-user(16204M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(168M) ubuntu-user(29M)
+[2026-03-08 21:07:56] WS5-3                       Sun Mar  8 21:07:56 2026  570.211.01
+[2026-03-08 21:07:56] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19152 / 24576 MB | ubuntu-user(18748M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(176M) ubuntu-user(29M)
+[2026-03-08 21:07:57] WS5-3                       Sun Mar  8 21:07:57 2026  570.211.01
+[2026-03-08 21:07:57] [0] NVIDIA GeForce RTX 3090 | 82°C,  82 % | 17315 / 24576 MB | ubuntu-user(16914M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(175M) ubuntu-user(29M)
+[2026-03-08 21:07:58] WS5-3                       Sun Mar  8 21:07:58 2026  570.211.01
+[2026-03-08 21:07:58] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 19761 / 24576 MB | ubuntu-user(19360M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(172M) ubuntu-user(29M)
+[2026-03-08 21:07:59] WS5-3                       Sun Mar  8 21:07:59 2026  570.211.01
+[2026-03-08 21:07:59] [0] NVIDIA GeForce RTX 3090 | 81°C,  59 % | 23457 / 24576 MB | ubuntu-user(23356M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(169M) ubuntu-user(29M)
+[2026-03-08 21:08:00] WS5-3                       Sun Mar  8 21:08:00 2026  570.211.01
+[2026-03-08 21:08:00] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18603 / 24576 MB | ubuntu-user(18206M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(169M) ubuntu-user(29M)
+[2026-03-08 21:08:01] WS5-3                       Sun Mar  8 21:08:01 2026  570.211.01
+[2026-03-08 21:08:01] [0] NVIDIA GeForce RTX 3090 | 82°C,  61 % | 23363 / 24576 MB | ubuntu-user(22982M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(153M) ubuntu-user(29M)
+[2026-03-08 21:08:02] WS5-3                       Sun Mar  8 21:08:02 2026  570.211.01
+[2026-03-08 21:08:02] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 19123 / 24576 MB | ubuntu-user(18742M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(153M) ubuntu-user(29M)
+[2026-03-08 21:08:03] WS5-3                       Sun Mar  8 21:08:03 2026  570.211.01
+[2026-03-08 21:08:03] [0] NVIDIA GeForce RTX 3090 | 82°C,  65 % | 23798 / 24576 MB | ubuntu-user(23100M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(152M) ubuntu-user(29M)
+[2026-03-08 21:08:04] WS5-3                       Sun Mar  8 21:08:04 2026  570.211.01
+[2026-03-08 21:08:04] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19725 / 24576 MB | ubuntu-user(19336M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:08:05] WS5-3                       Sun Mar  8 21:08:05 2026  570.211.01
+[2026-03-08 21:08:05] [0] NVIDIA GeForce RTX 3090 | 82°C,  55 % | 19727 / 24576 MB | ubuntu-user(19336M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(163M) ubuntu-user(29M)
+[2026-03-08 21:08:06] WS5-3                       Sun Mar  8 21:08:06 2026  570.211.01
+[2026-03-08 21:08:06] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19645 / 24576 MB | ubuntu-user(19256M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(160M) ubuntu-user(29M)
+[2026-03-08 21:08:07] WS5-3                       Sun Mar  8 21:08:07 2026  570.211.01
+[2026-03-08 21:08:07] [0] NVIDIA GeForce RTX 3090 | 82°C,  57 % | 23679 / 24576 MB | ubuntu-user(23290M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(160M) ubuntu-user(29M)
+[2026-03-08 21:08:08] WS5-3                       Sun Mar  8 21:08:08 2026  570.211.01
+[2026-03-08 21:08:08] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20345 / 24576 MB | ubuntu-user(19956M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(160M) ubuntu-user(29M)
+[2026-03-08 21:08:09] WS5-3                       Sun Mar  8 21:08:09 2026  570.211.01
+[2026-03-08 21:08:09] [0] NVIDIA GeForce RTX 3090 | 82°C,  59 % | 22458 / 24576 MB | ubuntu-user(22224M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:08:10] WS5-3                       Sun Mar  8 21:08:10 2026  570.211.01
+[2026-03-08 21:08:10] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18774 / 24576 MB | ubuntu-user(18388M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:08:11] WS5-3                       Sun Mar  8 21:08:11 2026  570.211.01
+[2026-03-08 21:08:11] [0] NVIDIA GeForce RTX 3090 | 82°C,  57 % | 22320 / 24576 MB | ubuntu-user(21934M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(157M) ubuntu-user(29M)
+[2026-03-08 21:08:12] WS5-3                       Sun Mar  8 21:08:12 2026  570.211.01
+[2026-03-08 21:08:12] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 19178 / 24576 MB | ubuntu-user(18792M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(158M) ubuntu-user(29M)
+[2026-03-08 21:08:13] WS5-3                       Sun Mar  8 21:08:13 2026  570.211.01
+[2026-03-08 21:08:13] [0] NVIDIA GeForce RTX 3090 | 82°C,  55 % | 23284 / 24576 MB | ubuntu-user(22908M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(148M) ubuntu-user(29M)
+[2026-03-08 21:08:14] WS5-3                       Sun Mar  8 21:08:14 2026  570.211.01
+[2026-03-08 21:08:14] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18617 / 24576 MB | ubuntu-user(18240M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(149M) ubuntu-user(29M)
+[2026-03-08 21:08:15] WS5-3                       Sun Mar  8 21:08:15 2026  570.211.01
+[2026-03-08 21:08:15] [0] NVIDIA GeForce RTX 3090 | 82°C,  65 % | 23980 / 24576 MB | ubuntu-user(23598M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(154M) ubuntu-user(29M)
+[2026-03-08 21:08:16] WS5-3                       Sun Mar  8 21:08:16 2026  570.211.01
+[2026-03-08 21:08:16] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 20249 / 24576 MB | ubuntu-user(19832M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(189M) ubuntu-user(29M)
+[2026-03-08 21:08:17] WS5-3                       Sun Mar  8 21:08:17 2026  570.211.01
+[2026-03-08 21:08:17] [0] NVIDIA GeForce RTX 3090 | 82°C,  57 % | 23592 / 24576 MB | ubuntu-user(23176M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(188M) ubuntu-user(29M)
+[2026-03-08 21:08:18] WS5-3                       Sun Mar  8 21:08:18 2026  570.211.01
+[2026-03-08 21:08:18] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18796 / 24576 MB | ubuntu-user(18386M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(182M) ubuntu-user(29M)
+[2026-03-08 21:08:19] WS5-3                       Sun Mar  8 21:08:19 2026  570.211.01
+[2026-03-08 21:08:19] [0] NVIDIA GeForce RTX 3090 | 82°C,  64 % | 22683 / 24576 MB | ubuntu-user(22436M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(181M) ubuntu-user(29M)
+[2026-03-08 21:08:20] WS5-3                       Sun Mar  8 21:08:20 2026  570.211.01
+[2026-03-08 21:08:20] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19286 / 24576 MB | ubuntu-user(18878M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(180M) ubuntu-user(29M)
+[2026-03-08 21:08:21] WS5-3                       Sun Mar  8 21:08:21 2026  570.211.01
+[2026-03-08 21:08:21] [0] NVIDIA GeForce RTX 3090 | 82°C,  65 % | 23463 / 24576 MB | ubuntu-user(23078M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(157M) ubuntu-user(29M)
+[2026-03-08 21:08:22] WS5-3                       Sun Mar  8 21:08:22 2026  570.211.01
+[2026-03-08 21:08:22] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18747 / 24576 MB | ubuntu-user(18366M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(153M) ubuntu-user(29M)
+[2026-03-08 21:08:23] WS5-3                       Sun Mar  8 21:08:23 2026  570.211.01
+[2026-03-08 21:08:23] [0] NVIDIA GeForce RTX 3090 | 82°C,  57 % | 23967 / 24576 MB | ubuntu-user(23586M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(153M) ubuntu-user(29M)
+[2026-03-08 21:08:24] WS5-3                       Sun Mar  8 21:08:24 2026  570.211.01
+[2026-03-08 21:08:24] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19633 / 24576 MB | ubuntu-user(19252M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(153M) ubuntu-user(29M)
+[2026-03-08 21:08:25] WS5-3                       Sun Mar  8 21:08:25 2026  570.211.01
+[2026-03-08 21:08:25] [0] NVIDIA GeForce RTX 3090 | 81°C,  58 % | 23961 / 24576 MB | ubuntu-user(23542M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(157M) ubuntu-user(29M)
+[2026-03-08 21:08:26] WS5-3                       Sun Mar  8 21:08:26 2026  570.211.01
+[2026-03-08 21:08:26] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18631 / 24576 MB | ubuntu-user(18236M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(167M) ubuntu-user(29M)
+[2026-03-08 21:08:27] WS5-3                       Sun Mar  8 21:08:27 2026  570.211.01
+[2026-03-08 21:08:27] [0] NVIDIA GeForce RTX 3090 | 82°C,  82 % | 16802 / 24576 MB | ubuntu-user(16408M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:08:28] WS5-3                       Sun Mar  8 21:08:28 2026  570.211.01
+[2026-03-08 21:08:28] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 19212 / 24576 MB | ubuntu-user(18822M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:08:29] WS5-3                       Sun Mar  8 21:08:29 2026  570.211.01
+[2026-03-08 21:08:29] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 16082 / 24576 MB | ubuntu-user(15692M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:08:30] WS5-3                       Sun Mar  8 21:08:30 2026  570.211.01
+[2026-03-08 21:08:30] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18220 / 24576 MB | ubuntu-user(17830M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:08:31] WS5-3                       Sun Mar  8 21:08:31 2026  570.211.01
+[2026-03-08 21:08:31] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18400 / 24576 MB | ubuntu-user(18012M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(159M) ubuntu-user(29M)
+[2026-03-08 21:08:32] WS5-3                       Sun Mar  8 21:08:32 2026  570.211.01
+[2026-03-08 21:08:32] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19213 / 24576 MB | ubuntu-user(18822M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(163M) ubuntu-user(29M)
+[2026-03-08 21:08:33] WS5-3                       Sun Mar  8 21:08:33 2026  570.211.01
+[2026-03-08 21:08:33] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18343 / 24576 MB | ubuntu-user(17952M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(163M) ubuntu-user(29M)
+[2026-03-08 21:08:34] WS5-3                       Sun Mar  8 21:08:34 2026  570.211.01
+[2026-03-08 21:08:34] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19147 / 24576 MB | ubuntu-user(18762M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(157M) ubuntu-user(29M)
+[2026-03-08 21:08:35] WS5-3                       Sun Mar  8 21:08:35 2026  570.211.01
+[2026-03-08 21:08:35] [0] NVIDIA GeForce RTX 3090 | 82°C,  99 % | 18816 / 24576 MB | ubuntu-user(18426M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:08:36] WS5-3                       Sun Mar  8 21:08:36 2026  570.211.01
+[2026-03-08 21:08:36] [0] NVIDIA GeForce RTX 3090 | 82°C,  68 % | 20034 / 24576 MB | ubuntu-user(19946M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(164M) ubuntu-user(29M)
+[2026-03-08 21:08:37] WS5-3                       Sun Mar  8 21:08:37 2026  570.211.01
+[2026-03-08 21:08:37] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18874 / 24576 MB | ubuntu-user(18482M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(163M) ubuntu-user(29M)
+[2026-03-08 21:08:38] WS5-3                       Sun Mar  8 21:08:38 2026  570.211.01
+[2026-03-08 21:08:38] [0] NVIDIA GeForce RTX 3090 | 83°C,  61 % | 22974 / 24576 MB | ubuntu-user(22582M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(164M) ubuntu-user(29M)
+[2026-03-08 21:08:39] WS5-3                       Sun Mar  8 21:08:39 2026  570.211.01
+[2026-03-08 21:08:39] [0] NVIDIA GeForce RTX 3090 | 84°C, 100 % | 20489 / 24576 MB | ubuntu-user(20084M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(177M) ubuntu-user(29M)
+[2026-03-08 21:08:40] WS5-3                       Sun Mar  8 21:08:40 2026  570.211.01
+[2026-03-08 21:08:40] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 20483 / 24576 MB | ubuntu-user(20084M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(171M) ubuntu-user(29M)
+[2026-03-08 21:08:41] WS5-3                       Sun Mar  8 21:08:41 2026  570.211.01
+[2026-03-08 21:08:41] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18654 / 24576 MB | ubuntu-user(18256M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(170M) ubuntu-user(29M)
+[2026-03-08 21:08:42] WS5-3                       Sun Mar  8 21:08:42 2026  570.211.01
+[2026-03-08 21:08:42] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 21307 / 24576 MB | ubuntu-user(20910M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(168M) ubuntu-user(29M)
+[2026-03-08 21:08:43] WS5-3                       Sun Mar  8 21:08:43 2026  570.211.01
+[2026-03-08 21:08:43] [0] NVIDIA GeForce RTX 3090 | 82°C,  97 % | 16349 / 24576 MB | ubuntu-user(15954M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(167M) ubuntu-user(29M)
+[2026-03-08 21:08:44] WS5-3                       Sun Mar  8 21:08:44 2026  570.211.01
+[2026-03-08 21:08:44] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18711 / 24576 MB | ubuntu-user(18318M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(165M) ubuntu-user(29M)
+[2026-03-08 21:08:45] WS5-3                       Sun Mar  8 21:08:45 2026  570.211.01
+[2026-03-08 21:08:45] [0] NVIDIA GeForce RTX 3090 | 84°C,  98 % | 16569 / 24576 MB | ubuntu-user(16174M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:08:46] WS5-3                       Sun Mar  8 21:08:46 2026  570.211.01
+[2026-03-08 21:08:46] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18915 / 24576 MB | ubuntu-user(18520M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(167M) ubuntu-user(29M)
+[2026-03-08 21:08:47] WS5-3                       Sun Mar  8 21:08:47 2026  570.211.01
+[2026-03-08 21:08:47] [0] NVIDIA GeForce RTX 3090 | 82°C,  72 % | 17039 / 24576 MB | ubuntu-user(16644M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:08:48] WS5-3                       Sun Mar  8 21:08:48 2026  570.211.01
+[2026-03-08 21:08:48] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19478 / 24576 MB | ubuntu-user(19082M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(168M) ubuntu-user(29M)
+[2026-03-08 21:08:49] WS5-3                       Sun Mar  8 21:08:49 2026  570.211.01
+[2026-03-08 21:08:49] [0] NVIDIA GeForce RTX 3090 | 82°C,  72 % | 16311 / 24576 MB | ubuntu-user(15916M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(167M) ubuntu-user(29M)
+[2026-03-08 21:08:50] WS5-3                       Sun Mar  8 21:08:50 2026  570.211.01
+[2026-03-08 21:08:50] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18661 / 24576 MB | ubuntu-user(18266M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(167M) ubuntu-user(29M)
+[2026-03-08 21:08:51] WS5-3                       Sun Mar  8 21:08:51 2026  570.211.01
+[2026-03-08 21:08:51] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 16556 / 24576 MB | ubuntu-user(16162M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:08:52] WS5-3                       Sun Mar  8 21:08:52 2026  570.211.01
+[2026-03-08 21:08:52] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18897 / 24576 MB | ubuntu-user(18502M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(167M) ubuntu-user(29M)
+[2026-03-08 21:08:53] WS5-3                       Sun Mar  8 21:08:53 2026  570.211.01
+[2026-03-08 21:08:53] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 17037 / 24576 MB | ubuntu-user(16642M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(167M) ubuntu-user(29M)
+[2026-03-08 21:08:54] WS5-3                       Sun Mar  8 21:08:54 2026  570.211.01
+[2026-03-08 21:08:54] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19405 / 24576 MB | ubuntu-user(19004M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(173M) ubuntu-user(29M)
+[2026-03-08 21:08:55] WS5-3                       Sun Mar  8 21:08:55 2026  570.211.01
+[2026-03-08 21:08:55] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 16945 / 24576 MB | ubuntu-user(16548M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(169M) ubuntu-user(29M)
+[2026-03-08 21:08:56] WS5-3                       Sun Mar  8 21:08:56 2026  570.211.01
+[2026-03-08 21:08:56] [0] NVIDIA GeForce RTX 3090 | 84°C, 100 % | 19387 / 24576 MB | ubuntu-user(18982M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(177M) ubuntu-user(29M)
+[2026-03-08 21:08:57] WS5-3                       Sun Mar  8 21:08:57 2026  570.211.01
+[2026-03-08 21:08:57] [0] NVIDIA GeForce RTX 3090 | 82°C,  58 % | 19387 / 24576 MB | ubuntu-user(18982M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(177M) ubuntu-user(29M)
+[2026-03-08 21:08:58] WS5-3                       Sun Mar  8 21:08:58 2026  570.211.01
+[2026-03-08 21:08:58] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19387 / 24576 MB | ubuntu-user(18986M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(173M) ubuntu-user(29M)
+[2026-03-08 21:08:59] WS5-3                       Sun Mar  8 21:08:59 2026  570.211.01
+[2026-03-08 21:08:59] [0] NVIDIA GeForce RTX 3090 | 82°C,  65 % | 23764 / 24576 MB | ubuntu-user(23032M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(172M) ubuntu-user(29M)
+[2026-03-08 21:09:00] WS5-3                       Sun Mar  8 21:09:00 2026  570.211.01
+[2026-03-08 21:09:00] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20867 / 24576 MB | ubuntu-user(20466M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(173M) ubuntu-user(29M)
+[2026-03-08 21:09:01] WS5-3                       Sun Mar  8 21:09:01 2026  570.211.01
+[2026-03-08 21:09:01] [0] NVIDIA GeForce RTX 3090 | 82°C,  64 % | 23416 / 24576 MB | ubuntu-user(23356M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(172M) ubuntu-user(29M)
+[2026-03-08 21:09:02] WS5-3                       Sun Mar  8 21:09:02 2026  570.211.01
+[2026-03-08 21:09:02] [0] NVIDIA GeForce RTX 3090 | 82°C,  99 % | 19515 / 24576 MB | ubuntu-user(19118M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(169M) ubuntu-user(29M)
+[2026-03-08 21:09:03] WS5-3                       Sun Mar  8 21:09:03 2026  570.211.01
+[2026-03-08 21:09:03] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 20214 / 24576 MB | ubuntu-user(19814M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(171M) ubuntu-user(29M)
+[2026-03-08 21:09:04] WS5-3                       Sun Mar  8 21:09:04 2026  570.211.01
+[2026-03-08 21:09:04] [0] NVIDIA GeForce RTX 3090 | 85°C,  99 % | 19782 / 24576 MB | ubuntu-user(19386M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(168M) ubuntu-user(29M)
+[2026-03-08 21:09:05] WS5-3                       Sun Mar  8 21:09:05 2026  570.211.01
+[2026-03-08 21:09:05] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 19782 / 24576 MB | ubuntu-user(19386M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(167M) ubuntu-user(29M)
+[2026-03-08 21:09:06] WS5-3                       Sun Mar  8 21:09:06 2026  570.211.01
+[2026-03-08 21:09:06] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 17932 / 24576 MB | ubuntu-user(17536M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(168M) ubuntu-user(29M)
+[2026-03-08 21:09:07] WS5-3                       Sun Mar  8 21:09:07 2026  570.211.01
+[2026-03-08 21:09:07] [0] NVIDIA GeForce RTX 3090 | 82°C,  92 % | 18682 / 24576 MB | ubuntu-user(18286M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(167M) ubuntu-user(29M)
+[2026-03-08 21:09:08] WS5-3                       Sun Mar  8 21:09:08 2026  570.211.01
+[2026-03-08 21:09:08] [0] NVIDIA GeForce RTX 3090 | 83°C,  99 % | 19605 / 24576 MB | ubuntu-user(19212M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(165M) ubuntu-user(29M)
+[2026-03-08 21:09:09] WS5-3                       Sun Mar  8 21:09:09 2026  570.211.01
+[2026-03-08 21:09:09] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19604 / 24576 MB | ubuntu-user(19212M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(164M) ubuntu-user(29M)
+[2026-03-08 21:09:10] WS5-3                       Sun Mar  8 21:09:10 2026  570.211.01
+[2026-03-08 21:09:10] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18209 / 24576 MB | ubuntu-user(17816M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(165M) ubuntu-user(29M)
+[2026-03-08 21:09:11] WS5-3                       Sun Mar  8 21:09:11 2026  570.211.01
+[2026-03-08 21:09:11] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20694 / 24576 MB | ubuntu-user(20302M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(164M) ubuntu-user(29M)
+[2026-03-08 21:09:12] WS5-3                       Sun Mar  8 21:09:12 2026  570.211.01
+[2026-03-08 21:09:12] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 16934 / 24576 MB | ubuntu-user(16540M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:09:13] WS5-3                       Sun Mar  8 21:09:13 2026  570.211.01
+[2026-03-08 21:09:13] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19319 / 24576 MB | ubuntu-user(18926M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(165M) ubuntu-user(29M)
+[2026-03-08 21:09:14] WS5-3                       Sun Mar  8 21:09:14 2026  570.211.01
+[2026-03-08 21:09:14] [0] NVIDIA GeForce RTX 3090 | 84°C, 100 % | 16941 / 24576 MB | ubuntu-user(16548M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(165M) ubuntu-user(29M)
+[2026-03-08 21:09:15] WS5-3                       Sun Mar  8 21:09:15 2026  570.211.01
+[2026-03-08 21:09:15] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 19371 / 24576 MB | ubuntu-user(18978M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(165M) ubuntu-user(29M)
+[2026-03-08 21:09:16] WS5-3                       Sun Mar  8 21:09:16 2026  570.211.01
+[2026-03-08 21:09:16] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 16573 / 24576 MB | ubuntu-user(16198M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(165M) ubuntu-user(29M)
+[2026-03-08 21:09:17] WS5-3                       Sun Mar  8 21:09:17 2026  570.211.01
+[2026-03-08 21:09:17] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18932 / 24576 MB | ubuntu-user(18538M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:09:18] WS5-3                       Sun Mar  8 21:09:18 2026  570.211.01
+[2026-03-08 21:09:18] [0] NVIDIA GeForce RTX 3090 | 84°C, 100 % | 17689 / 24576 MB | ubuntu-user(17296M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(165M) ubuntu-user(29M)
+[2026-03-08 21:09:19] WS5-3                       Sun Mar  8 21:09:19 2026  570.211.01
+[2026-03-08 21:09:19] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20301 / 24576 MB | ubuntu-user(19908M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(165M) ubuntu-user(29M)
+[2026-03-08 21:09:20] WS5-3                       Sun Mar  8 21:09:20 2026  570.211.01
+[2026-03-08 21:09:20] [0] NVIDIA GeForce RTX 3090 | 82°C,  72 % | 22342 / 24576 MB | ubuntu-user(21628M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(164M) ubuntu-user(29M)
+[2026-03-08 21:09:21] WS5-3                       Sun Mar  8 21:09:21 2026  570.211.01
+[2026-03-08 21:09:21] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20471 / 24576 MB | ubuntu-user(20078M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(165M) ubuntu-user(29M)
+[2026-03-08 21:09:22] WS5-3                       Sun Mar  8 21:09:22 2026  570.211.01
+[2026-03-08 21:09:22] [0] NVIDIA GeForce RTX 3090 | 82°C,  68 % | 23656 / 24576 MB | ubuntu-user(23262M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(165M) ubuntu-user(29M)
+[2026-03-08 21:09:23] WS5-3                       Sun Mar  8 21:09:23 2026  570.211.01
+[2026-03-08 21:09:23] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 21513 / 24576 MB | ubuntu-user(21120M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(165M) ubuntu-user(29M)
+[2026-03-08 21:09:24] WS5-3                       Sun Mar  8 21:09:24 2026  570.211.01
+[2026-03-08 21:09:24] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 21512 / 24576 MB | ubuntu-user(21120M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(164M) ubuntu-user(29M)
+[2026-03-08 21:09:25] WS5-3                       Sun Mar  8 21:09:25 2026  570.211.01
+[2026-03-08 21:09:25] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 17990 / 24576 MB | ubuntu-user(17600M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:09:26] WS5-3                       Sun Mar  8 21:09:26 2026  570.211.01
+[2026-03-08 21:09:26] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20427 / 24576 MB | ubuntu-user(20038M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:09:27] WS5-3                       Sun Mar  8 21:09:27 2026  570.211.01
+[2026-03-08 21:09:27] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 17138 / 24576 MB | ubuntu-user(16748M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:09:28] WS5-3                       Sun Mar  8 21:09:28 2026  570.211.01
+[2026-03-08 21:09:28] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19315 / 24576 MB | ubuntu-user(18926M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:09:29] WS5-3                       Sun Mar  8 21:09:29 2026  570.211.01
+[2026-03-08 21:09:29] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 17972 / 24576 MB | ubuntu-user(17582M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:09:30] WS5-3                       Sun Mar  8 21:09:30 2026  570.211.01
+[2026-03-08 21:09:30] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18727 / 24576 MB | ubuntu-user(18338M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:09:31] WS5-3                       Sun Mar  8 21:09:31 2026  570.211.01
+[2026-03-08 21:09:31] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18980 / 24576 MB | ubuntu-user(18590M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:09:32] WS5-3                       Sun Mar  8 21:09:32 2026  570.211.01
+[2026-03-08 21:09:32] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 21689 / 24576 MB | ubuntu-user(21300M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:09:33] WS5-3                       Sun Mar  8 21:09:33 2026  570.211.01
+[2026-03-08 21:09:33] [0] NVIDIA GeForce RTX 3090 | 82°C,  71 % | 21780 / 24576 MB | ubuntu-user(21258M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:09:34] WS5-3                       Sun Mar  8 21:09:34 2026  570.211.01
+[2026-03-08 21:09:34] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18657 / 24576 MB | ubuntu-user(18266M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:09:35] WS5-3                       Sun Mar  8 21:09:35 2026  570.211.01
+[2026-03-08 21:09:35] [0] NVIDIA GeForce RTX 3090 | 82°C,  93 % | 16919 / 24576 MB | ubuntu-user(16530M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:09:36] WS5-3                       Sun Mar  8 21:09:36 2026  570.211.01
+[2026-03-08 21:09:36] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19350 / 24576 MB | ubuntu-user(18960M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:09:37] WS5-3                       Sun Mar  8 21:09:37 2026  570.211.01
+[2026-03-08 21:09:37] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 16909 / 24576 MB | ubuntu-user(16520M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:09:38] WS5-3                       Sun Mar  8 21:09:38 2026  570.211.01
+[2026-03-08 21:09:38] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19341 / 24576 MB | ubuntu-user(18950M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(163M) ubuntu-user(29M)
+[2026-03-08 21:09:39] WS5-3                       Sun Mar  8 21:09:39 2026  570.211.01
+[2026-03-08 21:09:39] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 16945 / 24576 MB | ubuntu-user(16554M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:09:40] WS5-3                       Sun Mar  8 21:09:40 2026  570.211.01
+[2026-03-08 21:09:40] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19304 / 24576 MB | ubuntu-user(18914M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:09:41] WS5-3                       Sun Mar  8 21:09:41 2026  570.211.01
+[2026-03-08 21:09:41] [0] NVIDIA GeForce RTX 3090 | 82°C,  92 % | 17840 / 24576 MB | ubuntu-user(17450M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:09:42] WS5-3                       Sun Mar  8 21:09:42 2026  570.211.01
+[2026-03-08 21:09:42] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20470 / 24576 MB | ubuntu-user(20080M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:09:43] WS5-3                       Sun Mar  8 21:09:43 2026  570.211.01
+[2026-03-08 21:09:43] [0] NVIDIA GeForce RTX 3090 | 82°C,  67 % | 23787 / 24576 MB | ubuntu-user(23352M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(163M) ubuntu-user(29M)
+[2026-03-08 21:09:44] WS5-3                       Sun Mar  8 21:09:44 2026  570.211.01
+[2026-03-08 21:09:44] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19157 / 24576 MB | ubuntu-user(18766M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:09:46] WS5-3                       Sun Mar  8 21:09:46 2026  570.211.01
+[2026-03-08 21:09:46] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 16634 / 24576 MB | ubuntu-user(16244M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:09:46] WS5-3                       Sun Mar  8 21:09:46 2026  570.211.01
+[2026-03-08 21:09:46] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18748 / 24576 MB | ubuntu-user(18358M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:09:47] WS5-3                       Sun Mar  8 21:09:47 2026  570.211.01
+[2026-03-08 21:09:47] [0] NVIDIA GeForce RTX 3090 | 82°C,  70 % | 16923 / 24576 MB | ubuntu-user(16578M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:09:48] WS5-3                       Sun Mar  8 21:09:48 2026  570.211.01
+[2026-03-08 21:09:48] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 19509 / 24576 MB | ubuntu-user(19118M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(163M) ubuntu-user(29M)
+[2026-03-08 21:09:49] WS5-3                       Sun Mar  8 21:09:49 2026  570.211.01
+[2026-03-08 21:09:49] [0] NVIDIA GeForce RTX 3090 | 83°C,  67 % | 23526 / 24576 MB | ubuntu-user(23136M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:09:50] WS5-3                       Sun Mar  8 21:09:50 2026  570.211.01
+[2026-03-08 21:09:50] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 21346 / 24576 MB | ubuntu-user(20956M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:09:51] WS5-3                       Sun Mar  8 21:09:51 2026  570.211.01
+[2026-03-08 21:09:51] [0] NVIDIA GeForce RTX 3090 | 81°C,  56 % | 23057 / 24576 MB | ubuntu-user(22668M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:09:52] WS5-3                       Sun Mar  8 21:09:52 2026  570.211.01
+[2026-03-08 21:09:52] [0] NVIDIA GeForce RTX 3090 | 83°C,  99 % | 19680 / 24576 MB | ubuntu-user(19290M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:09:53] WS5-3                       Sun Mar  8 21:09:53 2026  570.211.01
+[2026-03-08 21:09:53] [0] NVIDIA GeForce RTX 3090 | 81°C,  97 % | 20607 / 24576 MB | ubuntu-user(20216M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(163M) ubuntu-user(29M)
+[2026-03-08 21:09:54] WS5-3                       Sun Mar  8 21:09:54 2026  570.211.01
+[2026-03-08 21:09:54] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19573 / 24576 MB | ubuntu-user(19182M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:09:55] WS5-3                       Sun Mar  8 21:09:55 2026  570.211.01
+[2026-03-08 21:09:55] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20685 / 24576 MB | ubuntu-user(20296M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:09:56] WS5-3                       Sun Mar  8 21:09:56 2026  570.211.01
+[2026-03-08 21:09:56] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 16700 / 24576 MB | ubuntu-user(16310M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:09:57] WS5-3                       Sun Mar  8 21:09:57 2026  570.211.01
+[2026-03-08 21:09:57] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18827 / 24576 MB | ubuntu-user(18438M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:09:58] WS5-3                       Sun Mar  8 21:09:58 2026  570.211.01
+[2026-03-08 21:09:58] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 19211 / 24576 MB | ubuntu-user(18820M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(163M) ubuntu-user(29M)
+[2026-03-08 21:09:59] WS5-3                       Sun Mar  8 21:09:59 2026  570.211.01
+[2026-03-08 21:09:59] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20277 / 24576 MB | ubuntu-user(19886M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(163M) ubuntu-user(29M)
+[2026-03-08 21:10:00] WS5-3                       Sun Mar  8 21:10:00 2026  570.211.01
+[2026-03-08 21:10:00] [0] NVIDIA GeForce RTX 3090 | 84°C, 100 % | 18031 / 24576 MB | ubuntu-user(17640M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:10:01] WS5-3                       Sun Mar  8 21:10:01 2026  570.211.01
+[2026-03-08 21:10:01] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 20487 / 24576 MB | ubuntu-user(20098M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:10:02] WS5-3                       Sun Mar  8 21:10:02 2026  570.211.01
+[2026-03-08 21:10:02] [0] NVIDIA GeForce RTX 3090 | 82°C,  70 % | 23935 / 24576 MB | ubuntu-user(23546M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:10:03] WS5-3                       Sun Mar  8 21:10:03 2026  570.211.01
+[2026-03-08 21:10:03] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19089 / 24576 MB | ubuntu-user(18698M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(163M) ubuntu-user(29M)
+[2026-03-08 21:10:04] WS5-3                       Sun Mar  8 21:10:04 2026  570.211.01
+[2026-03-08 21:10:04] [0] NVIDIA GeForce RTX 3090 | 82°C,  54 % | 23558 / 24576 MB | ubuntu-user(23168M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:10:05] WS5-3                       Sun Mar  8 21:10:05 2026  570.211.01
+[2026-03-08 21:10:05] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19444 / 24576 MB | ubuntu-user(19054M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:10:06] WS5-3                       Sun Mar  8 21:10:06 2026  570.211.01
+[2026-03-08 21:10:06] [0] NVIDIA GeForce RTX 3090 | 82°C,  60 % | 23755 / 24576 MB | ubuntu-user(23332M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:10:07] WS5-3                       Sun Mar  8 21:10:07 2026  570.211.01
+[2026-03-08 21:10:07] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 18968 / 24576 MB | ubuntu-user(18578M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:10:08] WS5-3                       Sun Mar  8 21:10:08 2026  570.211.01
+[2026-03-08 21:10:08] [0] NVIDIA GeForce RTX 3090 | 83°C,  60 % | 23419 / 24576 MB | ubuntu-user(23030M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:10:09] WS5-3                       Sun Mar  8 21:10:09 2026  570.211.01
+[2026-03-08 21:10:09] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19168 / 24576 MB | ubuntu-user(18778M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:10:10] WS5-3                       Sun Mar  8 21:10:10 2026  570.211.01
+[2026-03-08 21:10:10] [0] NVIDIA GeForce RTX 3090 | 82°C,  57 % | 16425 / 24576 MB | ubuntu-user(16036M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:10:11] WS5-3                       Sun Mar  8 21:10:11 2026  570.211.01
+[2026-03-08 21:10:11] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18776 / 24576 MB | ubuntu-user(18386M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:10:12] WS5-3                       Sun Mar  8 21:10:12 2026  570.211.01
+[2026-03-08 21:10:12] [0] NVIDIA GeForce RTX 3090 | 83°C,  68 % | 16973 / 24576 MB | ubuntu-user(16582M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(163M) ubuntu-user(29M)
+[2026-03-08 21:10:13] WS5-3                       Sun Mar  8 21:10:13 2026  570.211.01
+[2026-03-08 21:10:13] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19413 / 24576 MB | ubuntu-user(19022M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:10:14] WS5-3                       Sun Mar  8 21:10:14 2026  570.211.01
+[2026-03-08 21:10:14] [0] NVIDIA GeForce RTX 3090 | 83°C,  78 % | 24029 / 24576 MB | ubuntu-user(23522M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:10:15] WS5-3                       Sun Mar  8 21:10:15 2026  570.211.01
+[2026-03-08 21:10:15] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 22102 / 24576 MB | ubuntu-user(21712M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:10:16] WS5-3                       Sun Mar  8 21:10:16 2026  570.211.01
+[2026-03-08 21:10:16] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 22911 / 24576 MB | ubuntu-user(22522M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:10:17] WS5-3                       Sun Mar  8 21:10:17 2026  570.211.01
+[2026-03-08 21:10:17] [0] NVIDIA GeForce RTX 3090 | 85°C, 100 % | 19145 / 24576 MB | ubuntu-user(18754M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(163M) ubuntu-user(29M)
+[2026-03-08 21:10:18] WS5-3                       Sun Mar  8 21:10:18 2026  570.211.01
+[2026-03-08 21:10:18] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19144 / 24576 MB | ubuntu-user(18754M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:10:19] WS5-3                       Sun Mar  8 21:10:19 2026  570.211.01
+[2026-03-08 21:10:19] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19158 / 24576 MB | ubuntu-user(18768M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:10:20] WS5-3                       Sun Mar  8 21:10:20 2026  570.211.01
+[2026-03-08 21:10:20] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 19157 / 24576 MB | ubuntu-user(18768M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:10:21] WS5-3                       Sun Mar  8 21:10:21 2026  570.211.01
+[2026-03-08 21:10:21] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18798 / 24576 MB | ubuntu-user(18408M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:10:22] WS5-3                       Sun Mar  8 21:10:22 2026  570.211.01
+[2026-03-08 21:10:22] [0] NVIDIA GeForce RTX 3090 | 81°C,  95 % | 20217 / 24576 MB | ubuntu-user(19828M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:10:23] WS5-3                       Sun Mar  8 21:10:23 2026  570.211.01
+[2026-03-08 21:10:23] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 20208 / 24576 MB | ubuntu-user(19818M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:10:24] WS5-3                       Sun Mar  8 21:10:24 2026  570.211.01
+[2026-03-08 21:10:24] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20207 / 24576 MB | ubuntu-user(19818M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:10:25] WS5-3                       Sun Mar  8 21:10:25 2026  570.211.01
+[2026-03-08 21:10:25] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18482 / 24576 MB | ubuntu-user(18092M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:10:26] WS5-3                       Sun Mar  8 21:10:26 2026  570.211.01
+[2026-03-08 21:10:26] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 21011 / 24576 MB | ubuntu-user(20622M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:10:27] WS5-3                       Sun Mar  8 21:10:27 2026  570.211.01
+[2026-03-08 21:10:27] [0] NVIDIA GeForce RTX 3090 | 82°C,  67 % | 21392 / 24576 MB | ubuntu-user(20614M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:10:28] WS5-3                       Sun Mar  8 21:10:28 2026  570.211.01
+[2026-03-08 21:10:28] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 19121 / 24576 MB | ubuntu-user(18730M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:10:29] WS5-3                       Sun Mar  8 21:10:29 2026  570.211.01
+[2026-03-08 21:10:29] [0] NVIDIA GeForce RTX 3090 | 83°C,  70 % | 17035 / 24576 MB | ubuntu-user(16646M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:10:30] WS5-3                       Sun Mar  8 21:10:30 2026  570.211.01
+[2026-03-08 21:10:30] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19442 / 24576 MB | ubuntu-user(19052M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:10:31] WS5-3                       Sun Mar  8 21:10:31 2026  570.211.01
+[2026-03-08 21:10:31] [0] NVIDIA GeForce RTX 3090 | 82°C,  68 % | 16645 / 24576 MB | ubuntu-user(16256M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:10:32] WS5-3                       Sun Mar  8 21:10:32 2026  570.211.01
+[2026-03-08 21:10:32] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18993 / 24576 MB | ubuntu-user(18602M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(163M) ubuntu-user(29M)
+[2026-03-08 21:10:33] WS5-3                       Sun Mar  8 21:10:33 2026  570.211.01
+[2026-03-08 21:10:33] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 16798 / 24576 MB | ubuntu-user(16408M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:10:34] WS5-3                       Sun Mar  8 21:10:34 2026  570.211.01
+[2026-03-08 21:10:34] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 19212 / 24576 MB | ubuntu-user(18822M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:10:35] WS5-3                       Sun Mar  8 21:10:35 2026  570.211.01
+[2026-03-08 21:10:35] [0] NVIDIA GeForce RTX 3090 | 82°C,  99 % | 16781 / 24576 MB | ubuntu-user(16392M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:10:36] WS5-3                       Sun Mar  8 21:10:36 2026  570.211.01
+[2026-03-08 21:10:36] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19170 / 24576 MB | ubuntu-user(18780M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:10:37] WS5-3                       Sun Mar  8 21:10:37 2026  570.211.01
+[2026-03-08 21:10:37] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 16439 / 24576 MB | ubuntu-user(16048M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(163M) ubuntu-user(29M)
+[2026-03-08 21:10:38] WS5-3                       Sun Mar  8 21:10:38 2026  570.211.01
+[2026-03-08 21:10:38] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18793 / 24576 MB | ubuntu-user(18402M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:10:39] WS5-3                       Sun Mar  8 21:10:39 2026  570.211.01
+[2026-03-08 21:10:39] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 17004 / 24576 MB | ubuntu-user(16614M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:10:40] WS5-3                       Sun Mar  8 21:10:40 2026  570.211.01
+[2026-03-08 21:10:40] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19167 / 24576 MB | ubuntu-user(18778M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:10:41] WS5-3                       Sun Mar  8 21:10:41 2026  570.211.01
+[2026-03-08 21:10:41] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18276 / 24576 MB | ubuntu-user(17886M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:10:42] WS5-3                       Sun Mar  8 21:10:42 2026  570.211.01
+[2026-03-08 21:10:42] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19041 / 24576 MB | ubuntu-user(18652M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:10:43] WS5-3                       Sun Mar  8 21:10:43 2026  570.211.01
+[2026-03-08 21:10:43] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 19088 / 24576 MB | ubuntu-user(18698M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:10:44] WS5-3                       Sun Mar  8 21:10:44 2026  570.211.01
+[2026-03-08 21:10:44] [0] NVIDIA GeForce RTX 3090 | 82°C,  64 % | 19087 / 24576 MB | ubuntu-user(18698M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:10:46] WS5-3                       Sun Mar  8 21:10:46 2026  570.211.01
+[2026-03-08 21:10:46] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19046 / 24576 MB | ubuntu-user(18656M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:10:46] WS5-3                       Sun Mar  8 21:10:46 2026  570.211.01
+[2026-03-08 21:10:46] [0] NVIDIA GeForce RTX 3090 | 82°C,  59 % | 22243 / 24576 MB | ubuntu-user(21852M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(163M) ubuntu-user(29M)
+[2026-03-08 21:10:47] WS5-3                       Sun Mar  8 21:10:47 2026  570.211.01
+[2026-03-08 21:10:47] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 20767 / 24576 MB | ubuntu-user(20376M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:10:48] WS5-3                       Sun Mar  8 21:10:48 2026  570.211.01
+[2026-03-08 21:10:48] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20765 / 24576 MB | ubuntu-user(20376M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:10:49] WS5-3                       Sun Mar  8 21:10:49 2026  570.211.01
+[2026-03-08 21:10:49] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18120 / 24576 MB | ubuntu-user(17730M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:10:50] WS5-3                       Sun Mar  8 21:10:50 2026  570.211.01
+[2026-03-08 21:10:50] [0] NVIDIA GeForce RTX 3090 | 82°C,  87 % | 18889 / 24576 MB | ubuntu-user(18500M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:10:51] WS5-3                       Sun Mar  8 21:10:51 2026  570.211.01
+[2026-03-08 21:10:51] [0] NVIDIA GeForce RTX 3090 | 82°C,  99 % | 18834 / 24576 MB | ubuntu-user(18444M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:10:52] WS5-3                       Sun Mar  8 21:10:52 2026  570.211.01
+[2026-03-08 21:10:52] [0] NVIDIA GeForce RTX 3090 | 83°C,  66 % | 18833 / 24576 MB | ubuntu-user(18444M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:10:53] WS5-3                       Sun Mar  8 21:10:53 2026  570.211.01
+[2026-03-08 21:10:53] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18852 / 24576 MB | ubuntu-user(18462M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:10:54] WS5-3                       Sun Mar  8 21:10:54 2026  570.211.01
+[2026-03-08 21:10:54] [0] NVIDIA GeForce RTX 3090 | 83°C,  56 % | 23151 / 24576 MB | ubuntu-user(22762M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:10:55] WS5-3                       Sun Mar  8 21:10:55 2026  570.211.01
+[2026-03-08 21:10:55] [0] NVIDIA GeForce RTX 3090 | 85°C, 100 % | 19664 / 24576 MB | ubuntu-user(19274M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:10:56] WS5-3                       Sun Mar  8 21:10:56 2026  570.211.01
+[2026-03-08 21:10:56] [0] NVIDIA GeForce RTX 3090 | 82°C,  66 % | 22143 / 24576 MB | ubuntu-user(21754M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:10:57] WS5-3                       Sun Mar  8 21:10:57 2026  570.211.01
+[2026-03-08 21:10:57] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19050 / 24576 MB | ubuntu-user(18660M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:10:58] WS5-3                       Sun Mar  8 21:10:58 2026  570.211.01
+[2026-03-08 21:10:58] [0] NVIDIA GeForce RTX 3090 | 82°C,  61 % | 19657 / 24576 MB | ubuntu-user(19268M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:10:59] WS5-3                       Sun Mar  8 21:10:59 2026  570.211.01
+[2026-03-08 21:10:59] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18898 / 24576 MB | ubuntu-user(18508M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:11:00] WS5-3                       Sun Mar  8 21:11:00 2026  570.211.01
+[2026-03-08 21:11:00] [0] NVIDIA GeForce RTX 3090 | 82°C,  59 % | 23877 / 24576 MB | ubuntu-user(23488M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:11:01] WS5-3                       Sun Mar  8 21:11:01 2026  570.211.01
+[2026-03-08 21:11:01] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19120 / 24576 MB | ubuntu-user(18730M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:11:02] WS5-3                       Sun Mar  8 21:11:02 2026  570.211.01
+[2026-03-08 21:11:02] [0] NVIDIA GeForce RTX 3090 | 82°C,  60 % | 19119 / 24576 MB | ubuntu-user(18730M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:11:03] WS5-3                       Sun Mar  8 21:11:03 2026  570.211.01
+[2026-03-08 21:11:03] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 19144 / 24576 MB | ubuntu-user(18754M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:11:04] WS5-3                       Sun Mar  8 21:11:04 2026  570.211.01
+[2026-03-08 21:11:04] [0] NVIDIA GeForce RTX 3090 | 84°C,  95 % | 16729 / 24576 MB | ubuntu-user(16340M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:11:05] WS5-3                       Sun Mar  8 21:11:05 2026  570.211.01
+[2026-03-08 21:11:05] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19080 / 24576 MB | ubuntu-user(18690M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:11:06] WS5-3                       Sun Mar  8 21:11:06 2026  570.211.01
+[2026-03-08 21:11:06] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 17109 / 24576 MB | ubuntu-user(16718M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(163M) ubuntu-user(29M)
+[2026-03-08 21:11:07] WS5-3                       Sun Mar  8 21:11:07 2026  570.211.01
+[2026-03-08 21:11:07] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19519 / 24576 MB | ubuntu-user(19128M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:11:08] WS5-3                       Sun Mar  8 21:11:08 2026  570.211.01
+[2026-03-08 21:11:08] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 17107 / 24576 MB | ubuntu-user(16718M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:11:09] WS5-3                       Sun Mar  8 21:11:09 2026  570.211.01
+[2026-03-08 21:11:09] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 19514 / 24576 MB | ubuntu-user(19124M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:11:10] WS5-3                       Sun Mar  8 21:11:10 2026  570.211.01
+[2026-03-08 21:11:10] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 17016 / 24576 MB | ubuntu-user(16626M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:11:11] WS5-3                       Sun Mar  8 21:11:11 2026  570.211.01
+[2026-03-08 21:11:11] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19417 / 24576 MB | ubuntu-user(19026M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(163M) ubuntu-user(29M)
+[2026-03-08 21:11:12] WS5-3                       Sun Mar  8 21:11:12 2026  570.211.01
+[2026-03-08 21:11:12] [0] NVIDIA GeForce RTX 3090 | 84°C, 100 % | 17395 / 24576 MB | ubuntu-user(17004M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:11:13] WS5-3                       Sun Mar  8 21:11:13 2026  570.211.01
+[2026-03-08 21:11:13] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 19839 / 24576 MB | ubuntu-user(19450M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:11:14] WS5-3                       Sun Mar  8 21:11:14 2026  570.211.01
+[2026-03-08 21:11:14] [0] NVIDIA GeForce RTX 3090 | 81°C,  60 % | 24085 / 24576 MB | ubuntu-user(23696M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:11:15] WS5-3                       Sun Mar  8 21:11:15 2026  570.211.01
+[2026-03-08 21:11:15] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18828 / 24576 MB | ubuntu-user(18438M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:11:16] WS5-3                       Sun Mar  8 21:11:16 2026  570.211.01
+[2026-03-08 21:11:16] [0] NVIDIA GeForce RTX 3090 | 81°C,  65 % | 23789 / 24576 MB | ubuntu-user(23398M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(163M) ubuntu-user(29M)
+[2026-03-08 21:11:17] WS5-3                       Sun Mar  8 21:11:17 2026  570.211.01
+[2026-03-08 21:11:17] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19103 / 24576 MB | ubuntu-user(18712M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:11:18] WS5-3                       Sun Mar  8 21:11:18 2026  570.211.01
+[2026-03-08 21:11:18] [0] NVIDIA GeForce RTX 3090 | 82°C,  63 % | 23953 / 24576 MB | ubuntu-user(23564M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:11:19] WS5-3                       Sun Mar  8 21:11:19 2026  570.211.01
+[2026-03-08 21:11:19] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 21110 / 24576 MB | ubuntu-user(20720M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:11:20] WS5-3                       Sun Mar  8 21:11:20 2026  570.211.01
+[2026-03-08 21:11:20] [0] NVIDIA GeForce RTX 3090 | 81°C,  79 % | 22477 / 24576 MB | ubuntu-user(22088M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:11:21] WS5-3                       Sun Mar  8 21:11:21 2026  570.211.01
+[2026-03-08 21:11:21] [0] NVIDIA GeForce RTX 3090 | 82°C,  99 % | 18724 / 24576 MB | ubuntu-user(18334M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:11:22] WS5-3                       Sun Mar  8 21:11:22 2026  570.211.01
+[2026-03-08 21:11:22] [0] NVIDIA GeForce RTX 3090 | 82°C,  81 % | 19789 / 24576 MB | ubuntu-user(19754M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:11:23] WS5-3                       Sun Mar  8 21:11:23 2026  570.211.01
+[2026-03-08 21:11:23] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 20192 / 24576 MB | ubuntu-user(19802M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:11:24] WS5-3                       Sun Mar  8 21:11:24 2026  570.211.01
+[2026-03-08 21:11:24] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20191 / 24576 MB | ubuntu-user(19802M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:11:25] WS5-3                       Sun Mar  8 21:11:25 2026  570.211.01
+[2026-03-08 21:11:25] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 17910 / 24576 MB | ubuntu-user(17520M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:11:26] WS5-3                       Sun Mar  8 21:11:26 2026  570.211.01
+[2026-03-08 21:11:26] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18911 / 24576 MB | ubuntu-user(18522M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:11:27] WS5-3                       Sun Mar  8 21:11:27 2026  570.211.01
+[2026-03-08 21:11:27] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18288 / 24576 MB | ubuntu-user(17898M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:11:28] WS5-3                       Sun Mar  8 21:11:28 2026  570.211.01
+[2026-03-08 21:11:28] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19083 / 24576 MB | ubuntu-user(18694M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:11:29] WS5-3                       Sun Mar  8 21:11:29 2026  570.211.01
+[2026-03-08 21:11:29] [0] NVIDIA GeForce RTX 3090 | 83°C,  99 % | 19072 / 24576 MB | ubuntu-user(18682M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:11:30] WS5-3                       Sun Mar  8 21:11:30 2026  570.211.01
+[2026-03-08 21:11:30] [0] NVIDIA GeForce RTX 3090 | 81°C,  83 % | 19071 / 24576 MB | ubuntu-user(18682M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:11:31] WS5-3                       Sun Mar  8 21:11:31 2026  570.211.01
+[2026-03-08 21:11:31] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19038 / 24576 MB | ubuntu-user(18648M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:11:32] WS5-3                       Sun Mar  8 21:11:32 2026  570.211.01
+[2026-03-08 21:11:32] [0] NVIDIA GeForce RTX 3090 | 82°C,  61 % | 21923 / 24576 MB | ubuntu-user(21534M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:11:33] WS5-3                       Sun Mar  8 21:11:33 2026  570.211.01
+[2026-03-08 21:11:33] [0] NVIDIA GeForce RTX 3090 | 82°C,  99 % | 20672 / 24576 MB | ubuntu-user(20282M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:11:34] WS5-3                       Sun Mar  8 21:11:34 2026  570.211.01
+[2026-03-08 21:11:34] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 20671 / 24576 MB | ubuntu-user(20282M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:11:35] WS5-3                       Sun Mar  8 21:11:35 2026  570.211.01
+[2026-03-08 21:11:35] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 17974 / 24576 MB | ubuntu-user(17584M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:11:36] WS5-3                       Sun Mar  8 21:11:36 2026  570.211.01
+[2026-03-08 21:11:36] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18725 / 24576 MB | ubuntu-user(18334M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(163M) ubuntu-user(29M)
+[2026-03-08 21:11:37] WS5-3                       Sun Mar  8 21:11:37 2026  570.211.01
+[2026-03-08 21:11:37] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18845 / 24576 MB | ubuntu-user(18454M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:11:38] WS5-3                       Sun Mar  8 21:11:38 2026  570.211.01
+[2026-03-08 21:11:38] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19719 / 24576 MB | ubuntu-user(19330M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:11:39] WS5-3                       Sun Mar  8 21:11:39 2026  570.211.01
+[2026-03-08 21:11:39] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 17790 / 24576 MB | ubuntu-user(17400M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:11:40] WS5-3                       Sun Mar  8 21:11:40 2026  570.211.01
+[2026-03-08 21:11:40] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20223 / 24576 MB | ubuntu-user(19834M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:11:41] WS5-3                       Sun Mar  8 21:11:41 2026  570.211.01
+[2026-03-08 21:11:41] [0] NVIDIA GeForce RTX 3090 | 84°C,  99 % | 17805 / 24576 MB | ubuntu-user(17414M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(163M) ubuntu-user(29M)
+[2026-03-08 21:11:42] WS5-3                       Sun Mar  8 21:11:42 2026  570.211.01
+[2026-03-08 21:11:42] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20430 / 24576 MB | ubuntu-user(20040M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:11:43] WS5-3                       Sun Mar  8 21:11:43 2026  570.211.01
+[2026-03-08 21:11:43] [0] NVIDIA GeForce RTX 3090 | 83°C,  68 % | 16581 / 24576 MB | ubuntu-user(16192M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(161M) ubuntu-user(29M)
+[2026-03-08 21:11:44] WS5-3                       Sun Mar  8 21:11:44 2026  570.211.01
+[2026-03-08 21:11:44] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18928 / 24576 MB | ubuntu-user(18538M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:11:46] WS5-3                       Sun Mar  8 21:11:46 2026  570.211.01
+[2026-03-08 21:11:46] [0] NVIDIA GeForce RTX 3090 | 82°C,   0 % | 18718 / 24576 MB | ubuntu-user(18160M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:11:46] WS5-3                       Sun Mar  8 21:11:46 2026  570.211.01
+[2026-03-08 21:11:46] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18917 / 24576 MB | ubuntu-user(18526M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(163M) ubuntu-user(29M)
+[2026-03-08 21:11:47] WS5-3                       Sun Mar  8 21:11:47 2026  570.211.01
+[2026-03-08 21:11:47] [0] NVIDIA GeForce RTX 3090 | 82°C,  65 % | 24037 / 24576 MB | ubuntu-user(23646M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(163M) ubuntu-user(29M)
+[2026-03-08 21:11:48] WS5-3                       Sun Mar  8 21:11:48 2026  570.211.01
+[2026-03-08 21:11:48] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 19139 / 24576 MB | ubuntu-user(18748M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:11:49] WS5-3                       Sun Mar  8 21:11:49 2026  570.211.01
+[2026-03-08 21:11:49] [0] NVIDIA GeForce RTX 3090 | 82°C,  54 % | 24012 / 24576 MB | ubuntu-user(23616M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(168M) ubuntu-user(29M)
+[2026-03-08 21:11:50] WS5-3                       Sun Mar  8 21:11:50 2026  570.211.01
+[2026-03-08 21:11:50] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19271 / 24576 MB | ubuntu-user(18872M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(171M) ubuntu-user(29M)
+[2026-03-08 21:11:51] WS5-3                       Sun Mar  8 21:11:51 2026  570.211.01
+[2026-03-08 21:11:51] [0] NVIDIA GeForce RTX 3090 | 82°C,  62 % | 17231 / 24576 MB | ubuntu-user(16184M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(171M) ubuntu-user(29M)
+[2026-03-08 21:11:52] WS5-3                       Sun Mar  8 21:11:52 2026  570.211.01
+[2026-03-08 21:11:52] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 19166 / 24576 MB | ubuntu-user(18754M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(184M) ubuntu-user(29M)
+[2026-03-08 21:11:53] WS5-3                       Sun Mar  8 21:11:53 2026  570.211.01
+[2026-03-08 21:11:53] [0] NVIDIA GeForce RTX 3090 | 83°C,  70 % | 16816 / 24576 MB | ubuntu-user(16404M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(184M) ubuntu-user(29M)
+[2026-03-08 21:11:54] WS5-3                       Sun Mar  8 21:11:54 2026  570.211.01
+[2026-03-08 21:11:54] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19203 / 24576 MB | ubuntu-user(18792M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(183M) ubuntu-user(29M)
+[2026-03-08 21:11:55] WS5-3                       Sun Mar  8 21:11:55 2026  570.211.01
+[2026-03-08 21:11:55] [0] NVIDIA GeForce RTX 3090 | 82°C,  66 % | 22535 / 24576 MB | ubuntu-user(21800M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(185M) ubuntu-user(29M)
+[2026-03-08 21:11:56] WS5-3                       Sun Mar  8 21:11:56 2026  570.211.01
+[2026-03-08 21:11:56] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19751 / 24576 MB | ubuntu-user(19338M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(185M) ubuntu-user(29M)
+[2026-03-08 21:11:57] WS5-3                       Sun Mar  8 21:11:57 2026  570.211.01
+[2026-03-08 21:11:57] [0] NVIDIA GeForce RTX 3090 | 81°C,  66 % | 23943 / 24576 MB | ubuntu-user(23548M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(167M) ubuntu-user(29M)
+[2026-03-08 21:11:58] WS5-3                       Sun Mar  8 21:11:58 2026  570.211.01
+[2026-03-08 21:11:58] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18833 / 24576 MB | ubuntu-user(18432M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(173M) ubuntu-user(29M)
+[2026-03-08 21:11:59] WS5-3                       Sun Mar  8 21:11:59 2026  570.211.01
+[2026-03-08 21:11:59] [0] NVIDIA GeForce RTX 3090 | 82°C,  62 % | 18834 / 24576 MB | ubuntu-user(18432M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(174M) ubuntu-user(29M)
+[2026-03-08 21:12:00] WS5-3                       Sun Mar  8 21:12:00 2026  570.211.01
+[2026-03-08 21:12:00] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18814 / 24576 MB | ubuntu-user(18406M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(180M) ubuntu-user(29M)
+[2026-03-08 21:12:01] WS5-3                       Sun Mar  8 21:12:01 2026  570.211.01
+[2026-03-08 21:12:01] [0] NVIDIA GeForce RTX 3090 | 83°C,  70 % | 23543 / 24576 MB | ubuntu-user(23136M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(179M) ubuntu-user(29M)
+[2026-03-08 21:12:02] WS5-3                       Sun Mar  8 21:12:02 2026  570.211.01
+[2026-03-08 21:12:02] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20514 / 24576 MB | ubuntu-user(20108M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(178M) ubuntu-user(29M)
+[2026-03-08 21:12:03] WS5-3                       Sun Mar  8 21:12:03 2026  570.211.01
+[2026-03-08 21:12:03] [0] NVIDIA GeForce RTX 3090 | 82°C,  59 % | 23551 / 24576 MB | ubuntu-user(23452M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(175M) ubuntu-user(29M)
+[2026-03-08 21:12:04] WS5-3                       Sun Mar  8 21:12:04 2026  570.211.01
+[2026-03-08 21:12:04] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18818 / 24576 MB | ubuntu-user(18408M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(182M) ubuntu-user(29M)
+[2026-03-08 21:12:05] WS5-3                       Sun Mar  8 21:12:05 2026  570.211.01
+[2026-03-08 21:12:05] [0] NVIDIA GeForce RTX 3090 | 82°C,  61 % | 22461 / 24576 MB | ubuntu-user(22042M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(190M) ubuntu-user(29M)
+[2026-03-08 21:12:06] WS5-3                       Sun Mar  8 21:12:06 2026  570.211.01
+[2026-03-08 21:12:06] [0] NVIDIA GeForce RTX 3090 | 84°C, 100 % | 20928 / 24576 MB | ubuntu-user(20510M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(190M) ubuntu-user(29M)
+[2026-03-08 21:12:07] WS5-3                       Sun Mar  8 21:12:07 2026  570.211.01
+[2026-03-08 21:12:07] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20926 / 24576 MB | ubuntu-user(20510M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(188M) ubuntu-user(29M)
+[2026-03-08 21:12:08] WS5-3                       Sun Mar  8 21:12:08 2026  570.211.01
+[2026-03-08 21:12:08] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 17903 / 24576 MB | ubuntu-user(17486M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(189M) ubuntu-user(29M)
+[2026-03-08 21:12:09] WS5-3                       Sun Mar  8 21:12:09 2026  570.211.01
+[2026-03-08 21:12:09] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18647 / 24576 MB | ubuntu-user(18232M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(187M) ubuntu-user(29M)
+[2026-03-08 21:12:10] WS5-3                       Sun Mar  8 21:12:10 2026  570.211.01
+[2026-03-08 21:12:10] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 16692 / 24576 MB | ubuntu-user(16278M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(186M) ubuntu-user(29M)
+[2026-03-08 21:12:11] WS5-3                       Sun Mar  8 21:12:11 2026  570.211.01
+[2026-03-08 21:12:11] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18825 / 24576 MB | ubuntu-user(18412M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(185M) ubuntu-user(29M)
+[2026-03-08 21:12:12] WS5-3                       Sun Mar  8 21:12:12 2026  570.211.01
+[2026-03-08 21:12:12] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 17686 / 24576 MB | ubuntu-user(17286M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(172M) ubuntu-user(29M)
+[2026-03-08 21:12:13] WS5-3                       Sun Mar  8 21:12:13 2026  570.211.01
+[2026-03-08 21:12:13] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18283 / 24576 MB | ubuntu-user(17854M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(201M) ubuntu-user(29M)
+[2026-03-08 21:12:14] WS5-3                       Sun Mar  8 21:12:14 2026  570.211.01
+[2026-03-08 21:12:14] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 19268 / 24576 MB | ubuntu-user(18838M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(202M) ubuntu-user(29M)
+[2026-03-08 21:12:15] WS5-3                       Sun Mar  8 21:12:15 2026  570.211.01
+[2026-03-08 21:12:15] [0] NVIDIA GeForce RTX 3090 | 82°C,  82 % | 19259 / 24576 MB | ubuntu-user(18838M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(193M) ubuntu-user(29M)
+[2026-03-08 21:12:16] WS5-3                       Sun Mar  8 21:12:16 2026  570.211.01
+[2026-03-08 21:12:16] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 19187 / 24576 MB | ubuntu-user(18764M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(195M) ubuntu-user(29M)
+[2026-03-08 21:12:17] WS5-3                       Sun Mar  8 21:12:17 2026  570.211.01
+[2026-03-08 21:12:17] [0] NVIDIA GeForce RTX 3090 | 81°C,  63 % | 21059 / 24576 MB | ubuntu-user(20918M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(195M) ubuntu-user(29M)
+[2026-03-08 21:12:18] WS5-3                       Sun Mar  8 21:12:18 2026  570.211.01
+[2026-03-08 21:12:18] [0] NVIDIA GeForce RTX 3090 | 86°C,  99 % | 20763 / 24576 MB | ubuntu-user(20342M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(193M) ubuntu-user(29M)
+[2026-03-08 21:12:19] WS5-3                       Sun Mar  8 21:12:19 2026  570.211.01
+[2026-03-08 21:12:19] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20761 / 24576 MB | ubuntu-user(20342M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(191M) ubuntu-user(29M)
+[2026-03-08 21:12:20] WS5-3                       Sun Mar  8 21:12:20 2026  570.211.01
+[2026-03-08 21:12:20] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 16838 / 24576 MB | ubuntu-user(16424M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(186M) ubuntu-user(29M)
+[2026-03-08 21:12:21] WS5-3                       Sun Mar  8 21:12:21 2026  570.211.01
+[2026-03-08 21:12:21] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 19166 / 24576 MB | ubuntu-user(18756M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(182M) ubuntu-user(29M)
+[2026-03-08 21:12:22] WS5-3                       Sun Mar  8 21:12:22 2026  570.211.01
+[2026-03-08 21:12:22] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 17956 / 24576 MB | ubuntu-user(17546M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(182M) ubuntu-user(29M)
+[2026-03-08 21:12:23] WS5-3                       Sun Mar  8 21:12:23 2026  570.211.01
+[2026-03-08 21:12:23] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18686 / 24576 MB | ubuntu-user(18286M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(172M) ubuntu-user(29M)
+[2026-03-08 21:12:24] WS5-3                       Sun Mar  8 21:12:24 2026  570.211.01
+[2026-03-08 21:12:24] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18042 / 24576 MB | ubuntu-user(17642M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(172M) ubuntu-user(29M)
+[2026-03-08 21:12:25] WS5-3                       Sun Mar  8 21:12:25 2026  570.211.01
+[2026-03-08 21:12:25] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18800 / 24576 MB | ubuntu-user(18402M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(170M) ubuntu-user(29M)
+[2026-03-08 21:12:26] WS5-3                       Sun Mar  8 21:12:26 2026  570.211.01
+[2026-03-08 21:12:26] [0] NVIDIA GeForce RTX 3090 | 83°C,  99 % | 19381 / 24576 MB | ubuntu-user(18984M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(169M) ubuntu-user(29M)
+[2026-03-08 21:12:27] WS5-3                       Sun Mar  8 21:12:27 2026  570.211.01
+[2026-03-08 21:12:27] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19381 / 24576 MB | ubuntu-user(18984M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(169M) ubuntu-user(29M)
+[2026-03-08 21:12:28] WS5-3                       Sun Mar  8 21:12:28 2026  570.211.01
+[2026-03-08 21:12:28] [0] NVIDIA GeForce RTX 3090 | 83°C,  99 % | 18346 / 24576 MB | ubuntu-user(17952M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:12:29] WS5-3                       Sun Mar  8 21:12:29 2026  570.211.01
+[2026-03-08 21:12:29] [0] NVIDIA GeForce RTX 3090 | 82°C,  63 % | 18360 / 24576 MB | ubuntu-user(17952M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(180M) ubuntu-user(29M)
+[2026-03-08 21:12:30] WS5-3                       Sun Mar  8 21:12:30 2026  570.211.01
+[2026-03-08 21:12:30] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18338 / 24576 MB | ubuntu-user(17938M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(172M) ubuntu-user(29M)
+[2026-03-08 21:12:31] WS5-3                       Sun Mar  8 21:12:31 2026  570.211.01
+[2026-03-08 21:12:31] [0] NVIDIA GeForce RTX 3090 | 81°C,  61 % | 21776 / 24576 MB | ubuntu-user(21378M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(170M) ubuntu-user(29M)
+[2026-03-08 21:12:32] WS5-3                       Sun Mar  8 21:12:32 2026  570.211.01
+[2026-03-08 21:12:32] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 19561 / 24576 MB | ubuntu-user(19144M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(189M) ubuntu-user(29M)
+[2026-03-08 21:12:33] WS5-3                       Sun Mar  8 21:12:33 2026  570.211.01
+[2026-03-08 21:12:33] [0] NVIDIA GeForce RTX 3090 | 81°C,  56 % | 22091 / 24576 MB | ubuntu-user(21680M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(183M) ubuntu-user(29M)
+[2026-03-08 21:12:34] WS5-3                       Sun Mar  8 21:12:34 2026  570.211.01
+[2026-03-08 21:12:34] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18642 / 24576 MB | ubuntu-user(18232M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(182M) ubuntu-user(29M)
+[2026-03-08 21:12:35] WS5-3                       Sun Mar  8 21:12:35 2026  570.211.01
+[2026-03-08 21:12:35] [0] NVIDIA GeForce RTX 3090 | 83°C,  58 % | 23048 / 24576 MB | ubuntu-user(22638M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(182M) ubuntu-user(29M)
+[2026-03-08 21:12:36] WS5-3                       Sun Mar  8 21:12:36 2026  570.211.01
+[2026-03-08 21:12:36] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19306 / 24576 MB | ubuntu-user(18896M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(182M) ubuntu-user(29M)
+[2026-03-08 21:12:37] WS5-3                       Sun Mar  8 21:12:37 2026  570.211.01
+[2026-03-08 21:12:37] [0] NVIDIA GeForce RTX 3090 | 82°C,  58 % | 19295 / 24576 MB | ubuntu-user(18896M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(171M) ubuntu-user(29M)
+[2026-03-08 21:12:38] WS5-3                       Sun Mar  8 21:12:38 2026  570.211.01
+[2026-03-08 21:12:38] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 19209 / 24576 MB | ubuntu-user(18810M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(171M) ubuntu-user(29M)
+[2026-03-08 21:12:39] WS5-3                       Sun Mar  8 21:12:39 2026  570.211.01
+[2026-03-08 21:12:39] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 16295 / 24576 MB | ubuntu-user(15886M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(181M) ubuntu-user(29M)
+[2026-03-08 21:12:40] WS5-3                       Sun Mar  8 21:12:40 2026  570.211.01
+[2026-03-08 21:12:40] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18480 / 24576 MB | ubuntu-user(18070M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(182M) ubuntu-user(29M)
+[2026-03-08 21:12:41] WS5-3                       Sun Mar  8 21:12:41 2026  570.211.01
+[2026-03-08 21:12:41] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 16931 / 24576 MB | ubuntu-user(16496M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(207M) ubuntu-user(29M)
+[2026-03-08 21:12:42] WS5-3                       Sun Mar  8 21:12:42 2026  570.211.01
+[2026-03-08 21:12:42] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 19086 / 24576 MB | ubuntu-user(18650M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(208M) ubuntu-user(29M)
+[2026-03-08 21:12:43] WS5-3                       Sun Mar  8 21:12:43 2026  570.211.01
+[2026-03-08 21:12:43] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 17050 / 24576 MB | ubuntu-user(16620M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(202M) ubuntu-user(29M)
+[2026-03-08 21:12:44] WS5-3                       Sun Mar  8 21:12:44 2026  570.211.01
+[2026-03-08 21:12:44] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19455 / 24576 MB | ubuntu-user(19026M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(201M) ubuntu-user(29M)
+[2026-03-08 21:12:46] WS5-3                       Sun Mar  8 21:12:46 2026  570.211.01
+[2026-03-08 21:12:46] [0] NVIDIA GeForce RTX 3090 | 82°C,   0 % | 23942 / 24576 MB | ubuntu-user(23328M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(198M) ubuntu-user(29M)
+[2026-03-08 21:12:46] WS5-3                       Sun Mar  8 21:12:46 2026  570.211.01
+[2026-03-08 21:12:46] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20787 / 24576 MB | ubuntu-user(20360M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(199M) ubuntu-user(29M)
+[2026-03-08 21:12:47] WS5-3                       Sun Mar  8 21:12:47 2026  570.211.01
+[2026-03-08 21:12:47] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 21377 / 24576 MB | ubuntu-user(20984M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(165M) ubuntu-user(29M)
+[2026-03-08 21:12:48] WS5-3                       Sun Mar  8 21:12:48 2026  570.211.01
+[2026-03-08 21:12:48] [0] NVIDIA GeForce RTX 3090 | 83°C,  99 % | 18960 / 24576 MB | ubuntu-user(18570M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:12:49] WS5-3                       Sun Mar  8 21:12:49 2026  570.211.01
+[2026-03-08 21:12:49] [0] NVIDIA GeForce RTX 3090 | 82°C,  53 % | 20918 / 24576 MB | ubuntu-user(20528M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:12:50] WS5-3                       Sun Mar  8 21:12:50 2026  570.211.01
+[2026-03-08 21:12:50] [0] NVIDIA GeForce RTX 3090 | 82°C,  99 % | 19230 / 24576 MB | ubuntu-user(18840M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(162M) ubuntu-user(29M)
+[2026-03-08 21:12:51] WS5-3                       Sun Mar  8 21:12:51 2026  570.211.01
+[2026-03-08 21:12:51] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 19609 / 24576 MB | ubuntu-user(19210M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(171M) ubuntu-user(29M)
+[2026-03-08 21:12:52] WS5-3                       Sun Mar  8 21:12:52 2026  570.211.01
+[2026-03-08 21:12:52] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 19537 / 24576 MB | ubuntu-user(19138M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(171M) ubuntu-user(29M)
+[2026-03-08 21:12:53] WS5-3                       Sun Mar  8 21:12:53 2026  570.211.01
+[2026-03-08 21:12:53] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20651 / 24576 MB | ubuntu-user(20252M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(171M) ubuntu-user(29M)
+[2026-03-08 21:12:54] WS5-3                       Sun Mar  8 21:12:54 2026  570.211.01
+[2026-03-08 21:12:54] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 16820 / 24576 MB | ubuntu-user(16422M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(170M) ubuntu-user(29M)
+[2026-03-08 21:12:55] WS5-3                       Sun Mar  8 21:12:55 2026  570.211.01
+[2026-03-08 21:12:55] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19230 / 24576 MB | ubuntu-user(18832M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(170M) ubuntu-user(29M)
+[2026-03-08 21:12:56] WS5-3                       Sun Mar  8 21:12:56 2026  570.211.01
+[2026-03-08 21:12:56] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18360 / 24576 MB | ubuntu-user(17964M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(168M) ubuntu-user(29M)
+[2026-03-08 21:12:57] WS5-3                       Sun Mar  8 21:12:57 2026  570.211.01
+[2026-03-08 21:12:57] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19130 / 24576 MB | ubuntu-user(18734M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(168M) ubuntu-user(29M)
+[2026-03-08 21:12:58] WS5-3                       Sun Mar  8 21:12:58 2026  570.211.01
+[2026-03-08 21:12:58] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 17949 / 24576 MB | ubuntu-user(17552M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(169M) ubuntu-user(29M)
+[2026-03-08 21:12:59] WS5-3                       Sun Mar  8 21:12:59 2026  570.211.01
+[2026-03-08 21:12:59] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20426 / 24576 MB | ubuntu-user(20010M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(188M) ubuntu-user(29M)
+[2026-03-08 21:13:00] WS5-3                       Sun Mar  8 21:13:00 2026  570.211.01
+[2026-03-08 21:13:00] [0] NVIDIA GeForce RTX 3090 | 83°C,  92 % | 17242 / 24576 MB | ubuntu-user(16822M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(192M) ubuntu-user(29M)
+[2026-03-08 21:13:01] WS5-3                       Sun Mar  8 21:13:01 2026  570.211.01
+[2026-03-08 21:13:01] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19702 / 24576 MB | ubuntu-user(19282M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(192M) ubuntu-user(29M)
+[2026-03-08 21:13:02] WS5-3                       Sun Mar  8 21:13:02 2026  570.211.01
+[2026-03-08 21:13:02] [0] NVIDIA GeForce RTX 3090 | 83°C,  68 % | 16985 / 24576 MB | ubuntu-user(15882M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(191M) ubuntu-user(29M)
+[2026-03-08 21:13:03] WS5-3                       Sun Mar  8 21:13:03 2026  570.211.01
+[2026-03-08 21:13:03] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18802 / 24576 MB | ubuntu-user(18388M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(186M) ubuntu-user(29M)
+[2026-03-08 21:13:04] WS5-3                       Sun Mar  8 21:13:04 2026  570.211.01
+[2026-03-08 21:13:04] [0] NVIDIA GeForce RTX 3090 | 83°C,  94 % | 16468 / 24576 MB | ubuntu-user(16054M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(186M) ubuntu-user(29M)
+[2026-03-08 21:13:05] WS5-3                       Sun Mar  8 21:13:05 2026  570.211.01
+[2026-03-08 21:13:05] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18772 / 24576 MB | ubuntu-user(18370M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(174M) ubuntu-user(29M)
+[2026-03-08 21:13:06] WS5-3                       Sun Mar  8 21:13:06 2026  570.211.01
+[2026-03-08 21:13:06] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 16827 / 24576 MB | ubuntu-user(16430M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(169M) ubuntu-user(29M)
+[2026-03-08 21:13:07] WS5-3                       Sun Mar  8 21:13:07 2026  570.211.01
+[2026-03-08 21:13:07] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19234 / 24576 MB | ubuntu-user(18840M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:08] WS5-3                       Sun Mar  8 21:13:08 2026  570.211.01
+[2026-03-08 21:13:08] [0] NVIDIA GeForce RTX 3090 | 84°C,  99 % | 18016 / 24576 MB | ubuntu-user(17622M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:09] WS5-3                       Sun Mar  8 21:13:09 2026  570.211.01
+[2026-03-08 21:13:09] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20667 / 24576 MB | ubuntu-user(20272M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(167M) ubuntu-user(29M)
+[2026-03-08 21:13:10] WS5-3                       Sun Mar  8 21:13:10 2026  570.211.01
+[2026-03-08 21:13:10] [0] NVIDIA GeForce RTX 3090 | 83°C,  70 % | 23875 / 24576 MB | ubuntu-user(23480M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(167M) ubuntu-user(29M)
+[2026-03-08 21:13:11] WS5-3                       Sun Mar  8 21:13:11 2026  570.211.01
+[2026-03-08 21:13:11] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20706 / 24576 MB | ubuntu-user(20312M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:12] WS5-3                       Sun Mar  8 21:13:12 2026  570.211.01
+[2026-03-08 21:13:12] [0] NVIDIA GeForce RTX 3090 | 82°C,  60 % | 23594 / 24576 MB | ubuntu-user(23200M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:13] WS5-3                       Sun Mar  8 21:13:13 2026  570.211.01
+[2026-03-08 21:13:13] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18818 / 24576 MB | ubuntu-user(18424M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:14] WS5-3                       Sun Mar  8 21:13:14 2026  570.211.01
+[2026-03-08 21:13:14] [0] NVIDIA GeForce RTX 3090 | 82°C,  60 % | 22669 / 24576 MB | ubuntu-user(22274M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(167M) ubuntu-user(29M)
+[2026-03-08 21:13:15] WS5-3                       Sun Mar  8 21:13:15 2026  570.211.01
+[2026-03-08 21:13:15] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18855 / 24576 MB | ubuntu-user(18460M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(167M) ubuntu-user(29M)
+[2026-03-08 21:13:16] WS5-3                       Sun Mar  8 21:13:16 2026  570.211.01
+[2026-03-08 21:13:16] [0] NVIDIA GeForce RTX 3090 | 82°C,  55 % | 23730 / 24576 MB | ubuntu-user(23336M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:17] WS5-3                       Sun Mar  8 21:13:17 2026  570.211.01
+[2026-03-08 21:13:17] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20670 / 24576 MB | ubuntu-user(20276M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:18] WS5-3                       Sun Mar  8 21:13:18 2026  570.211.01
+[2026-03-08 21:13:18] [0] NVIDIA GeForce RTX 3090 | 83°C,  62 % | 23308 / 24576 MB | ubuntu-user(22914M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:19] WS5-3                       Sun Mar  8 21:13:19 2026  570.211.01
+[2026-03-08 21:13:19] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18960 / 24576 MB | ubuntu-user(18566M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:20] WS5-3                       Sun Mar  8 21:13:20 2026  570.211.01
+[2026-03-08 21:13:20] [0] NVIDIA GeForce RTX 3090 | 82°C,  66 % | 22634 / 24576 MB | ubuntu-user(22598M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:21] WS5-3                       Sun Mar  8 21:13:21 2026  570.211.01
+[2026-03-08 21:13:21] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20360 / 24576 MB | ubuntu-user(19966M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:22] WS5-3                       Sun Mar  8 21:13:22 2026  570.211.01
+[2026-03-08 21:13:22] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 21236 / 24576 MB | ubuntu-user(20842M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:23] WS5-3                       Sun Mar  8 21:13:23 2026  570.211.01
+[2026-03-08 21:13:23] [0] NVIDIA GeForce RTX 3090 | 82°C,  99 % | 18396 / 24576 MB | ubuntu-user(18002M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:24] WS5-3                       Sun Mar  8 21:13:24 2026  570.211.01
+[2026-03-08 21:13:24] [0] NVIDIA GeForce RTX 3090 | 82°C,  80 % | 18396 / 24576 MB | ubuntu-user(18002M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:25] WS5-3                       Sun Mar  8 21:13:25 2026  570.211.01
+[2026-03-08 21:13:25] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18372 / 24576 MB | ubuntu-user(17978M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:26] WS5-3                       Sun Mar  8 21:13:26 2026  570.211.01
+[2026-03-08 21:13:26] [0] NVIDIA GeForce RTX 3090 | 82°C,  59 % | 22848 / 24576 MB | ubuntu-user(22454M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:27] WS5-3                       Sun Mar  8 21:13:27 2026  570.211.01
+[2026-03-08 21:13:27] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18696 / 24576 MB | ubuntu-user(18302M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:28] WS5-3                       Sun Mar  8 21:13:28 2026  570.211.01
+[2026-03-08 21:13:28] [0] NVIDIA GeForce RTX 3090 | 83°C,  48 % | 24046 / 24576 MB | ubuntu-user(23652M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:29] WS5-3                       Sun Mar  8 21:13:29 2026  570.211.01
+[2026-03-08 21:13:29] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 19426 / 24576 MB | ubuntu-user(19032M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:30] WS5-3                       Sun Mar  8 21:13:30 2026  570.211.01
+[2026-03-08 21:13:30] [0] NVIDIA GeForce RTX 3090 | 82°C,  66 % | 19426 / 24576 MB | ubuntu-user(19032M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:31] WS5-3                       Sun Mar  8 21:13:31 2026  570.211.01
+[2026-03-08 21:13:31] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19344 / 24576 MB | ubuntu-user(18950M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:32] WS5-3                       Sun Mar  8 21:13:32 2026  570.211.01
+[2026-03-08 21:13:32] [0] NVIDIA GeForce RTX 3090 | 82°C,  54 % | 19266 / 24576 MB | ubuntu-user(18828M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:33] WS5-3                       Sun Mar  8 21:13:33 2026  570.211.01
+[2026-03-08 21:13:33] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19390 / 24576 MB | ubuntu-user(18996M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:34] WS5-3                       Sun Mar  8 21:13:34 2026  570.211.01
+[2026-03-08 21:13:34] [0] NVIDIA GeForce RTX 3090 | 82°C,  65 % | 19390 / 24576 MB | ubuntu-user(18996M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:35] WS5-3                       Sun Mar  8 21:13:35 2026  570.211.01
+[2026-03-08 21:13:35] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19394 / 24576 MB | ubuntu-user(19000M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:36] WS5-3                       Sun Mar  8 21:13:36 2026  570.211.01
+[2026-03-08 21:13:36] [0] NVIDIA GeForce RTX 3090 | 83°C,  78 % | 16484 / 24576 MB | ubuntu-user(16086M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:37] WS5-3                       Sun Mar  8 21:13:37 2026  570.211.01
+[2026-03-08 21:13:37] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 19060 / 24576 MB | ubuntu-user(18666M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:38] WS5-3                       Sun Mar  8 21:13:38 2026  570.211.01
+[2026-03-08 21:13:38] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 16679 / 24576 MB | ubuntu-user(16284M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(167M) ubuntu-user(29M)
+[2026-03-08 21:13:39] WS5-3                       Sun Mar  8 21:13:39 2026  570.211.01
+[2026-03-08 21:13:39] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18995 / 24576 MB | ubuntu-user(18600M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(167M) ubuntu-user(29M)
+[2026-03-08 21:13:40] WS5-3                       Sun Mar  8 21:13:40 2026  570.211.01
+[2026-03-08 21:13:40] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 17860 / 24576 MB | ubuntu-user(17466M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:41] WS5-3                       Sun Mar  8 21:13:41 2026  570.211.01
+[2026-03-08 21:13:41] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20490 / 24576 MB | ubuntu-user(20096M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:42] WS5-3                       Sun Mar  8 21:13:42 2026  570.211.01
+[2026-03-08 21:13:42] [0] NVIDIA GeForce RTX 3090 | 82°C,  60 % | 24016 / 24576 MB | ubuntu-user(23622M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:43] WS5-3                       Sun Mar  8 21:13:43 2026  570.211.01
+[2026-03-08 21:13:43] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18731 / 24576 MB | ubuntu-user(18336M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(167M) ubuntu-user(29M)
+[2026-03-08 21:13:44] WS5-3                       Sun Mar  8 21:13:44 2026  570.211.01
+[2026-03-08 21:13:44] [0] NVIDIA GeForce RTX 3090 | 82°C,  72 % | 21885 / 24576 MB | ubuntu-user(21340M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(167M) ubuntu-user(29M)
+[2026-03-08 21:13:46] WS5-3                       Sun Mar  8 21:13:46 2026  570.211.01
+[2026-03-08 21:13:46] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19312 / 24576 MB | ubuntu-user(18918M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:46] WS5-3                       Sun Mar  8 21:13:46 2026  570.211.01
+[2026-03-08 21:13:46] [0] NVIDIA GeForce RTX 3090 | 83°C,  69 % | 23972 / 24576 MB | ubuntu-user(23578M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:47] WS5-3                       Sun Mar  8 21:13:47 2026  570.211.01
+[2026-03-08 21:13:47] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20686 / 24576 MB | ubuntu-user(20292M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:48] WS5-3                       Sun Mar  8 21:13:48 2026  570.211.01
+[2026-03-08 21:13:48] [0] NVIDIA GeForce RTX 3090 | 82°C,  62 % | 23359 / 24576 MB | ubuntu-user(22964M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(167M) ubuntu-user(29M)
+[2026-03-08 21:13:49] WS5-3                       Sun Mar  8 21:13:49 2026  570.211.01
+[2026-03-08 21:13:49] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19597 / 24576 MB | ubuntu-user(19202M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(167M) ubuntu-user(29M)
+[2026-03-08 21:13:50] WS5-3                       Sun Mar  8 21:13:50 2026  570.211.01
+[2026-03-08 21:13:50] [0] NVIDIA GeForce RTX 3090 | 81°C,  63 % | 23194 / 24576 MB | ubuntu-user(22800M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:51] WS5-3                       Sun Mar  8 21:13:51 2026  570.211.01
+[2026-03-08 21:13:51] [0] NVIDIA GeForce RTX 3090 | 83°C,  99 % | 21666 / 24576 MB | ubuntu-user(21272M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:52] WS5-3                       Sun Mar  8 21:13:52 2026  570.211.01
+[2026-03-08 21:13:52] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 21666 / 24576 MB | ubuntu-user(21272M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:53] WS5-3                       Sun Mar  8 21:13:53 2026  570.211.01
+[2026-03-08 21:13:53] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 16729 / 24576 MB | ubuntu-user(16334M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(167M) ubuntu-user(29M)
+[2026-03-08 21:13:54] WS5-3                       Sun Mar  8 21:13:54 2026  570.211.01
+[2026-03-08 21:13:54] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19105 / 24576 MB | ubuntu-user(18710M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(167M) ubuntu-user(29M)
+[2026-03-08 21:13:55] WS5-3                       Sun Mar  8 21:13:55 2026  570.211.01
+[2026-03-08 21:13:55] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 17008 / 24576 MB | ubuntu-user(16614M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:56] WS5-3                       Sun Mar  8 21:13:56 2026  570.211.01
+[2026-03-08 21:13:56] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19176 / 24576 MB | ubuntu-user(18782M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:57] WS5-3                       Sun Mar  8 21:13:57 2026  570.211.01
+[2026-03-08 21:13:57] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18316 / 24576 MB | ubuntu-user(17922M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:13:58] WS5-3                       Sun Mar  8 21:13:58 2026  570.211.01
+[2026-03-08 21:13:58] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 19077 / 24576 MB | ubuntu-user(18682M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(167M) ubuntu-user(29M)
+[2026-03-08 21:13:59] WS5-3                       Sun Mar  8 21:13:59 2026  570.211.01
+[2026-03-08 21:13:59] [0] NVIDIA GeForce RTX 3090 | 83°C,  99 % | 19151 / 24576 MB | ubuntu-user(18756M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(167M) ubuntu-user(29M)
+[2026-03-08 21:14:00] WS5-3                       Sun Mar  8 21:14:00 2026  570.211.01
+[2026-03-08 21:14:00] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 19446 / 24576 MB | ubuntu-user(19052M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:14:01] WS5-3                       Sun Mar  8 21:14:01 2026  570.211.01
+[2026-03-08 21:14:01] [0] NVIDIA GeForce RTX 3090 | 82°C,  99 % | 18682 / 24576 MB | ubuntu-user(18288M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:14:02] WS5-3                       Sun Mar  8 21:14:02 2026  570.211.01
+[2026-03-08 21:14:02] [0] NVIDIA GeForce RTX 3090 | 83°C,  60 % | 18682 / 24576 MB | ubuntu-user(18288M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:14:03] WS5-3                       Sun Mar  8 21:14:03 2026  570.211.01
+[2026-03-08 21:14:03] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18654 / 24576 MB | ubuntu-user(18260M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:14:04] WS5-3                       Sun Mar  8 21:14:04 2026  570.211.01
+[2026-03-08 21:14:04] [0] NVIDIA GeForce RTX 3090 | 82°C,  61 % | 23758 / 24576 MB | ubuntu-user(23364M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:14:05] WS5-3                       Sun Mar  8 21:14:05 2026  570.211.01
+[2026-03-08 21:14:05] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 19846 / 24576 MB | ubuntu-user(19452M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:14:06] WS5-3                       Sun Mar  8 21:14:06 2026  570.211.01
+[2026-03-08 21:14:06] [0] NVIDIA GeForce RTX 3090 | 81°C,  60 % | 22910 / 24576 MB | ubuntu-user(22516M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:14:07] WS5-3                       Sun Mar  8 21:14:07 2026  570.211.01
+[2026-03-08 21:14:07] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18828 / 24576 MB | ubuntu-user(18434M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:14:08] WS5-3                       Sun Mar  8 21:14:08 2026  570.211.01
+[2026-03-08 21:14:08] [0] NVIDIA GeForce RTX 3090 | 82°C,  61 % | 18828 / 24576 MB | ubuntu-user(18434M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:14:09] WS5-3                       Sun Mar  8 21:14:09 2026  570.211.01
+[2026-03-08 21:14:09] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18644 / 24576 MB | ubuntu-user(18250M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:14:10] WS5-3                       Sun Mar  8 21:14:10 2026  570.211.01
+[2026-03-08 21:14:10] [0] NVIDIA GeForce RTX 3090 | 81°C,  75 % | 16476 / 24576 MB | ubuntu-user(16082M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:14:11] WS5-3                       Sun Mar  8 21:14:11 2026  570.211.01
+[2026-03-08 21:14:11] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18830 / 24576 MB | ubuntu-user(18436M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:14:12] WS5-3                       Sun Mar  8 21:14:12 2026  570.211.01
+[2026-03-08 21:14:12] [0] NVIDIA GeForce RTX 3090 | 83°C,  90 % | 17761 / 24576 MB | ubuntu-user(17366M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(167M) ubuntu-user(29M)
+[2026-03-08 21:14:13] WS5-3                       Sun Mar  8 21:14:13 2026  570.211.01
+[2026-03-08 21:14:13] [0] NVIDIA GeForce RTX 3090 | 85°C, 100 % | 20387 / 24576 MB | ubuntu-user(19992M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(167M) ubuntu-user(29M)
+[2026-03-08 21:14:14] WS5-3                       Sun Mar  8 21:14:14 2026  570.211.01
+[2026-03-08 21:14:14] [0] NVIDIA GeForce RTX 3090 | 83°C,  57 % | 23818 / 24576 MB | ubuntu-user(23424M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:14:15] WS5-3                       Sun Mar  8 21:14:15 2026  570.211.01
+[2026-03-08 21:14:15] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18988 / 24576 MB | ubuntu-user(18594M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:14:16] WS5-3                       Sun Mar  8 21:14:16 2026  570.211.01
+[2026-03-08 21:14:16] [0] NVIDIA GeForce RTX 3090 | 82°C,  59 % | 18988 / 24576 MB | ubuntu-user(18594M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:14:17] WS5-3                       Sun Mar  8 21:14:17 2026  570.211.01
+[2026-03-08 21:14:17] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18912 / 24576 MB | ubuntu-user(18518M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:14:18] WS5-3                       Sun Mar  8 21:14:18 2026  570.211.01
+[2026-03-08 21:14:18] [0] NVIDIA GeForce RTX 3090 | 82°C,  60 % | 18912 / 24576 MB | ubuntu-user(18518M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:14:19] WS5-3                       Sun Mar  8 21:14:19 2026  570.211.01
+[2026-03-08 21:14:19] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18908 / 24576 MB | ubuntu-user(18514M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:14:20] WS5-3                       Sun Mar  8 21:14:20 2026  570.211.01
+[2026-03-08 21:14:20] [0] NVIDIA GeForce RTX 3090 | 82°C,  75 % | 16514 / 24576 MB | ubuntu-user(16120M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:14:21] WS5-3                       Sun Mar  8 21:14:21 2026  570.211.01
+[2026-03-08 21:14:21] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18820 / 24576 MB | ubuntu-user(18426M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(166M) ubuntu-user(29M)
+[2026-03-08 21:14:22] WS5-3                       Sun Mar  8 21:14:22 2026  570.211.01
+[2026-03-08 21:14:22] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 17719 / 24576 MB | ubuntu-user(17324M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(167M) ubuntu-user(29M)
+[2026-03-08 21:14:24] WS5-3                       Sun Mar  8 21:14:24 2026  570.211.01
+[2026-03-08 21:14:24] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20335 / 24576 MB | ubuntu-user(19940M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(167M) ubuntu-user(29M)
+[2026-03-08 21:14:25] WS5-3                       Sun Mar  8 21:14:25 2026  570.211.01
+[2026-03-08 21:14:25] [0] NVIDIA GeForce RTX 3090 | 82°C,  55 % | 23803 / 24576 MB | ubuntu-user(23484M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(91M) ubuntu-user(29M)
+[2026-03-08 21:14:26] WS5-3                       Sun Mar  8 21:14:26 2026  570.211.01
+[2026-03-08 21:14:26] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19336 / 24576 MB | ubuntu-user(19018M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:14:27] WS5-3                       Sun Mar  8 21:14:27 2026  570.211.01
+[2026-03-08 21:14:27] [0] NVIDIA GeForce RTX 3090 | 82°C,  59 % | 23184 / 24576 MB | ubuntu-user(22686M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:14:28] WS5-3                       Sun Mar  8 21:14:28 2026  570.211.01
+[2026-03-08 21:14:28] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18595 / 24576 MB | ubuntu-user(18276M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(91M) ubuntu-user(29M)
+[2026-03-08 21:14:29] WS5-3                       Sun Mar  8 21:14:29 2026  570.211.01
+[2026-03-08 21:14:29] [0] NVIDIA GeForce RTX 3090 | 83°C,  64 % | 23665 / 24576 MB | ubuntu-user(23346M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(91M) ubuntu-user(29M)
+[2026-03-08 21:14:30] WS5-3                       Sun Mar  8 21:14:30 2026  570.211.01
+[2026-03-08 21:14:30] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 21265 / 24576 MB | ubuntu-user(20946M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(91M) ubuntu-user(29M)
+[2026-03-08 21:14:31] WS5-3                       Sun Mar  8 21:14:31 2026  570.211.01
+[2026-03-08 21:14:31] [0] NVIDIA GeForce RTX 3090 | 82°C,  61 % | 23889 / 24576 MB | ubuntu-user(23570M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:14:32] WS5-3                       Sun Mar  8 21:14:32 2026  570.211.01
+[2026-03-08 21:14:32] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18705 / 24576 MB | ubuntu-user(18386M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:14:33] WS5-3                       Sun Mar  8 21:14:33 2026  570.211.01
+[2026-03-08 21:14:33] [0] NVIDIA GeForce RTX 3090 | 82°C,  59 % | 18705 / 24576 MB | ubuntu-user(18386M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(91M) ubuntu-user(29M)
+[2026-03-08 21:14:34] WS5-3                       Sun Mar  8 21:14:34 2026  570.211.01
+[2026-03-08 21:14:34] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18675 / 24576 MB | ubuntu-user(18356M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(91M) ubuntu-user(29M)
+[2026-03-08 21:14:35] WS5-3                       Sun Mar  8 21:14:35 2026  570.211.01
+[2026-03-08 21:14:35] [0] NVIDIA GeForce RTX 3090 | 82°C,  60 % | 23865 / 24576 MB | ubuntu-user(23546M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(91M) ubuntu-user(29M)
+[2026-03-08 21:14:36] WS5-3                       Sun Mar  8 21:14:36 2026  570.211.01
+[2026-03-08 21:14:36] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18889 / 24576 MB | ubuntu-user(18570M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:14:37] WS5-3                       Sun Mar  8 21:14:37 2026  570.211.01
+[2026-03-08 21:14:37] [0] NVIDIA GeForce RTX 3090 | 82°C,  72 % | 16489 / 24576 MB | ubuntu-user(16170M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:14:38] WS5-3                       Sun Mar  8 21:14:38 2026  570.211.01
+[2026-03-08 21:14:38] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18816 / 24576 MB | ubuntu-user(18498M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:14:39] WS5-3                       Sun Mar  8 21:14:39 2026  570.211.01
+[2026-03-08 21:14:39] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 16532 / 24576 MB | ubuntu-user(16214M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:14:40] WS5-3                       Sun Mar  8 21:14:40 2026  570.211.01
+[2026-03-08 21:14:40] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18848 / 24576 MB | ubuntu-user(18530M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:14:41] WS5-3                       Sun Mar  8 21:14:41 2026  570.211.01
+[2026-03-08 21:14:41] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18102 / 24576 MB | ubuntu-user(17784M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:14:42] WS5-3                       Sun Mar  8 21:14:42 2026  570.211.01
+[2026-03-08 21:14:42] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18862 / 24576 MB | ubuntu-user(18544M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:14:43] WS5-3                       Sun Mar  8 21:14:43 2026  570.211.01
+[2026-03-08 21:14:43] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18870 / 24576 MB | ubuntu-user(18552M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:14:44] WS5-3                       Sun Mar  8 21:14:44 2026  570.211.01
+[2026-03-08 21:14:44] [0] NVIDIA GeForce RTX 3090 | 82°C,  59 % | 18870 / 24576 MB | ubuntu-user(18552M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:14:45] WS5-3                       Sun Mar  8 21:14:45 2026  570.211.01
+[2026-03-08 21:14:45] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18890 / 24576 MB | ubuntu-user(18572M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:14:46] WS5-3                       Sun Mar  8 21:14:46 2026  570.211.01
+[2026-03-08 21:14:46] [0] NVIDIA GeForce RTX 3090 | 82°C,  61 % | 18890 / 24576 MB | ubuntu-user(18572M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:14:47] WS5-3                       Sun Mar  8 21:14:47 2026  570.211.01
+[2026-03-08 21:14:47] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18866 / 24576 MB | ubuntu-user(18548M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:14:48] WS5-3                       Sun Mar  8 21:14:48 2026  570.211.01
+[2026-03-08 21:14:48] [0] NVIDIA GeForce RTX 3090 | 82°C,  57 % | 18866 / 24576 MB | ubuntu-user(18548M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:14:49] WS5-3                       Sun Mar  8 21:14:49 2026  570.211.01
+[2026-03-08 21:14:49] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18856 / 24576 MB | ubuntu-user(18538M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:14:50] WS5-3                       Sun Mar  8 21:14:50 2026  570.211.01
+[2026-03-08 21:14:50] [0] NVIDIA GeForce RTX 3090 | 82°C,  63 % | 16564 / 24576 MB | ubuntu-user(16246M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:14:51] WS5-3                       Sun Mar  8 21:14:51 2026  570.211.01
+[2026-03-08 21:14:51] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18910 / 24576 MB | ubuntu-user(18592M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:14:52] WS5-3                       Sun Mar  8 21:14:52 2026  570.211.01
+[2026-03-08 21:14:52] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 16477 / 24576 MB | ubuntu-user(16158M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(91M) ubuntu-user(29M)
+[2026-03-08 21:14:53] WS5-3                       Sun Mar  8 21:14:53 2026  570.211.01
+[2026-03-08 21:14:53] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18841 / 24576 MB | ubuntu-user(18522M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(91M) ubuntu-user(29M)
+[2026-03-08 21:14:54] WS5-3                       Sun Mar  8 21:14:54 2026  570.211.01
+[2026-03-08 21:14:54] [0] NVIDIA GeForce RTX 3090 | 82°C,  86 % | 18279 / 24576 MB | ubuntu-user(17960M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(91M) ubuntu-user(29M)
+[2026-03-08 21:14:55] WS5-3                       Sun Mar  8 21:14:55 2026  570.211.01
+[2026-03-08 21:14:55] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20980 / 24576 MB | ubuntu-user(20662M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:14:56] WS5-3                       Sun Mar  8 21:14:56 2026  570.211.01
+[2026-03-08 21:14:56] [0] NVIDIA GeForce RTX 3090 | 81°C,  66 % | 24018 / 24576 MB | ubuntu-user(23606M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:14:57] WS5-3                       Sun Mar  8 21:14:57 2026  570.211.01
+[2026-03-08 21:14:57] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18411 / 24576 MB | ubuntu-user(18092M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(91M) ubuntu-user(29M)
+[2026-03-08 21:14:58] WS5-3                       Sun Mar  8 21:14:58 2026  570.211.01
+[2026-03-08 21:14:58] [0] NVIDIA GeForce RTX 3090 | 83°C,  61 % | 23599 / 24576 MB | ubuntu-user(23280M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(91M) ubuntu-user(29M)
+[2026-03-08 21:14:59] WS5-3                       Sun Mar  8 21:14:59 2026  570.211.01
+[2026-03-08 21:14:59] [0] NVIDIA GeForce RTX 3090 | 84°C, 100 % | 21507 / 24576 MB | ubuntu-user(21188M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(91M) ubuntu-user(29M)
+[2026-03-08 21:15:00] WS5-3                       Sun Mar  8 21:15:00 2026  570.211.01
+[2026-03-08 21:15:00] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 21507 / 24576 MB | ubuntu-user(21188M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:15:01] WS5-3                       Sun Mar  8 21:15:01 2026  570.211.01
+[2026-03-08 21:15:01] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 17983 / 24576 MB | ubuntu-user(17664M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:15:02] WS5-3                       Sun Mar  8 21:15:02 2026  570.211.01
+[2026-03-08 21:15:02] [0] NVIDIA GeForce RTX 3090 | 83°C,  92 % | 18752 / 24576 MB | ubuntu-user(18434M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:15:03] WS5-3                       Sun Mar  8 21:15:03 2026  570.211.01
+[2026-03-08 21:15:03] [0] NVIDIA GeForce RTX 3090 | 80°C, 100 % | 18966 / 24576 MB | ubuntu-user(18648M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:15:04] WS5-3                       Sun Mar  8 21:15:04 2026  570.211.01
+[2026-03-08 21:15:04] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 21880 / 24576 MB | ubuntu-user(21562M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:15:05] WS5-3                       Sun Mar  8 21:15:05 2026  570.211.01
+[2026-03-08 21:15:05] [0] NVIDIA GeForce RTX 3090 | 82°C,  66 % | 23913 / 24576 MB | ubuntu-user(23494M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(91M) ubuntu-user(29M)
+[2026-03-08 21:15:06] WS5-3                       Sun Mar  8 21:15:06 2026  570.211.01
+[2026-03-08 21:15:06] [0] NVIDIA GeForce RTX 3090 | 84°C, 100 % | 19103 / 24576 MB | ubuntu-user(18784M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(91M) ubuntu-user(29M)
+[2026-03-08 21:15:07] WS5-3                       Sun Mar  8 21:15:07 2026  570.211.01
+[2026-03-08 21:15:07] [0] NVIDIA GeForce RTX 3090 | 82°C,  54 % | 21713 / 24576 MB | ubuntu-user(21376M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(109M) ubuntu-user(29M)
+[2026-03-08 21:15:08] WS5-3                       Sun Mar  8 21:15:08 2026  570.211.01
+[2026-03-08 21:15:08] [0] NVIDIA GeForce RTX 3090 | 83°C,  99 % | 20876 / 24576 MB | ubuntu-user(20540M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(108M) ubuntu-user(29M)
+[2026-03-08 21:15:09] WS5-3                       Sun Mar  8 21:15:09 2026  570.211.01
+[2026-03-08 21:15:09] [0] NVIDIA GeForce RTX 3090 | 81°C, 100 % | 20875 / 24576 MB | ubuntu-user(20540M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(107M) ubuntu-user(29M)
+[2026-03-08 21:15:10] WS5-3                       Sun Mar  8 21:15:10 2026  570.211.01
+[2026-03-08 21:15:10] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 16740 / 24576 MB | ubuntu-user(16404M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(108M) ubuntu-user(29M)
+[2026-03-08 21:15:11] WS5-3                       Sun Mar  8 21:15:11 2026  570.211.01
+[2026-03-08 21:15:11] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 19134 / 24576 MB | ubuntu-user(18798M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(108M) ubuntu-user(29M)
+[2026-03-08 21:15:12] WS5-3                       Sun Mar  8 21:15:12 2026  570.211.01
+[2026-03-08 21:15:12] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 17682 / 24576 MB | ubuntu-user(17364M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:15:13] WS5-3                       Sun Mar  8 21:15:13 2026  570.211.01
+[2026-03-08 21:15:13] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20298 / 24576 MB | ubuntu-user(19980M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:15:14] WS5-3                       Sun Mar  8 21:15:14 2026  570.211.01
+[2026-03-08 21:15:14] [0] NVIDIA GeForce RTX 3090 | 82°C,  92 % | 17074 / 24576 MB | ubuntu-user(16756M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:15:15] WS5-3                       Sun Mar  8 21:15:15 2026  570.211.01
+[2026-03-08 21:15:15] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19494 / 24576 MB | ubuntu-user(19176M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:15:16] WS5-3                       Sun Mar  8 21:15:16 2026  570.211.01
+[2026-03-08 21:15:16] [0] NVIDIA GeForce RTX 3090 | 82°C,  86 % | 17024 / 24576 MB | ubuntu-user(16706M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:15:17] WS5-3                       Sun Mar  8 21:15:17 2026  570.211.01
+[2026-03-08 21:15:17] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19422 / 24576 MB | ubuntu-user(19104M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:15:18] WS5-3                       Sun Mar  8 21:15:18 2026  570.211.01
+[2026-03-08 21:15:18] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 16640 / 24576 MB | ubuntu-user(16322M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:15:19] WS5-3                       Sun Mar  8 21:15:19 2026  570.211.01
+[2026-03-08 21:15:19] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19000 / 24576 MB | ubuntu-user(18682M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:15:20] WS5-3                       Sun Mar  8 21:15:20 2026  570.211.01
+[2026-03-08 21:15:20] [0] NVIDIA GeForce RTX 3090 | 84°C, 100 % | 16933 / 24576 MB | ubuntu-user(16614M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:15:21] WS5-3                       Sun Mar  8 21:15:21 2026  570.211.01
+[2026-03-08 21:15:21] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19373 / 24576 MB | ubuntu-user(19054M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:15:22] WS5-3                       Sun Mar  8 21:15:22 2026  570.211.01
+[2026-03-08 21:15:22] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 16920 / 24576 MB | ubuntu-user(16602M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:15:23] WS5-3                       Sun Mar  8 21:15:23 2026  570.211.01
+[2026-03-08 21:15:23] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19350 / 24576 MB | ubuntu-user(19032M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:15:24] WS5-3                       Sun Mar  8 21:15:24 2026  570.211.01
+[2026-03-08 21:15:24] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 16448 / 24576 MB | ubuntu-user(16126M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(94M) ubuntu-user(29M)
+[2026-03-08 21:15:25] WS5-3                       Sun Mar  8 21:15:25 2026  570.211.01
+[2026-03-08 21:15:25] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18778 / 24576 MB | ubuntu-user(18456M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(94M) ubuntu-user(29M)
+[2026-03-08 21:15:26] WS5-3                       Sun Mar  8 21:15:26 2026  570.211.01
+[2026-03-08 21:15:26] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18002 / 24576 MB | ubuntu-user(17680M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(94M) ubuntu-user(29M)
+[2026-03-08 21:15:27] WS5-3                       Sun Mar  8 21:15:27 2026  570.211.01
+[2026-03-08 21:15:27] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18762 / 24576 MB | ubuntu-user(18440M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(94M) ubuntu-user(29M)
+[2026-03-08 21:15:28] WS5-3                       Sun Mar  8 21:15:28 2026  570.211.01
+[2026-03-08 21:15:28] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18228 / 24576 MB | ubuntu-user(17904M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(96M) ubuntu-user(29M)
+[2026-03-08 21:15:29] WS5-3                       Sun Mar  8 21:15:29 2026  570.211.01
+[2026-03-08 21:15:29] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 19013 / 24576 MB | ubuntu-user(18690M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(95M) ubuntu-user(29M)
+[2026-03-08 21:15:30] WS5-3                       Sun Mar  8 21:15:30 2026  570.211.01
+[2026-03-08 21:15:30] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 19376 / 24576 MB | ubuntu-user(19054M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(94M) ubuntu-user(29M)
+[2026-03-08 21:15:31] WS5-3                       Sun Mar  8 21:15:31 2026  570.211.01
+[2026-03-08 21:15:31] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20476 / 24576 MB | ubuntu-user(20154M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(94M) ubuntu-user(29M)
+[2026-03-08 21:15:32] WS5-3                       Sun Mar  8 21:15:32 2026  570.211.01
+[2026-03-08 21:15:32] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 16266 / 24576 MB | ubuntu-user(15944M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(94M) ubuntu-user(29M)
+[2026-03-08 21:15:33] WS5-3                       Sun Mar  8 21:15:33 2026  570.211.01
+[2026-03-08 21:15:33] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18608 / 24576 MB | ubuntu-user(18294M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(86M) ubuntu-user(29M)
+[2026-03-08 21:15:34] WS5-3                       Sun Mar  8 21:15:34 2026  570.211.01
+[2026-03-08 21:15:34] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 17034 / 24576 MB | ubuntu-user(16720M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(86M) ubuntu-user(29M)
+[2026-03-08 21:15:35] WS5-3                       Sun Mar  8 21:15:35 2026  570.211.01
+[2026-03-08 21:15:35] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19222 / 24576 MB | ubuntu-user(18908M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(86M) ubuntu-user(29M)
+[2026-03-08 21:15:36] WS5-3                       Sun Mar  8 21:15:36 2026  570.211.01
+[2026-03-08 21:15:36] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 17902 / 24576 MB | ubuntu-user(17582M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(92M) ubuntu-user(29M)
+[2026-03-08 21:15:37] WS5-3                       Sun Mar  8 21:15:37 2026  570.211.01
+[2026-03-08 21:15:37] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18642 / 24576 MB | ubuntu-user(18322M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(92M) ubuntu-user(29M)
+[2026-03-08 21:15:38] WS5-3                       Sun Mar  8 21:15:38 2026  570.211.01
+[2026-03-08 21:15:38] [0] NVIDIA GeForce RTX 3090 | 83°C,  99 % | 18781 / 24576 MB | ubuntu-user(18462M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(91M) ubuntu-user(29M)
+[2026-03-08 21:15:39] WS5-3                       Sun Mar  8 21:15:39 2026  570.211.01
+[2026-03-08 21:15:39] [0] NVIDIA GeForce RTX 3090 | 82°C,  62 % | 18780 / 24576 MB | ubuntu-user(18462M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:15:40] WS5-3                       Sun Mar  8 21:15:40 2026  570.211.01
+[2026-03-08 21:15:40] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18764 / 24576 MB | ubuntu-user(18446M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(90M) ubuntu-user(29M)
+[2026-03-08 21:15:41] WS5-3                       Sun Mar  8 21:15:41 2026  570.211.01
+[2026-03-08 21:15:41] [0] NVIDIA GeForce RTX 3090 | 82°C,  57 % | 18760 / 24576 MB | ubuntu-user(18446M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(86M) ubuntu-user(29M)
+[2026-03-08 21:15:42] WS5-3                       Sun Mar  8 21:15:42 2026  570.211.01
+[2026-03-08 21:15:42] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18748 / 24576 MB | ubuntu-user(18434M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(86M) ubuntu-user(29M)
+[2026-03-08 21:15:43] WS5-3                       Sun Mar  8 21:15:43 2026  570.211.01
+[2026-03-08 21:15:43] [0] NVIDIA GeForce RTX 3090 | 82°C,  60 % | 23530 / 24576 MB | ubuntu-user(23216M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(86M) ubuntu-user(29M)
+[2026-03-08 21:15:44] WS5-3                       Sun Mar  8 21:15:44 2026  570.211.01
+[2026-03-08 21:15:44] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20264 / 24576 MB | ubuntu-user(19950M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(86M) ubuntu-user(29M)
+[2026-03-08 21:15:45] WS5-3                       Sun Mar  8 21:15:45 2026  570.211.01
+[2026-03-08 21:15:45] [0] NVIDIA GeForce RTX 3090 | 82°C,  63 % | 23112 / 24576 MB | ubuntu-user(22798M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(86M) ubuntu-user(29M)
+[2026-03-08 21:15:46] WS5-3                       Sun Mar  8 21:15:46 2026  570.211.01
+[2026-03-08 21:15:46] [0] NVIDIA GeForce RTX 3090 | 83°C,   0 % | 19284 / 24576 MB | ubuntu-user(18970M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(86M) ubuntu-user(29M)
+[2026-03-08 21:15:47] WS5-3                       Sun Mar  8 21:15:47 2026  570.211.01
+[2026-03-08 21:15:47] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20000 / 24576 MB | ubuntu-user(19686M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(86M) ubuntu-user(29M)
+[2026-03-08 21:15:48] WS5-3                       Sun Mar  8 21:15:48 2026  570.211.01
+[2026-03-08 21:15:48] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 20238 / 24576 MB | ubuntu-user(19916M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(94M) ubuntu-user(29M)
+[2026-03-08 21:15:49] WS5-3                       Sun Mar  8 21:15:49 2026  570.211.01
+[2026-03-08 21:15:49] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20238 / 24576 MB | ubuntu-user(19916M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(94M) ubuntu-user(29M)
+[2026-03-08 21:15:50] WS5-3                       Sun Mar  8 21:15:50 2026  570.211.01
+[2026-03-08 21:15:50] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 17601 / 24576 MB | ubuntu-user(17278M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(95M) ubuntu-user(29M)
+[2026-03-08 21:15:51] WS5-3                       Sun Mar  8 21:15:51 2026  570.211.01
+[2026-03-08 21:15:51] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 19834 / 24576 MB | ubuntu-user(19512M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(94M) ubuntu-user(29M)
+[2026-03-08 21:15:52] WS5-3                       Sun Mar  8 21:15:52 2026  570.211.01
+[2026-03-08 21:15:52] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 16902 / 24576 MB | ubuntu-user(16580M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(94M) ubuntu-user(29M)
+[2026-03-08 21:15:53] WS5-3                       Sun Mar  8 21:15:53 2026  570.211.01
+[2026-03-08 21:15:53] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 19070 / 24576 MB | ubuntu-user(18748M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(94M) ubuntu-user(29M)
+[2026-03-08 21:15:54] WS5-3                       Sun Mar  8 21:15:54 2026  570.211.01
+[2026-03-08 21:15:54] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 17746 / 24576 MB | ubuntu-user(17426M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(92M) ubuntu-user(29M)
+[2026-03-08 21:15:55] WS5-3                       Sun Mar  8 21:15:55 2026  570.211.01
+[2026-03-08 21:15:55] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 20380 / 24576 MB | ubuntu-user(20052M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(100M) ubuntu-user(29M)
+[2026-03-08 21:15:56] WS5-3                       Sun Mar  8 21:15:56 2026  570.211.01
+[2026-03-08 21:15:56] [0] NVIDIA GeForce RTX 3090 | 84°C, 100 % | 16512 / 24576 MB | ubuntu-user(16178M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(106M) ubuntu-user(29M)
+[2026-03-08 21:15:57] WS5-3                       Sun Mar  8 21:15:57 2026  570.211.01
+[2026-03-08 21:15:57] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18813 / 24576 MB | ubuntu-user(18484M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(101M) ubuntu-user(29M)
+[2026-03-08 21:15:58] WS5-3                       Sun Mar  8 21:15:58 2026  570.211.01
+[2026-03-08 21:15:58] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 16653 / 24576 MB | ubuntu-user(16324M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(101M) ubuntu-user(29M)
+[2026-03-08 21:15:59] WS5-3                       Sun Mar  8 21:15:59 2026  570.211.01
+[2026-03-08 21:15:59] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18791 / 24576 MB | ubuntu-user(18462M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(101M) ubuntu-user(29M)
+[2026-03-08 21:16:00] WS5-3                       Sun Mar  8 21:16:00 2026  570.211.01
+[2026-03-08 21:16:00] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 17077 / 24576 MB | ubuntu-user(16742M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(107M) ubuntu-user(29M)
+[2026-03-08 21:16:01] WS5-3                       Sun Mar  8 21:16:01 2026  570.211.01
+[2026-03-08 21:16:01] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19177 / 24576 MB | ubuntu-user(18842M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(107M) ubuntu-user(29M)
+[2026-03-08 21:16:02] WS5-3                       Sun Mar  8 21:16:02 2026  570.211.01
+[2026-03-08 21:16:02] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18053 / 24576 MB | ubuntu-user(17718M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(107M) ubuntu-user(29M)
+[2026-03-08 21:16:03] WS5-3                       Sun Mar  8 21:16:03 2026  570.211.01
+[2026-03-08 21:16:03] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18807 / 24576 MB | ubuntu-user(18474M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(105M) ubuntu-user(29M)
+[2026-03-08 21:16:04] WS5-3                       Sun Mar  8 21:16:04 2026  570.211.01
+[2026-03-08 21:16:04] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18822 / 24576 MB | ubuntu-user(18484M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(110M) ubuntu-user(29M)
+[2026-03-08 21:16:05] WS5-3                       Sun Mar  8 21:16:05 2026  570.211.01
+[2026-03-08 21:16:05] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 21514 / 24576 MB | ubuntu-user(21178M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(108M) ubuntu-user(29M)
+[2026-03-08 21:16:06] WS5-3                       Sun Mar  8 21:16:06 2026  570.211.01
+[2026-03-08 21:16:06] [0] NVIDIA GeForce RTX 3090 | 82°C,  65 % | 23768 / 24576 MB | ubuntu-user(23224M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(104M) ubuntu-user(29M)
+[2026-03-08 21:16:07] WS5-3                       Sun Mar  8 21:16:07 2026  570.211.01
+[2026-03-08 21:16:07] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18826 / 24576 MB | ubuntu-user(18494M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(104M) ubuntu-user(29M)
+[2026-03-08 21:16:08] WS5-3                       Sun Mar  8 21:16:08 2026  570.211.01
+[2026-03-08 21:16:08] [0] NVIDIA GeForce RTX 3090 | 84°C,  93 % | 16466 / 24576 MB | ubuntu-user(16134M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(104M) ubuntu-user(29M)
+[2026-03-08 21:16:09] WS5-3                       Sun Mar  8 21:16:09 2026  570.211.01
+[2026-03-08 21:16:09] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18770 / 24576 MB | ubuntu-user(18440M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(101M) ubuntu-user(29M)
+[2026-03-08 21:16:10] WS5-3                       Sun Mar  8 21:16:10 2026  570.211.01
+[2026-03-08 21:16:10] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 16666 / 24576 MB | ubuntu-user(16336M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(102M) ubuntu-user(29M)
+[2026-03-08 21:16:11] WS5-3                       Sun Mar  8 21:16:11 2026  570.211.01
+[2026-03-08 21:16:11] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18785 / 24576 MB | ubuntu-user(18454M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(103M) ubuntu-user(29M)
+[2026-03-08 21:16:12] WS5-3                       Sun Mar  8 21:16:12 2026  570.211.01
+[2026-03-08 21:16:12] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 16291 / 24576 MB | ubuntu-user(15960M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(103M) ubuntu-user(29M)
+[2026-03-08 21:16:13] WS5-3                       Sun Mar  8 21:16:13 2026  570.211.01
+[2026-03-08 21:16:13] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18231 / 24576 MB | ubuntu-user(17896M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(107M) ubuntu-user(29M)
+[2026-03-08 21:16:14] WS5-3                       Sun Mar  8 21:16:14 2026  570.211.01
+[2026-03-08 21:16:14] [0] NVIDIA GeForce RTX 3090 | 83°C,  99 % | 18831 / 24576 MB | ubuntu-user(18496M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(107M) ubuntu-user(29M)
+[2026-03-08 21:16:15] WS5-3                       Sun Mar  8 21:16:15 2026  570.211.01
+[2026-03-08 21:16:15] [0] NVIDIA GeForce RTX 3090 | 82°C,  97 % | 18829 / 24576 MB | ubuntu-user(18496M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(105M) ubuntu-user(29M)
+[2026-03-08 21:16:16] WS5-3                       Sun Mar  8 21:16:16 2026  570.211.01
+[2026-03-08 21:16:16] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 18800 / 24576 MB | ubuntu-user(18466M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(106M) ubuntu-user(29M)
+[2026-03-08 21:16:17] WS5-3                       Sun Mar  8 21:16:17 2026  570.211.01
+[2026-03-08 21:16:17] [0] NVIDIA GeForce RTX 3090 | 82°C,  56 % | 21229 / 24576 MB | ubuntu-user(20894M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(107M) ubuntu-user(29M)
+[2026-03-08 21:16:18] WS5-3                       Sun Mar  8 21:16:18 2026  570.211.01
+[2026-03-08 21:16:18] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 20154 / 24576 MB | ubuntu-user(19820M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(106M) ubuntu-user(29M)
+[2026-03-08 21:16:19] WS5-3                       Sun Mar  8 21:16:19 2026  570.211.01
+[2026-03-08 21:16:19] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 21469 / 24576 MB | ubuntu-user(21136M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(105M) ubuntu-user(29M)
+[2026-03-08 21:16:20] WS5-3                       Sun Mar  8 21:16:20 2026  570.211.01
+[2026-03-08 21:16:20] [0] NVIDIA GeForce RTX 3090 | 82°C,  84 % | 16338 / 24576 MB | ubuntu-user(16006M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(104M) ubuntu-user(29M)
+[2026-03-08 21:16:21] WS5-3                       Sun Mar  8 21:16:21 2026  570.211.01
+[2026-03-08 21:16:21] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 18726 / 24576 MB | ubuntu-user(18360M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(138M) ubuntu-user(29M)
+[2026-03-08 21:16:22] WS5-3                       Sun Mar  8 21:16:22 2026  570.211.01
+[2026-03-08 21:16:22] [0] NVIDIA GeForce RTX 3090 | 82°C,  55 % | 23726 / 24576 MB | ubuntu-user(23360M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(138M) ubuntu-user(29M)
+[2026-03-08 21:16:23] WS5-3                       Sun Mar  8 21:16:23 2026  570.211.01
+[2026-03-08 21:16:23] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 19632 / 24576 MB | ubuntu-user(19286M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(118M) ubuntu-user(29M)
+[2026-03-08 21:16:24] WS5-3                       Sun Mar  8 21:16:24 2026  570.211.01
+[2026-03-08 21:16:24] [0] NVIDIA GeForce RTX 3090 | 82°C,  59 % | 19631 / 24576 MB | ubuntu-user(19286M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(117M) ubuntu-user(29M)
+[2026-03-08 21:16:25] WS5-3                       Sun Mar  8 21:16:25 2026  570.211.01
+[2026-03-08 21:16:25] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19639 / 24576 MB | ubuntu-user(19294M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(117M) ubuntu-user(29M)
+[2026-03-08 21:16:26] WS5-3                       Sun Mar  8 21:16:26 2026  570.211.01
+[2026-03-08 21:16:26] [0] NVIDIA GeForce RTX 3090 | 82°C,  62 % | 23647 / 24576 MB | ubuntu-user(23302M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(117M) ubuntu-user(29M)
+[2026-03-08 21:16:27] WS5-3                       Sun Mar  8 21:16:27 2026  570.211.01
+[2026-03-08 21:16:27] [0] NVIDIA GeForce RTX 3090 | 83°C, 100 % | 20336 / 24576 MB | ubuntu-user(19998M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(110M) ubuntu-user(29M)
+[2026-03-08 21:16:28] WS5-3                       Sun Mar  8 21:16:28 2026  570.211.01
+[2026-03-08 21:16:28] [0] NVIDIA GeForce RTX 3090 | 82°C,  62 % | 23148 / 24576 MB | ubuntu-user(22958M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(110M) ubuntu-user(29M)
+[2026-03-08 21:16:29] WS5-3                       Sun Mar  8 21:16:29 2026  570.211.01
+[2026-03-08 21:16:29] [0] NVIDIA GeForce RTX 3090 | 82°C,  99 % | 18548 / 24576 MB | ubuntu-user(18218M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(101M) ubuntu-user(29M)
+[2026-03-08 21:16:30] WS5-3                       Sun Mar  8 21:16:30 2026  570.211.01
+[2026-03-08 21:16:30] [0] NVIDIA GeForce RTX 3090 | 82°C,  73 % | 20595 / 24576 MB | ubuntu-user(20258M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(109M) ubuntu-user(29M)
+[2026-03-08 21:16:31] WS5-3                       Sun Mar  8 21:16:31 2026  570.211.01
+[2026-03-08 21:16:31] [0] NVIDIA GeForce RTX 3090 | 83°C,  99 % | 19447 / 24576 MB | ubuntu-user(19110M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(109M) ubuntu-user(29M)
+[2026-03-08 21:16:32] WS5-3                       Sun Mar  8 21:16:32 2026  570.211.01
+[2026-03-08 21:16:32] [0] NVIDIA GeForce RTX 3090 | 81°C,  86 % | 20719 / 24576 MB | ubuntu-user(20382M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(108M) ubuntu-user(29M)
+[2026-03-08 21:16:33] WS5-3                       Sun Mar  8 21:16:33 2026  570.211.01
+[2026-03-08 21:16:33] [0] NVIDIA GeForce RTX 3090 | 83°C,  99 % | 19117 / 24576 MB | ubuntu-user(18780M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(109M) ubuntu-user(29M)
+[2026-03-08 21:16:34] WS5-3                       Sun Mar  8 21:16:34 2026  570.211.01
+[2026-03-08 21:16:34] [0] NVIDIA GeForce RTX 3090 | 83°C,  70 % | 19117 / 24576 MB | ubuntu-user(18780M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(109M) ubuntu-user(29M)
+[2026-03-08 21:16:35] WS5-3                       Sun Mar  8 21:16:35 2026  570.211.01
+[2026-03-08 21:16:35] [0] NVIDIA GeForce RTX 3090 | 82°C, 100 % | 19061 / 24576 MB | ubuntu-user(18724M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(109M) ubuntu-user(29M)
+[2026-03-08 21:16:36] WS5-3                       Sun Mar  8 21:16:36 2026  570.211.01
+[2026-03-08 21:16:36] [0] NVIDIA GeForce RTX 3090 | 82°C,  57 % | 19061 / 24576 MB | ubuntu-user(18724M) ubuntu-user(137M) ubuntu-user(25M) ubuntu-user(109M) ubuntu-user(29M)

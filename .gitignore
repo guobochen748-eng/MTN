@@ -9,7 +9,9 @@ tmp*
 ldm/data/
 data2
 scripts2
-trial*/
+/trial*/checkpoints
+/trial*/run
+/trial*/validation
 .vs/
 
 TOKEN
