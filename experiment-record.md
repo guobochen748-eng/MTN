@@ -204,14 +204,12 @@ update128（`update_extra_interval=128`）补充（重训）：
 - 对最终质量的影响：输出质量低、结论不可用于“已收敛模型”的严谨对比；本实验组按报告口径归为失败案例。
 
 ### 失效案例2
-- 类型：训练中断/不完整（update128 早期尝试曾中断在 56->57；对比材料不具严格可比性）
+- 类型：可视化质量失效（训练已完成但出现明显伪影/不一致）
 - 证据截图文件：`assets/failure_2.png`（待从视频截图补充）
-- 出现位置：
-  - 训练不完整的历史迹象：`trial_perpneg_if_tiger_update128_6000/checkpoints/df_ep0056.pth`
-  - 视频导出结果：`trial_perpneg_if_tiger_update128_6000/results/df_ep0060_rgb.mp4`（以及 depth/normal 视频）
-- 现象描述：若以“未跑满/中断”的训练过程为依据，该组无法提供与 baseline 完全等价的对比样本（训练过程完整性不足）。
-- 可能原因：训练过程不稳定（历史中断/需要重训覆盖）。
-- 对最终质量的影响：在报告中应明确标注该组属于失败案例（过程不完整导致对比不公平）。
+- 出现位置：`trial_perpneg_if_tiger_update128_6000/results/df_ep0060_rgb.mp4`（也可结合 depth/normal：`df_ep0060_depth.mp4`、`df_ep0060_normal.mp4`）
+- 现象描述：训练跑满 60/60 并成功导出视频，但结果中仍可观察到质量问题（例如多视角不一致/纹理伪影/闪烁/形状失真等，需以截图固定证据）。
+- 可能原因：`update_extra_interval=128` 改变了额外状态更新频率，可能导致训练动态与 baseline 不同，从而出现局部收敛不足或渲染不稳定。
+- 对最终质量的影响：虽然“过程完整性”满足，但输出质量不达预期，按失败案例归档，并在报告中与 baseline 成功案例做定性对比。
 
 ## 8. 超参数敏感性记录
 
@@ -230,7 +228,7 @@ update128（`update_extra_interval=128`）补充（重训）：
 | 指标 | 基线 | 调整后 | 观察结论 |
 |---|---|---|---|
 | 视觉质量 | 成功案例：`trial_perpneg_if_tiger_baseline_6000/results/df_ep0060_*.mp4` | 失败案例（update128）：`trial_perpneg_if_tiger_update128_6000/results/df_ep0060_*.mp4`；失败案例（update64）：`trial_perpneg_if_tiger_update64_6000/results/df_ep0011_*.mp4` | baseline 已完整训练并导出 60epoch 的视频结果，可作为“成功案例”。update128/update64 在报告中按“失败案例”口径归档（过程不完整/对比不公平或仅早期 ckpt 结果）。 |
-| 过程完整性 | baseline 60/60 完整训练 + test 导出完成 | update128/update64 作为失败案例标注：对比不严格（历史上存在中断或仅早期 ckpt 导出） | 建议在 LaTeX 报告里将 baseline 列为成功案例；将 update128、update64 作为失败案例，重点分析“训练过程不稳定/未收敛导致的失效表现”。 |
+| 过程完整性 | baseline 60/60 完整训练 + test 导出完成 | update128：训练完成 60/60 + test 导出完成；update64：仅 early ckpt（ep11）导出 | update128 失败原因不在“过程完整性”，而在“输出质量失效”；update64 则属于训练未收敛导致的失败案例。 |
 | 失效证据 | （可从 baseline video 选一帧作为“正常对照”） | failure_1/failure_2 截图待补 | 需要从对应 mp4 截两张图，分别贴到 `assets/failure_1.png`、`assets/failure_2.png`，并在第7节引用。
 
 ## 9. 问题排查记录
