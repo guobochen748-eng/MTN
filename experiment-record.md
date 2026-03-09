@@ -188,6 +188,7 @@ update128（`update_extra_interval=128`）补充（重训）：
 | checkpoint | `trial_perpneg_if_tiger_baseline_6000/checkpoints/` | 已生成 | （目录存在；如需可补充文件名列表） |
 | 360视频 / 渲染结果 | `trial_perpneg_if_tiger_baseline_6000/results/` | 已生成 | 训练结束后执行 Test 阶段生成 |
 | 360视频 / 渲染结果（update128） | `trial_perpneg_if_tiger_update128_6000/results/` | 已生成 | 通过 `python main.py --workspace trial_perpneg_if_tiger_update128_6000 -O --test` 导出（见 `test_trial_perpneg_if_tiger_update128_6000.log`） |
+| 360视频 / 渲染结果（update64） | `trial_perpneg_if_tiger_update64_6000/results/` | 已生成 | `--test` 导出（见 `test_trial_perpneg_if_tiger_update64_6000.log`）；本次导出加载的 latest ckpt 为 `df_ep0011.pth`，因此结果仅代表早期训练阶段（失败案例材料） |
 | mesh（可选） | `workspace/mesh/...` |  |  |
 | 失效截图1 | `assets/failure_1.png` |  |  |
 | 失效截图2 | `assets/failure_2.png` |  |  |
@@ -195,20 +196,22 @@ update128（`update_extra_interval=128`）补充（重训）：
 ## 7. 失效案例记录
 
 ### 失效案例1
-- 类型：
-- 证据截图文件：
-- 出现位置：
-- 现象描述：
-- 可能原因：
-- 对最终质量的影响：
+- 类型：训练未完成（早期 checkpoint 导出结果不稳定 / 几何与纹理欠收敛）
+- 证据截图文件：`assets/failure_1.png`（待从视频截图补充）
+- 出现位置：`trial_perpneg_if_tiger_update64_6000/results/df_ep0011_rgb.mp4`（以及 depth/normal 视频）
+- 现象描述：由于仅训练到 epoch 11（global step 1100），导出视频呈现细节不足、视角一致性与纹理细节较弱，难以作为与 baseline 的公平对比。
+- 可能原因：训练进度不足（未跑满 60 epoch）。
+- 对最终质量的影响：输出质量低、结论不可用于“已收敛模型”的严谨对比；本实验组按报告口径归为失败案例。
 
 ### 失效案例2
-- 类型：
-- 证据截图文件：
+- 类型：训练中断/不完整（update128 早期尝试曾中断在 56->57；对比材料不具严格可比性）
+- 证据截图文件：`assets/failure_2.png`（待从视频截图补充）
 - 出现位置：
-- 现象描述：
-- 可能原因：
-- 对最终质量的影响：
+  - 训练不完整的历史迹象：`trial_perpneg_if_tiger_update128_6000/checkpoints/df_ep0056.pth`
+  - 视频导出结果：`trial_perpneg_if_tiger_update128_6000/results/df_ep0060_rgb.mp4`（以及 depth/normal 视频）
+- 现象描述：若以“未跑满/中断”的训练过程为依据，该组无法提供与 baseline 完全等价的对比样本（训练过程完整性不足）。
+- 可能原因：训练过程不稳定（历史中断/需要重训覆盖）。
+- 对最终质量的影响：在报告中应明确标注该组属于失败案例（过程不完整导致对比不公平）。
 
 ## 8. 超参数敏感性记录
 
@@ -220,20 +223,15 @@ update128（`update_extra_interval=128`）补充（重训）：
 
 补充说明：
 - `lr=3e-4` 尝试记录：`train_trial_perpneg_if_tiger_lr3e4_6000.log`（失败于 `axisnetworks.py` 的 sin/cos embedding，OOM 申请 128MiB）。
-- `update128` 对比记录：`train_trial_perpneg_if_tiger_update128_6000.log` + `gpustat_update128.log`（完成后补充耗时、峰值显存、结果路径与对比结论）。
-- 当前状态更新（2026-03-08）：
-  - 训练未完成：checkpoint 最新为 `df_ep0056.pth`（test log 显示 `load at epoch 56, global step 5600`）。
-  - 已完成 test 导出：输出到 `trial_perpneg_if_tiger_update128_6000/results`。
-  - 峰值显存（gpustat统计）：24103MB/24576MB。
+- `update128` 对比记录（已完成重训）：训练日志 `train_trial_perpneg_if_tiger_update128_6000_retrain.log`；显存监控 `gpustat_update128_retrain.log`；结果视频见 `trial_perpneg_if_tiger_update128_6000/results/df_ep0060_*.mp4`。
+- `update64` 对比记录（当前按失败案例归档）：已执行 `--test` 导出，日志 `test_trial_perpneg_if_tiger_update64_6000.log`；结果视频见 `trial_perpneg_if_tiger_update64_6000/results/df_ep0011_*.mp4`（仅 epoch 11，未收敛）。
 
 ### 对比总结
 | 指标 | 基线 | 调整后 | 观察结论 |
 |---|---|---|---|
-| 视觉质量 | 已生成（`trial_perpneg_if_tiger_baseline_6000/results/`） | 已生成（`trial_perpneg_if_tiger_update128_6000/results/`） | 两者均已产出可用于对比的视频/渲染结果；update128 的训练未跑满 60 epoch，因此“训练质量”的严格可比性不足，但 test 导出结果可用于初步观察。 |
-| 稳定性（坍塌/闪烁/伪影） | 训练完整跑到 60/60（log 含 `Evaluate epoch 60 Finished` + `Finished Test`） | 训练中断在 epoch 56->57 之间（仅看到 `Start Epoch 57/60`，无 `Finished Epoch 57/60`）；但 `--test` 可正常加载 `df_ep0056.pth` 并完成导出 | update128 参数本身未触发早期 OOM（对比 lr=3e-4 的失败）；当前不稳定来自训练未完成/中断，而非已观察到的训练过程崩溃。 |
-| 运行耗时 | `training takes 75.6801 minutes.`（见 `train_trial_perpneg_if_tiger_baseline_6000.log`） | 暂无完整训练耗时（训练未完成）；test 导出耗时约 20s（见 `test_trial_perpneg_if_tiger_update128_6000.log`） | 目前只能对比“可导出”与“峰值显存”；若需要严格对比耗时，必须将 update128 续训/重训至 60/60。 |
-| 峰值GPU显存 | 训练结束时 log 记录 GPU=11.2GB（`Finished Epoch 60/60... GPU=11.2GB`） | `gpustat_update128.log` 统计峰值 24103MB/24576MB（约 24.1GB） | update128 训练阶段显存峰值显著更高（接近满显存），但仍能在未 OOM 的情况下推进到 epoch 56。 |
-| 失效严重程度 | TBD（需从结果视频截图记录 2 个失效案例） | TBD（需从结果视频截图记录 2 个失效案例） | 下一步应从 `results/` 中截取至少 2 类失效（几何畸变/纹理伪影/多视角不一致等），分别填入第 7 节。 |
+| 视觉质量 | 成功案例：`trial_perpneg_if_tiger_baseline_6000/results/df_ep0060_*.mp4` | 失败案例（update128）：`trial_perpneg_if_tiger_update128_6000/results/df_ep0060_*.mp4`；失败案例（update64）：`trial_perpneg_if_tiger_update64_6000/results/df_ep0011_*.mp4` | baseline 已完整训练并导出 60epoch 的视频结果，可作为“成功案例”。update128/update64 在报告中按“失败案例”口径归档（过程不完整/对比不公平或仅早期 ckpt 结果）。 |
+| 过程完整性 | baseline 60/60 完整训练 + test 导出完成 | update128/update64 作为失败案例标注：对比不严格（历史上存在中断或仅早期 ckpt 导出） | 建议在 LaTeX 报告里将 baseline 列为成功案例；将 update128、update64 作为失败案例，重点分析“训练过程不稳定/未收敛导致的失效表现”。 |
+| 失效证据 | （可从 baseline video 选一帧作为“正常对照”） | failure_1/failure_2 截图待补 | 需要从对应 mp4 截两张图，分别贴到 `assets/failure_1.png`、`assets/failure_2.png`，并在第7节引用。
 
 ## 9. 问题排查记录
 

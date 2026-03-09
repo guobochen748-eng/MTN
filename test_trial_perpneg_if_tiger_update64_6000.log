@@ -1,0 +1,81 @@
+/home/ubuntu-user/anaconda3/envs/mtn-py39/lib/python3.9/site-packages/torch/utils/cpp_extension.py:25: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import packaging  # type: ignore[attr-defined]
+Namespace(file=None, text=None, negative='', O=True, O2=False, test=True, six_views=False, eval_interval=10, test_interval=100, workspace='trial_perpneg_if_tiger_update64_6000', seed=3407, image=None, image_config=None, known_view_interval=4, IF=False, guidance=['SD'], guidance_scale=100, save_mesh=False, mcubes_resolution=256, decimate_target=50000.0, dmtet=False, tet_grid_size=128, init_with='', lock_geo=False, perpneg=False, negative_w=-2, front_decay_factor=2, side_decay_factor=10, iters=6000, warm_iters=600, lr=0.001, ckpt='latest', cuda_ray=True, taichi_ray=False, max_steps=1024, num_steps=64, upsample_steps=32, update_extra_interval=16, max_ray_batch=4096, latent_iter_ratio=0.2, albedo_iter_ratio=0, min_ambient_ratio=0.1, textureless_ratio=0.2, jitter_pose=False, jitter_center=0.2, jitter_target=0.2, jitter_up=0.02, uniform_sphere_rate=0, grad_clip=-1, grad_clip_rgb=-1, bg_radius=1.4, density_activation='exp', density_thresh=10, blob_density=5, blob_radius=0.2, backbone='grid', optim='adan', sd_version='2.1', hf_key=None, fp16=True, vram_O=False, w=64, h=64, known_view_scale=1.5, known_view_noise_scale=0.002, dmtet_reso_scale=8, batch_size=1, bound=1, dt_gamma=0, min_near=0.01, radius_range=[3.0, 3.5], theta_range=[45, 105], phi_range=[-180, 180], fovy_range=[10, 30], default_radius=3.2, default_polar=90, default_azimuth=0, default_fovy=20, progressive_view=True, progressive_view_init_ratio=0.2, progressive_level=False, angle_overhead=30, angle_front=60, t_range=[0.02, 0.98], dont_override_stuff=False, lambda_entropy=0.001, lambda_opacity=0, lambda_orient=0.01, lambda_tv=0, lambda_wd=0, lambda_mesh_normal=0.5, lambda_mesh_laplacian=0.5, lambda_guidance=1, lambda_rgb=1000, lambda_mask=500, lambda_normal=0, lambda_depth=10, lambda_2d_normal_smooth=0, lambda_3d_normal_smooth=0, lambda_grid_tv_reg=1e-07, lambda_grid_l2_reg=1e-07, save_guidance=False, save_guidance_interval=10, gui=False, W=800, H=800, radius=5, fovy=20, light_theta=60, light_phi=0, max_spp=1, zero123_config='./pretrained/zero123/sd-objaverse-finetune-c_concat-256.yaml', zero123_ckpt='./pretrained/zero123/105000.ckpt', zero123_grad_scale='angle', dataset_size_train=100, dataset_size_valid=8, dataset_size_test=100, exp_start_iter=0, exp_end_iter=6000, images=None, ref_radii=[], ref_polars=[], ref_azimuths=[], zero123_ws=[], default_zero123_w=1, full_radius_range=[3.0, 3.5], full_theta_range=[45, 105], full_phi_range=[-180, 180], full_fovy_range=[10, 30])
+NeRFNetwork(
+  (encoder): MultiScaleTriplane_Pooling(
+    (vector_1): ParameterList(
+        (0): Parameter containing: [torch.float32 of size 1x32x256x1 (GPU 0)]
+        (1): Parameter containing: [torch.float32 of size 1x32x256x1 (GPU 0)]
+        (2): Parameter containing: [torch.float32 of size 1x32x256x1 (GPU 0)]
+    )
+    (plane_2): ParameterList(
+        (0): Parameter containing: [torch.float32 of size 1x32x128x128 (GPU 0)]
+        (1): Parameter containing: [torch.float32 of size 1x32x128x128 (GPU 0)]
+        (2): Parameter containing: [torch.float32 of size 1x32x128x128 (GPU 0)]
+    )
+    (plane_3): ParameterList(
+        (0): Parameter containing: [torch.float32 of size 1x32x64x64 (GPU 0)]
+        (1): Parameter containing: [torch.float32 of size 1x32x64x64 (GPU 0)]
+        (2): Parameter containing: [torch.float32 of size 1x32x64x64 (GPU 0)]
+    )
+    (plane_4): ParameterList(
+        (0): Parameter containing: [torch.float32 of size 1x32x32x32 (GPU 0)]
+        (1): Parameter containing: [torch.float32 of size 1x32x32x32 (GPU 0)]
+        (2): Parameter containing: [torch.float32 of size 1x32x32x32 (GPU 0)]
+    )
+    (net1): Sequential(
+      (0): FourierFeatureTransform()
+    )
+  )
+  (sigma_net): MLP(
+    (net): ModuleList(
+      (0): Linear(in_features=32, out_features=64, bias=True)
+      (1): Linear(in_features=64, out_features=64, bias=True)
+      (2): Linear(in_features=64, out_features=4, bias=True)
+    )
+  )
+  (encoder_bg): FreqEncoder: input_dim=3 degree=6 output_dim=39
+  (bg_net): MLP(
+    (net): ModuleList(
+      (0): Linear(in_features=39, out_features=32, bias=True)
+      (1): Linear(in_features=32, out_features=3, bias=True)
+    )
+  )
+)
+[INFO] Cmdline: main.py --workspace trial_perpneg_if_tiger_update64_6000 -O --test
+[INFO] opt: Namespace(file=None, text=None, negative='', O=True, O2=False, test=True, six_views=False, 
+eval_interval=10, test_interval=100, workspace='trial_perpneg_if_tiger_update64_6000', seed=3407, image=None, 
+image_config=None, known_view_interval=4, IF=False, guidance=['SD'], guidance_scale=100, save_mesh=False, 
+mcubes_resolution=256, decimate_target=50000.0, dmtet=False, tet_grid_size=128, init_with='', lock_geo=False, 
+perpneg=False, negative_w=-2, front_decay_factor=2, side_decay_factor=10, iters=6000, warm_iters=600, lr=0.001, 
+ckpt='latest', cuda_ray=True, taichi_ray=False, max_steps=1024, num_steps=64, upsample_steps=32, 
+update_extra_interval=16, max_ray_batch=4096, latent_iter_ratio=0.2, albedo_iter_ratio=0, min_ambient_ratio=0.1, 
+textureless_ratio=0.2, jitter_pose=False, jitter_center=0.2, jitter_target=0.2, jitter_up=0.02, 
+uniform_sphere_rate=0, grad_clip=-1, grad_clip_rgb=-1, bg_radius=1.4, density_activation='exp', density_thresh=10, 
+blob_density=5, blob_radius=0.2, backbone='grid', optim='adan', sd_version='2.1', hf_key=None, fp16=True, 
+vram_O=False, w=64, h=64, known_view_scale=1.5, known_view_noise_scale=0.002, dmtet_reso_scale=8, batch_size=1, 
+bound=1, dt_gamma=0, min_near=0.01, radius_range=[3.0, 3.5], theta_range=[45, 105], phi_range=[-180, 180], 
+fovy_range=[10, 30], default_radius=3.2, default_polar=90, default_azimuth=0, default_fovy=20, 
+progressive_view=True, progressive_view_init_ratio=0.2, progressive_level=False, angle_overhead=30, angle_front=60,
+t_range=[0.02, 0.98], dont_override_stuff=False, lambda_entropy=0.001, lambda_opacity=0, lambda_orient=0.01, 
+lambda_tv=0, lambda_wd=0, lambda_mesh_normal=0.5, lambda_mesh_laplacian=0.5, lambda_guidance=1, lambda_rgb=1000, 
+lambda_mask=500, lambda_normal=0, lambda_depth=10, lambda_2d_normal_smooth=0, lambda_3d_normal_smooth=0, 
+lambda_grid_tv_reg=1e-07, lambda_grid_l2_reg=1e-07, save_guidance=False, save_guidance_interval=10, gui=False, 
+W=800, H=800, radius=5, fovy=20, light_theta=60, light_phi=0, max_spp=1, 
+zero123_config='./pretrained/zero123/sd-objaverse-finetune-c_concat-256.yaml', 
+zero123_ckpt='./pretrained/zero123/105000.ckpt', zero123_grad_scale='angle', dataset_size_train=100, 
+dataset_size_valid=8, dataset_size_test=100, exp_start_iter=0, exp_end_iter=6000, images=None, ref_radii=[], 
+ref_polars=[], ref_azimuths=[], zero123_ws=[], default_zero123_w=1, full_radius_range=[3.0, 3.5], 
+full_theta_range=[45, 105], full_phi_range=[-180, 180], full_fovy_range=[10, 30])
+[INFO] Trainer: df | 2026-03-09_11-46-39 | cuda | fp16 | trial_perpneg_if_tiger_update64_6000
+[INFO] #parameters: 2096871
+[INFO] Loading latest checkpoint ...
+[INFO] Latest checkpoint is trial_perpneg_if_tiger_update64_6000/checkpoints/df_ep0011.pth
+[INFO] loaded model.
+[INFO] load at epoch 11, global step 1100
+[WARN] Failed to load optimizer.
+[INFO] loaded scheduler.
+[INFO] loaded scaler.
+==> Start Test, save results to trial_perpneg_if_tiger_update64_6000/results
+  0% 0/100 [00:00<?, ?it/s]  1% 1/100 [00:06<10:21,  6.27s/it]  2% 2/100 [00:06<04:19,  2.65s/it]  3% 3/100 [00:06<02:24,  1.49s/it]  4% 4/100 [00:06<01:30,  1.05it/s]  5% 5/100 [00:06<01:01,  1.55it/s]  6% 6/100 [00:06<00:43,  2.15it/s]  7% 7/100 [00:06<00:32,  2.85it/s]  8% 8/100 [00:07<00:25,  3.64it/s]  9% 9/100 [00:07<00:20,  4.46it/s] 10% 10/100 [00:07<00:17,  5.27it/s] 11% 11/100 [00:07<00:14,  6.01it/s] 12% 12/100 [00:07<00:13,  6.66it/s] 13% 13/100 [00:07<00:12,  7.21it/s] 14% 14/100 [00:07<00:11,  7.57it/s] 15% 15/100 [00:07<00:10,  7.84it/s] 16% 16/100 [00:07<00:10,  8.03it/s] 17% 17/100 [00:08<00:10,  8.17it/s] 18% 18/100 [00:08<00:09,  8.28it/s] 19% 19/100 [00:08<00:09,  8.36it/s] 20% 20/100 [00:08<00:09,  8.41it/s] 21% 21/100 [00:08<00:09,  8.45it/s] 22% 22/100 [00:08<00:09,  8.52it/s] 23% 23/100 [00:08<00:08,  8.62it/s] 24% 24/100 [00:08<00:08,  8.68it/s] 25% 25/100 [00:09<00:08,  8.72it/s] 26% 26/100 [00:09<00:08,  8.68it/s] 27% 27/100 [00:09<00:08,  8.71it/s] 28% 28/100 [00:09<00:08,  8.72it/s] 29% 29/100 [00:09<00:08,  8.76it/s] 30% 30/100 [00:09<00:07,  8.77it/s] 31% 31/100 [00:09<00:07,  8.78it/s] 32% 32/100 [00:09<00:07,  8.78it/s] 33% 33/100 [00:09<00:07,  8.79it/s] 34% 34/100 [00:10<00:07,  8.78it/s] 35% 35/100 [00:10<00:07,  8.79it/s] 36% 36/100 [00:10<00:07,  8.79it/s] 37% 37/100 [00:10<00:07,  8.81it/s] 38% 38/100 [00:10<00:07,  8.81it/s] 39% 39/100 [00:10<00:06,  8.80it/s] 40% 40/100 [00:10<00:06,  8.81it/s] 41% 41/100 [00:10<00:06,  8.80it/s] 42% 42/100 [00:10<00:06,  8.80it/s] 43% 43/100 [00:11<00:06,  8.80it/s] 44% 44/100 [00:11<00:06,  8.81it/s] 45% 45/100 [00:11<00:06,  8.81it/s] 46% 46/100 [00:11<00:06,  8.81it/s] 47% 47/100 [00:11<00:06,  8.82it/s] 48% 48/100 [00:11<00:05,  8.81it/s] 49% 49/100 [00:11<00:05,  8.80it/s] 50% 50/100 [00:11<00:05,  8.82it/s] 51% 51/100 [00:11<00:05,  8.81it/s] 52% 52/100 [00:12<00:05,  8.80it/s] 53% 53/100 [00:12<00:05,  8.80it/s] 54% 54/100 [00:12<00:05,  8.81it/s] 55% 55/100 [00:12<00:05,  8.82it/s] 56% 56/100 [00:12<00:04,  8.83it/s] 57% 57/100 [00:12<00:04,  8.81it/s] 58% 58/100 [00:12<00:04,  8.82it/s] 59% 59/100 [00:12<00:04,  8.80it/s] 60% 60/100 [00:13<00:04,  8.80it/s] 61% 61/100 [00:13<00:04,  8.80it/s] 62% 62/100 [00:13<00:04,  8.80it/s] 63% 63/100 [00:13<00:04,  8.79it/s] 64% 64/100 [00:13<00:04,  8.78it/s] 65% 65/100 [00:13<00:03,  8.77it/s] 66% 66/100 [00:13<00:03,  8.77it/s] 67% 67/100 [00:13<00:03,  8.78it/s] 68% 68/100 [00:13<00:03,  8.78it/s] 69% 69/100 [00:14<00:03,  8.79it/s] 70% 70/100 [00:14<00:03,  8.80it/s] 71% 71/100 [00:14<00:03,  8.80it/s] 72% 72/100 [00:14<00:03,  8.80it/s] 73% 73/100 [00:14<00:03,  8.80it/s] 74% 74/100 [00:14<00:02,  8.80it/s] 75% 75/100 [00:14<00:02,  8.80it/s] 76% 76/100 [00:14<00:02,  8.80it/s] 77% 77/100 [00:14<00:02,  8.80it/s] 78% 78/100 [00:15<00:02,  8.81it/s] 79% 79/100 [00:15<00:02,  8.80it/s] 80% 80/100 [00:15<00:02,  8.81it/s] 81% 81/100 [00:15<00:02,  8.80it/s] 82% 82/100 [00:15<00:02,  8.80it/s] 83% 83/100 [00:15<00:01,  8.79it/s] 84% 84/100 [00:15<00:01,  8.78it/s] 85% 85/100 [00:15<00:01,  8.79it/s] 86% 86/100 [00:15<00:01,  8.79it/s] 87% 87/100 [00:16<00:01,  8.78it/s] 88% 88/100 [00:16<00:01,  8.79it/s] 89% 89/100 [00:16<00:01,  8.77it/s] 90% 90/100 [00:16<00:01,  8.78it/s] 91% 91/100 [00:16<00:01,  8.79it/s] 92% 92/100 [00:16<00:00,  8.77it/s] 93% 93/100 [00:16<00:00,  8.77it/s] 94% 94/100 [00:16<00:00,  8.78it/s] 95% 95/100 [00:16<00:00,  8.78it/s] 96% 96/100 [00:17<00:00,  8.79it/s] 97% 97/100 [00:17<00:00,  8.79it/s] 98% 98/100 [00:17<00:00,  8.79it/s] 99% 99/100 [00:17<00:00,  8.80it/s]100% 100/100 [00:17<00:00,  8.79it/s]==> Finished Test.
+100% 100/100 [00:19<00:00,  5.13it/s]
